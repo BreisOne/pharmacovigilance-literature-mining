@@ -1,0 +1,2601 @@
+TipoTumor,Farmaco,Resultados
+Gastric Adenocarcinoma,PEMBROlizumab,129
+Gastric Adenocarcinoma,OSIMERTINIB,4
+Gastric Adenocarcinoma,NIVOlumab,133
+Gastric Adenocarcinoma,ABEMACICLIB,0
+Gastric Adenocarcinoma,EMTANSINA TRASTUZUMAB,0
+Gastric Adenocarcinoma,PERTuzumab,18
+Gastric Adenocarcinoma,PANItumumab,15
+Gastric Adenocarcinoma,ALECTINIB,5
+Gastric Adenocarcinoma,DABRAFENIB,1
+Gastric Adenocarcinoma,NIRAPARIB,0
+Gastric Adenocarcinoma,TRASTuzumab,463
+Gastric Adenocarcinoma,CABOZANTINIB,7
+Gastric Adenocarcinoma,DERUXTECAN TRASTUZUMAB,27
+Gastric Adenocarcinoma,RAMUCIRUMAB,210
+Gastric Adenocarcinoma,ATEZOlizumab,25
+Gastric Adenocarcinoma,BEVACIZUMAB,86
+Gastric Adenocarcinoma,OLAPARIB,9
+Gastric Adenocarcinoma,TRAMETINIB,5
+Gastric Adenocarcinoma,RIBOCICLIB,1
+Gastric Adenocarcinoma,DURVALUMAB,15
+Gastric Adenocarcinoma,LENVATINIB,7
+Gastric Adenocarcinoma,PALBOCICLIB,3
+Gastric Adenocarcinoma,TRIFLURIDINA TIPIRACILO,16
+Gastric Adenocarcinoma,IPILIMUMAB,17
+Gastric Adenocarcinoma,PAZOPANIB,11
+Gastric Adenocarcinoma,CRIZOTINIB,21
+Gastric Adenocarcinoma,TRABECTEDINA,0
+Gastric Adenocarcinoma,AVELumab,11
+Gastric Adenocarcinoma,LORLATINIB,0
+Gastric Adenocarcinoma,ENZALUTAMIDA,0
+Gastric Adenocarcinoma,AFATINIB,6
+Gastric Adenocarcinoma,CAPECITABINA,435
+Gastric Adenocarcinoma,CETUXIMAB,43
+Gastric Adenocarcinoma,PACLitaxel ALBUMINA,0
+Gastric Adenocarcinoma,AFLIBERCEPT,1
+Gastric Adenocarcinoma,SACITUZUMAB GOVITECAN,1
+Gastric Adenocarcinoma,eriBULina,0
+Gastric Adenocarcinoma,PACLITAXEL,591
+Gastric Adenocarcinoma,CLORURO DE SODIO,0
+Gastric Adenocarcinoma,ENCORAFENIB,0
+Gastric Adenocarcinoma,EVEROLIMUS,22
+Gastric Adenocarcinoma,VINORELBINA,12
+Gastric Adenocarcinoma,PEMETREXED,16
+Gastric Adenocarcinoma,BINIMETINIB,0
+Gastric Adenocarcinoma,CARBOPLATINO,118
+Gastric Adenocarcinoma,ABIRATERONA,0
+Gastric Adenocarcinoma,DENOSUMAB,4
+Gastric Adenocarcinoma,EVEROLIMUS,22
+Gastric Adenocarcinoma,FILGRASTIM,5
+Gastric Adenocarcinoma,FLUOROURACILO,2562
+Gastric Adenocarcinoma,DOXORUBICINA,568
+Gastric Adenocarcinoma,GEMCITABINA,128
+Gastric Adenocarcinoma,REGORAFENIB,8
+Gastric Adenocarcinoma,SELPERCATINIB,0
+Gastric Adenocarcinoma,REMDESIVIR,0
+Gastric Adenocarcinoma,ENOXAPARINA,0
+Gastric Adenocarcinoma,IRINOTECAN,362
+Gastric Adenocarcinoma,NINTEDANIB,6
+Gastric Adenocarcinoma,PLERIXAFOR,1
+Gastric Adenocarcinoma,ALPELISIB,0
+Gastric Adenocarcinoma,RUCAPARIB,1
+Gastric Adenocarcinoma,ALBÚMINA,0
+Gastric Adenocarcinoma,TEMOZOLOMIDA,9
+Gastric Adenocarcinoma,OXALIPLATINO,671
+Gastric Adenocarcinoma,SOTORASIB,0
+Gastrointestinal Stromal Tumor (GIST),PEMBROlizumab,3
+Gastrointestinal Stromal Tumor (GIST),OSIMERTINIB,2
+Gastrointestinal Stromal Tumor (GIST),NIVOlumab,7
+Gastrointestinal Stromal Tumor (GIST),ABEMACICLIB,0
+Gastrointestinal Stromal Tumor (GIST),EMTANSINA TRASTUZUMAB,0
+Gastrointestinal Stromal Tumor (GIST),PERTuzumab,2
+Gastrointestinal Stromal Tumor (GIST),PANItumumab,1
+Gastrointestinal Stromal Tumor (GIST),ALECTINIB,0
+Gastrointestinal Stromal Tumor (GIST),DABRAFENIB,4
+Gastrointestinal Stromal Tumor (GIST),NIRAPARIB,0
+Gastrointestinal Stromal Tumor (GIST),TRASTuzumab,24
+Gastrointestinal Stromal Tumor (GIST),CABOZANTINIB,15
+Gastrointestinal Stromal Tumor (GIST),DERUXTECAN TRASTUZUMAB,0
+Gastrointestinal Stromal Tumor (GIST),RAMUCIRUMAB,0
+Gastrointestinal Stromal Tumor (GIST),ATEZOlizumab,0
+Gastrointestinal Stromal Tumor (GIST),BEVACIZUMAB,29
+Gastrointestinal Stromal Tumor (GIST),OLAPARIB,0
+Gastrointestinal Stromal Tumor (GIST),TRAMETINIB,4
+Gastrointestinal Stromal Tumor (GIST),RIBOCICLIB,0
+Gastrointestinal Stromal Tumor (GIST),DURVALUMAB,0
+Gastrointestinal Stromal Tumor (GIST),LENVATINIB,4
+Gastrointestinal Stromal Tumor (GIST),PALBOCICLIB,4
+Gastrointestinal Stromal Tumor (GIST),TRIFLURIDINA TIPIRACILO,0
+Gastrointestinal Stromal Tumor (GIST),IPILIMUMAB,9
+Gastrointestinal Stromal Tumor (GIST),PAZOPANIB,36
+Gastrointestinal Stromal Tumor (GIST),CRIZOTINIB,10
+Gastrointestinal Stromal Tumor (GIST),TRABECTEDINA,12
+Gastrointestinal Stromal Tumor (GIST),AVELumab,0
+Gastrointestinal Stromal Tumor (GIST),LORLATINIB,0
+Gastrointestinal Stromal Tumor (GIST),ENZALUTAMIDA,0
+Gastrointestinal Stromal Tumor (GIST),AFATINIB,3
+Gastrointestinal Stromal Tumor (GIST),CAPECITABINA,4
+Gastrointestinal Stromal Tumor (GIST),CETUXIMAB,10
+Gastrointestinal Stromal Tumor (GIST),PACLitaxel ALBUMINA,0
+Gastrointestinal Stromal Tumor (GIST),AFLIBERCEPT,0
+Gastrointestinal Stromal Tumor (GIST),SACITUZUMAB GOVITECAN,0
+Gastrointestinal Stromal Tumor (GIST),eriBULina,0
+Gastrointestinal Stromal Tumor (GIST),PACLITAXEL,14
+Gastrointestinal Stromal Tumor (GIST),CLORURO DE SODIO,0
+Gastrointestinal Stromal Tumor (GIST),ENCORAFENIB,0
+Gastrointestinal Stromal Tumor (GIST),EVEROLIMUS,20
+Gastrointestinal Stromal Tumor (GIST),VINORELBINA,2
+Gastrointestinal Stromal Tumor (GIST),PEMETREXED,2
+Gastrointestinal Stromal Tumor (GIST),BINIMETINIB,6
+Gastrointestinal Stromal Tumor (GIST),CARBOPLATINO,5
+Gastrointestinal Stromal Tumor (GIST),ABIRATERONA,0
+Gastrointestinal Stromal Tumor (GIST),DENOSUMAB,3
+Gastrointestinal Stromal Tumor (GIST),EVEROLIMUS,20
+Gastrointestinal Stromal Tumor (GIST),FILGRASTIM,0
+Gastrointestinal Stromal Tumor (GIST),FLUOROURACILO,20
+Gastrointestinal Stromal Tumor (GIST),DOXORUBICINA,61
+Gastrointestinal Stromal Tumor (GIST),GEMCITABINA,34
+Gastrointestinal Stromal Tumor (GIST),REGORAFENIB,247
+Gastrointestinal Stromal Tumor (GIST),SELPERCATINIB,1
+Gastrointestinal Stromal Tumor (GIST),REMDESIVIR,0
+Gastrointestinal Stromal Tumor (GIST),ENOXAPARINA,0
+Gastrointestinal Stromal Tumor (GIST),IRINOTECAN,8
+Gastrointestinal Stromal Tumor (GIST),NINTEDANIB,3
+Gastrointestinal Stromal Tumor (GIST),PLERIXAFOR,0
+Gastrointestinal Stromal Tumor (GIST),ALPELISIB,3
+Gastrointestinal Stromal Tumor (GIST),RUCAPARIB,0
+Gastrointestinal Stromal Tumor (GIST),ALBÚMINA,0
+Gastrointestinal Stromal Tumor (GIST),TEMOZOLOMIDA,11
+Gastrointestinal Stromal Tumor (GIST),OXALIPLATINO,6
+Gastrointestinal Stromal Tumor (GIST),SOTORASIB,0
+Colorectal Adenocarcinoma,PEMBROlizumab,62
+Colorectal Adenocarcinoma,OSIMERTINIB,4
+Colorectal Adenocarcinoma,NIVOlumab,31
+Colorectal Adenocarcinoma,ABEMACICLIB,1
+Colorectal Adenocarcinoma,EMTANSINA TRASTUZUMAB,0
+Colorectal Adenocarcinoma,PERTuzumab,2
+Colorectal Adenocarcinoma,PANItumumab,102
+Colorectal Adenocarcinoma,ALECTINIB,3
+Colorectal Adenocarcinoma,DABRAFENIB,7
+Colorectal Adenocarcinoma,NIRAPARIB,1
+Colorectal Adenocarcinoma,TRASTuzumab,37
+Colorectal Adenocarcinoma,CABOZANTINIB,7
+Colorectal Adenocarcinoma,DERUXTECAN TRASTUZUMAB,1
+Colorectal Adenocarcinoma,RAMUCIRUMAB,11
+Colorectal Adenocarcinoma,ATEZOlizumab,9
+Colorectal Adenocarcinoma,BEVACIZUMAB,386
+Colorectal Adenocarcinoma,OLAPARIB,5
+Colorectal Adenocarcinoma,TRAMETINIB,11
+Colorectal Adenocarcinoma,RIBOCICLIB,1
+Colorectal Adenocarcinoma,DURVALUMAB,8
+Colorectal Adenocarcinoma,LENVATINIB,5
+Colorectal Adenocarcinoma,PALBOCICLIB,0
+Colorectal Adenocarcinoma,TRIFLURIDINA TIPIRACILO,31
+Colorectal Adenocarcinoma,IPILIMUMAB,13
+Colorectal Adenocarcinoma,PAZOPANIB,5
+Colorectal Adenocarcinoma,CRIZOTINIB,9
+Colorectal Adenocarcinoma,TRABECTEDINA,0
+Colorectal Adenocarcinoma,AVELumab,3
+Colorectal Adenocarcinoma,LORLATINIB,0
+Colorectal Adenocarcinoma,ENZALUTAMIDA,0
+Colorectal Adenocarcinoma,AFATINIB,6
+Colorectal Adenocarcinoma,CAPECITABINA,363
+Colorectal Adenocarcinoma,CETUXIMAB,296
+Colorectal Adenocarcinoma,PACLitaxel ALBUMINA,0
+Colorectal Adenocarcinoma,AFLIBERCEPT,14
+Colorectal Adenocarcinoma,SACITUZUMAB GOVITECAN,2
+Colorectal Adenocarcinoma,eriBULina,0
+Colorectal Adenocarcinoma,PACLITAXEL,81
+Colorectal Adenocarcinoma,CLORURO DE SODIO,0
+Colorectal Adenocarcinoma,ENCORAFENIB,3
+Colorectal Adenocarcinoma,EVEROLIMUS,13
+Colorectal Adenocarcinoma,VINORELBINA,5
+Colorectal Adenocarcinoma,PEMETREXED,18
+Colorectal Adenocarcinoma,BINIMETINIB,2
+Colorectal Adenocarcinoma,CARBOPLATINO,52
+Colorectal Adenocarcinoma,ABIRATERONA,0
+Colorectal Adenocarcinoma,DENOSUMAB,1
+Colorectal Adenocarcinoma,EVEROLIMUS,13
+Colorectal Adenocarcinoma,FILGRASTIM,3
+Colorectal Adenocarcinoma,FLUOROURACILO,1937
+Colorectal Adenocarcinoma,DOXORUBICINA,203
+Colorectal Adenocarcinoma,GEMCITABINA,79
+Colorectal Adenocarcinoma,REGORAFENIB,56
+Colorectal Adenocarcinoma,SELPERCATINIB,3
+Colorectal Adenocarcinoma,REMDESIVIR,0
+Colorectal Adenocarcinoma,ENOXAPARINA,0
+Colorectal Adenocarcinoma,IRINOTECAN,569
+Colorectal Adenocarcinoma,NINTEDANIB,10
+Colorectal Adenocarcinoma,PLERIXAFOR,2
+Colorectal Adenocarcinoma,ALPELISIB,0
+Colorectal Adenocarcinoma,RUCAPARIB,0
+Colorectal Adenocarcinoma,ALBÚMINA,0
+Colorectal Adenocarcinoma,TEMOZOLOMIDA,9
+Colorectal Adenocarcinoma,OXALIPLATINO,834
+Colorectal Adenocarcinoma,SOTORASIB,7
+Pancreatic Adenocarcinoma,PEMBROlizumab,82
+Pancreatic Adenocarcinoma,OSIMERTINIB,4
+Pancreatic Adenocarcinoma,NIVOlumab,79
+Pancreatic Adenocarcinoma,ABEMACICLIB,4
+Pancreatic Adenocarcinoma,EMTANSINA TRASTUZUMAB,0
+Pancreatic Adenocarcinoma,PERTuzumab,6
+Pancreatic Adenocarcinoma,PANItumumab,12
+Pancreatic Adenocarcinoma,ALECTINIB,6
+Pancreatic Adenocarcinoma,DABRAFENIB,8
+Pancreatic Adenocarcinoma,NIRAPARIB,4
+Pancreatic Adenocarcinoma,TRASTuzumab,50
+Pancreatic Adenocarcinoma,CABOZANTINIB,20
+Pancreatic Adenocarcinoma,DERUXTECAN TRASTUZUMAB,1
+Pancreatic Adenocarcinoma,RAMUCIRUMAB,22
+Pancreatic Adenocarcinoma,ATEZOlizumab,39
+Pancreatic Adenocarcinoma,BEVACIZUMAB,144
+Pancreatic Adenocarcinoma,OLAPARIB,85
+Pancreatic Adenocarcinoma,TRAMETINIB,67
+Pancreatic Adenocarcinoma,RIBOCICLIB,1
+Pancreatic Adenocarcinoma,DURVALUMAB,15
+Pancreatic Adenocarcinoma,LENVATINIB,88
+Pancreatic Adenocarcinoma,PALBOCICLIB,18
+Pancreatic Adenocarcinoma,TRIFLURIDINA TIPIRACILO,1
+Pancreatic Adenocarcinoma,IPILIMUMAB,24
+Pancreatic Adenocarcinoma,PAZOPANIB,16
+Pancreatic Adenocarcinoma,CRIZOTINIB,17
+Pancreatic Adenocarcinoma,TRABECTEDINA,5
+Pancreatic Adenocarcinoma,AVELumab,4
+Pancreatic Adenocarcinoma,LORLATINIB,4
+Pancreatic Adenocarcinoma,ENZALUTAMIDA,0
+Pancreatic Adenocarcinoma,AFATINIB,16
+Pancreatic Adenocarcinoma,CAPECITABINA,333
+Pancreatic Adenocarcinoma,CETUXIMAB,95
+Pancreatic Adenocarcinoma,PACLitaxel ALBUMINA,0
+Pancreatic Adenocarcinoma,AFLIBERCEPT,3
+Pancreatic Adenocarcinoma,SACITUZUMAB GOVITECAN,2
+Pancreatic Adenocarcinoma,eriBULina,0
+Pancreatic Adenocarcinoma,PACLITAXEL,973
+Pancreatic Adenocarcinoma,CLORURO DE SODIO,0
+Pancreatic Adenocarcinoma,ENCORAFENIB,1
+Pancreatic Adenocarcinoma,EVEROLIMUS,87
+Pancreatic Adenocarcinoma,VINORELBINA,10
+Pancreatic Adenocarcinoma,PEMETREXED,13
+Pancreatic Adenocarcinoma,BINIMETINIB,2
+Pancreatic Adenocarcinoma,CARBOPLATINO,98
+Pancreatic Adenocarcinoma,ABIRATERONA,0
+Pancreatic Adenocarcinoma,DENOSUMAB,2
+Pancreatic Adenocarcinoma,EVEROLIMUS,87
+Pancreatic Adenocarcinoma,FILGRASTIM,6
+Pancreatic Adenocarcinoma,FLUOROURACILO,2178
+Pancreatic Adenocarcinoma,DOXORUBICINA,371
+Pancreatic Adenocarcinoma,GEMCITABINA,3920
+Pancreatic Adenocarcinoma,REGORAFENIB,21
+Pancreatic Adenocarcinoma,SELPERCATINIB,4
+Pancreatic Adenocarcinoma,REMDESIVIR,0
+Pancreatic Adenocarcinoma,ENOXAPARINA,0
+Pancreatic Adenocarcinoma,IRINOTECAN,745
+Pancreatic Adenocarcinoma,NINTEDANIB,10
+Pancreatic Adenocarcinoma,PLERIXAFOR,8
+Pancreatic Adenocarcinoma,ALPELISIB,3
+Pancreatic Adenocarcinoma,RUCAPARIB,6
+Pancreatic Adenocarcinoma,ALBÚMINA,0
+Pancreatic Adenocarcinoma,TEMOZOLOMIDA,35
+Pancreatic Adenocarcinoma,OXALIPLATINO,795
+Pancreatic Adenocarcinoma,SOTORASIB,16
+Esophageal Squamous Cell Carcinoma,PEMBROlizumab,90
+Esophageal Squamous Cell Carcinoma,OSIMERTINIB,0
+Esophageal Squamous Cell Carcinoma,NIVOlumab,109
+Esophageal Squamous Cell Carcinoma,ABEMACICLIB,0
+Esophageal Squamous Cell Carcinoma,EMTANSINA TRASTUZUMAB,0
+Esophageal Squamous Cell Carcinoma,PERTuzumab,2
+Esophageal Squamous Cell Carcinoma,PANItumumab,8
+Esophageal Squamous Cell Carcinoma,ALECTINIB,0
+Esophageal Squamous Cell Carcinoma,DABRAFENIB,0
+Esophageal Squamous Cell Carcinoma,NIRAPARIB,3
+Esophageal Squamous Cell Carcinoma,TRASTuzumab,33
+Esophageal Squamous Cell Carcinoma,CABOZANTINIB,1
+Esophageal Squamous Cell Carcinoma,DERUXTECAN TRASTUZUMAB,1
+Esophageal Squamous Cell Carcinoma,RAMUCIRUMAB,7
+Esophageal Squamous Cell Carcinoma,ATEZOlizumab,4
+Esophageal Squamous Cell Carcinoma,BEVACIZUMAB,16
+Esophageal Squamous Cell Carcinoma,OLAPARIB,7
+Esophageal Squamous Cell Carcinoma,TRAMETINIB,3
+Esophageal Squamous Cell Carcinoma,RIBOCICLIB,1
+Esophageal Squamous Cell Carcinoma,DURVALUMAB,7
+Esophageal Squamous Cell Carcinoma,LENVATINIB,1
+Esophageal Squamous Cell Carcinoma,PALBOCICLIB,6
+Esophageal Squamous Cell Carcinoma,TRIFLURIDINA TIPIRACILO,3
+Esophageal Squamous Cell Carcinoma,IPILIMUMAB,22
+Esophageal Squamous Cell Carcinoma,PAZOPANIB,0
+Esophageal Squamous Cell Carcinoma,CRIZOTINIB,3
+Esophageal Squamous Cell Carcinoma,TRABECTEDINA,0
+Esophageal Squamous Cell Carcinoma,AVELumab,1
+Esophageal Squamous Cell Carcinoma,LORLATINIB,0
+Esophageal Squamous Cell Carcinoma,ENZALUTAMIDA,0
+Esophageal Squamous Cell Carcinoma,AFATINIB,9
+Esophageal Squamous Cell Carcinoma,CAPECITABINA,52
+Esophageal Squamous Cell Carcinoma,CETUXIMAB,67
+Esophageal Squamous Cell Carcinoma,PACLitaxel ALBUMINA,0
+Esophageal Squamous Cell Carcinoma,AFLIBERCEPT,0
+Esophageal Squamous Cell Carcinoma,SACITUZUMAB GOVITECAN,0
+Esophageal Squamous Cell Carcinoma,eriBULina,0
+Esophageal Squamous Cell Carcinoma,PACLITAXEL,478
+Esophageal Squamous Cell Carcinoma,CLORURO DE SODIO,0
+Esophageal Squamous Cell Carcinoma,ENCORAFENIB,0
+Esophageal Squamous Cell Carcinoma,EVEROLIMUS,7
+Esophageal Squamous Cell Carcinoma,VINORELBINA,29
+Esophageal Squamous Cell Carcinoma,PEMETREXED,8
+Esophageal Squamous Cell Carcinoma,BINIMETINIB,0
+Esophageal Squamous Cell Carcinoma,CARBOPLATINO,192
+Esophageal Squamous Cell Carcinoma,ABIRATERONA,0
+Esophageal Squamous Cell Carcinoma,DENOSUMAB,0
+Esophageal Squamous Cell Carcinoma,EVEROLIMUS,7
+Esophageal Squamous Cell Carcinoma,FILGRASTIM,7
+Esophageal Squamous Cell Carcinoma,FLUOROURACILO,1623
+Esophageal Squamous Cell Carcinoma,DOXORUBICINA,114
+Esophageal Squamous Cell Carcinoma,GEMCITABINA,30
+Esophageal Squamous Cell Carcinoma,REGORAFENIB,0
+Esophageal Squamous Cell Carcinoma,SELPERCATINIB,0
+Esophageal Squamous Cell Carcinoma,REMDESIVIR,0
+Esophageal Squamous Cell Carcinoma,ENOXAPARINA,0
+Esophageal Squamous Cell Carcinoma,IRINOTECAN,86
+Esophageal Squamous Cell Carcinoma,NINTEDANIB,0
+Esophageal Squamous Cell Carcinoma,PLERIXAFOR,0
+Esophageal Squamous Cell Carcinoma,ALPELISIB,2
+Esophageal Squamous Cell Carcinoma,RUCAPARIB,1
+Esophageal Squamous Cell Carcinoma,ALBÚMINA,0
+Esophageal Squamous Cell Carcinoma,TEMOZOLOMIDA,4
+Esophageal Squamous Cell Carcinoma,OXALIPLATINO,66
+Esophageal Squamous Cell Carcinoma,SOTORASIB,0
+Esophageal Adenocarcinoma,PEMBROlizumab,96
+Esophageal Adenocarcinoma,OSIMERTINIB,1
+Esophageal Adenocarcinoma,NIVOlumab,85
+Esophageal Adenocarcinoma,ABEMACICLIB,1
+Esophageal Adenocarcinoma,EMTANSINA TRASTUZUMAB,0
+Esophageal Adenocarcinoma,PERTuzumab,13
+Esophageal Adenocarcinoma,PANItumumab,15
+Esophageal Adenocarcinoma,ALECTINIB,2
+Esophageal Adenocarcinoma,DABRAFENIB,0
+Esophageal Adenocarcinoma,NIRAPARIB,0
+Esophageal Adenocarcinoma,TRASTuzumab,209
+Esophageal Adenocarcinoma,CABOZANTINIB,4
+Esophageal Adenocarcinoma,DERUXTECAN TRASTUZUMAB,12
+Esophageal Adenocarcinoma,RAMUCIRUMAB,89
+Esophageal Adenocarcinoma,ATEZOlizumab,26
+Esophageal Adenocarcinoma,BEVACIZUMAB,61
+Esophageal Adenocarcinoma,OLAPARIB,1
+Esophageal Adenocarcinoma,TRAMETINIB,2
+Esophageal Adenocarcinoma,RIBOCICLIB,0
+Esophageal Adenocarcinoma,DURVALUMAB,15
+Esophageal Adenocarcinoma,LENVATINIB,5
+Esophageal Adenocarcinoma,PALBOCICLIB,4
+Esophageal Adenocarcinoma,TRIFLURIDINA TIPIRACILO,5
+Esophageal Adenocarcinoma,IPILIMUMAB,19
+Esophageal Adenocarcinoma,PAZOPANIB,2
+Esophageal Adenocarcinoma,CRIZOTINIB,10
+Esophageal Adenocarcinoma,TRABECTEDINA,0
+Esophageal Adenocarcinoma,AVELumab,7
+Esophageal Adenocarcinoma,LORLATINIB,0
+Esophageal Adenocarcinoma,ENZALUTAMIDA,0
+Esophageal Adenocarcinoma,AFATINIB,4
+Esophageal Adenocarcinoma,CAPECITABINA,184
+Esophageal Adenocarcinoma,CETUXIMAB,51
+Esophageal Adenocarcinoma,PACLitaxel ALBUMINA,0
+Esophageal Adenocarcinoma,AFLIBERCEPT,1
+Esophageal Adenocarcinoma,SACITUZUMAB GOVITECAN,2
+Esophageal Adenocarcinoma,eriBULina,0
+Esophageal Adenocarcinoma,PACLITAXEL,343
+Esophageal Adenocarcinoma,CLORURO DE SODIO,0
+Esophageal Adenocarcinoma,ENCORAFENIB,0
+Esophageal Adenocarcinoma,EVEROLIMUS,11
+Esophageal Adenocarcinoma,VINORELBINA,19
+Esophageal Adenocarcinoma,PEMETREXED,13
+Esophageal Adenocarcinoma,BINIMETINIB,0
+Esophageal Adenocarcinoma,CARBOPLATINO,181
+Esophageal Adenocarcinoma,ABIRATERONA,0
+Esophageal Adenocarcinoma,DENOSUMAB,0
+Esophageal Adenocarcinoma,EVEROLIMUS,11
+Esophageal Adenocarcinoma,FILGRASTIM,2
+Esophageal Adenocarcinoma,FLUOROURACILO,981
+Esophageal Adenocarcinoma,DOXORUBICINA,169
+Esophageal Adenocarcinoma,GEMCITABINA,46
+Esophageal Adenocarcinoma,REGORAFENIB,5
+Esophageal Adenocarcinoma,SELPERCATINIB,0
+Esophageal Adenocarcinoma,REMDESIVIR,0
+Esophageal Adenocarcinoma,ENOXAPARINA,0
+Esophageal Adenocarcinoma,IRINOTECAN,143
+Esophageal Adenocarcinoma,NINTEDANIB,1
+Esophageal Adenocarcinoma,PLERIXAFOR,0
+Esophageal Adenocarcinoma,ALPELISIB,0
+Esophageal Adenocarcinoma,RUCAPARIB,1
+Esophageal Adenocarcinoma,ALBÚMINA,0
+Esophageal Adenocarcinoma,TEMOZOLOMIDA,4
+Esophageal Adenocarcinoma,OXALIPLATINO,261
+Esophageal Adenocarcinoma,SOTORASIB,0
+Small Intestine Adenocarcinoma,PEMBROlizumab,7
+Small Intestine Adenocarcinoma,OSIMERTINIB,0
+Small Intestine Adenocarcinoma,NIVOlumab,3
+Small Intestine Adenocarcinoma,ABEMACICLIB,0
+Small Intestine Adenocarcinoma,EMTANSINA TRASTUZUMAB,0
+Small Intestine Adenocarcinoma,PERTuzumab,1
+Small Intestine Adenocarcinoma,PANItumumab,2
+Small Intestine Adenocarcinoma,ALECTINIB,1
+Small Intestine Adenocarcinoma,DABRAFENIB,2
+Small Intestine Adenocarcinoma,NIRAPARIB,0
+Small Intestine Adenocarcinoma,TRASTuzumab,3
+Small Intestine Adenocarcinoma,CABOZANTINIB,1
+Small Intestine Adenocarcinoma,DERUXTECAN TRASTUZUMAB,1
+Small Intestine Adenocarcinoma,RAMUCIRUMAB,1
+Small Intestine Adenocarcinoma,ATEZOlizumab,1
+Small Intestine Adenocarcinoma,BEVACIZUMAB,15
+Small Intestine Adenocarcinoma,OLAPARIB,0
+Small Intestine Adenocarcinoma,TRAMETINIB,3
+Small Intestine Adenocarcinoma,RIBOCICLIB,0
+Small Intestine Adenocarcinoma,DURVALUMAB,0
+Small Intestine Adenocarcinoma,LENVATINIB,1
+Small Intestine Adenocarcinoma,PALBOCICLIB,0
+Small Intestine Adenocarcinoma,TRIFLURIDINA TIPIRACILO,0
+Small Intestine Adenocarcinoma,IPILIMUMAB,1
+Small Intestine Adenocarcinoma,PAZOPANIB,0
+Small Intestine Adenocarcinoma,CRIZOTINIB,1
+Small Intestine Adenocarcinoma,TRABECTEDINA,0
+Small Intestine Adenocarcinoma,AVELumab,1
+Small Intestine Adenocarcinoma,LORLATINIB,0
+Small Intestine Adenocarcinoma,ENZALUTAMIDA,0
+Small Intestine Adenocarcinoma,AFATINIB,0
+Small Intestine Adenocarcinoma,CAPECITABINA,40
+Small Intestine Adenocarcinoma,CETUXIMAB,8
+Small Intestine Adenocarcinoma,PACLitaxel ALBUMINA,0
+Small Intestine Adenocarcinoma,AFLIBERCEPT,1
+Small Intestine Adenocarcinoma,SACITUZUMAB GOVITECAN,0
+Small Intestine Adenocarcinoma,eriBULina,0
+Small Intestine Adenocarcinoma,PACLITAXEL,20
+Small Intestine Adenocarcinoma,CLORURO DE SODIO,0
+Small Intestine Adenocarcinoma,ENCORAFENIB,0
+Small Intestine Adenocarcinoma,EVEROLIMUS,5
+Small Intestine Adenocarcinoma,VINORELBINA,0
+Small Intestine Adenocarcinoma,PEMETREXED,1
+Small Intestine Adenocarcinoma,BINIMETINIB,0
+Small Intestine Adenocarcinoma,CARBOPLATINO,10
+Small Intestine Adenocarcinoma,ABIRATERONA,0
+Small Intestine Adenocarcinoma,DENOSUMAB,0
+Small Intestine Adenocarcinoma,EVEROLIMUS,5
+Small Intestine Adenocarcinoma,FILGRASTIM,0
+Small Intestine Adenocarcinoma,FLUOROURACILO,166
+Small Intestine Adenocarcinoma,DOXORUBICINA,34
+Small Intestine Adenocarcinoma,GEMCITABINA,54
+Small Intestine Adenocarcinoma,REGORAFENIB,3
+Small Intestine Adenocarcinoma,SELPERCATINIB,2
+Small Intestine Adenocarcinoma,REMDESIVIR,0
+Small Intestine Adenocarcinoma,ENOXAPARINA,0
+Small Intestine Adenocarcinoma,IRINOTECAN,38
+Small Intestine Adenocarcinoma,NINTEDANIB,1
+Small Intestine Adenocarcinoma,PLERIXAFOR,0
+Small Intestine Adenocarcinoma,ALPELISIB,0
+Small Intestine Adenocarcinoma,RUCAPARIB,0
+Small Intestine Adenocarcinoma,ALBÚMINA,0
+Small Intestine Adenocarcinoma,TEMOZOLOMIDA,1
+Small Intestine Adenocarcinoma,OXALIPLATINO,47
+Small Intestine Adenocarcinoma,SOTORASIB,0
+Gastrointestinal Carcinoid Tumor,PEMBROlizumab,0
+Gastrointestinal Carcinoid Tumor,OSIMERTINIB,0
+Gastrointestinal Carcinoid Tumor,NIVOlumab,2
+Gastrointestinal Carcinoid Tumor,ABEMACICLIB,0
+Gastrointestinal Carcinoid Tumor,EMTANSINA TRASTUZUMAB,0
+Gastrointestinal Carcinoid Tumor,PERTuzumab,0
+Gastrointestinal Carcinoid Tumor,PANItumumab,0
+Gastrointestinal Carcinoid Tumor,ALECTINIB,0
+Gastrointestinal Carcinoid Tumor,DABRAFENIB,0
+Gastrointestinal Carcinoid Tumor,NIRAPARIB,0
+Gastrointestinal Carcinoid Tumor,TRASTuzumab,0
+Gastrointestinal Carcinoid Tumor,CABOZANTINIB,1
+Gastrointestinal Carcinoid Tumor,DERUXTECAN TRASTUZUMAB,0
+Gastrointestinal Carcinoid Tumor,RAMUCIRUMAB,0
+Gastrointestinal Carcinoid Tumor,ATEZOlizumab,0
+Gastrointestinal Carcinoid Tumor,BEVACIZUMAB,9
+Gastrointestinal Carcinoid Tumor,OLAPARIB,0
+Gastrointestinal Carcinoid Tumor,TRAMETINIB,0
+Gastrointestinal Carcinoid Tumor,RIBOCICLIB,0
+Gastrointestinal Carcinoid Tumor,DURVALUMAB,1
+Gastrointestinal Carcinoid Tumor,LENVATINIB,0
+Gastrointestinal Carcinoid Tumor,PALBOCICLIB,0
+Gastrointestinal Carcinoid Tumor,TRIFLURIDINA TIPIRACILO,0
+Gastrointestinal Carcinoid Tumor,IPILIMUMAB,2
+Gastrointestinal Carcinoid Tumor,PAZOPANIB,1
+Gastrointestinal Carcinoid Tumor,CRIZOTINIB,0
+Gastrointestinal Carcinoid Tumor,TRABECTEDINA,0
+Gastrointestinal Carcinoid Tumor,AVELumab,0
+Gastrointestinal Carcinoid Tumor,LORLATINIB,0
+Gastrointestinal Carcinoid Tumor,ENZALUTAMIDA,0
+Gastrointestinal Carcinoid Tumor,AFATINIB,0
+Gastrointestinal Carcinoid Tumor,CAPECITABINA,10
+Gastrointestinal Carcinoid Tumor,CETUXIMAB,0
+Gastrointestinal Carcinoid Tumor,PACLitaxel ALBUMINA,0
+Gastrointestinal Carcinoid Tumor,AFLIBERCEPT,0
+Gastrointestinal Carcinoid Tumor,SACITUZUMAB GOVITECAN,0
+Gastrointestinal Carcinoid Tumor,eriBULina,0
+Gastrointestinal Carcinoid Tumor,PACLITAXEL,2
+Gastrointestinal Carcinoid Tumor,CLORURO DE SODIO,0
+Gastrointestinal Carcinoid Tumor,ENCORAFENIB,0
+Gastrointestinal Carcinoid Tumor,EVEROLIMUS,35
+Gastrointestinal Carcinoid Tumor,VINORELBINA,0
+Gastrointestinal Carcinoid Tumor,PEMETREXED,0
+Gastrointestinal Carcinoid Tumor,BINIMETINIB,0
+Gastrointestinal Carcinoid Tumor,CARBOPLATINO,4
+Gastrointestinal Carcinoid Tumor,ABIRATERONA,0
+Gastrointestinal Carcinoid Tumor,DENOSUMAB,0
+Gastrointestinal Carcinoid Tumor,EVEROLIMUS,35
+Gastrointestinal Carcinoid Tumor,FILGRASTIM,0
+Gastrointestinal Carcinoid Tumor,FLUOROURACILO,40
+Gastrointestinal Carcinoid Tumor,DOXORUBICINA,17
+Gastrointestinal Carcinoid Tumor,GEMCITABINA,0
+Gastrointestinal Carcinoid Tumor,REGORAFENIB,0
+Gastrointestinal Carcinoid Tumor,SELPERCATINIB,0
+Gastrointestinal Carcinoid Tumor,REMDESIVIR,0
+Gastrointestinal Carcinoid Tumor,ENOXAPARINA,0
+Gastrointestinal Carcinoid Tumor,IRINOTECAN,2
+Gastrointestinal Carcinoid Tumor,NINTEDANIB,0
+Gastrointestinal Carcinoid Tumor,PLERIXAFOR,0
+Gastrointestinal Carcinoid Tumor,ALPELISIB,0
+Gastrointestinal Carcinoid Tumor,RUCAPARIB,0
+Gastrointestinal Carcinoid Tumor,ALBÚMINA,0
+Gastrointestinal Carcinoid Tumor,TEMOZOLOMIDA,12
+Gastrointestinal Carcinoid Tumor,OXALIPLATINO,8
+Gastrointestinal Carcinoid Tumor,SOTORASIB,0
+Ampullary Adenocarcinoma,PEMBROlizumab,2
+Ampullary Adenocarcinoma,OSIMERTINIB,0
+Ampullary Adenocarcinoma,NIVOlumab,2
+Ampullary Adenocarcinoma,ABEMACICLIB,0
+Ampullary Adenocarcinoma,EMTANSINA TRASTUZUMAB,0
+Ampullary Adenocarcinoma,PERTuzumab,2
+Ampullary Adenocarcinoma,PANItumumab,1
+Ampullary Adenocarcinoma,ALECTINIB,0
+Ampullary Adenocarcinoma,DABRAFENIB,0
+Ampullary Adenocarcinoma,NIRAPARIB,0
+Ampullary Adenocarcinoma,TRASTuzumab,2
+Ampullary Adenocarcinoma,CABOZANTINIB,0
+Ampullary Adenocarcinoma,DERUXTECAN TRASTUZUMAB,1
+Ampullary Adenocarcinoma,RAMUCIRUMAB,0
+Ampullary Adenocarcinoma,ATEZOlizumab,0
+Ampullary Adenocarcinoma,BEVACIZUMAB,3
+Ampullary Adenocarcinoma,OLAPARIB,0
+Ampullary Adenocarcinoma,TRAMETINIB,0
+Ampullary Adenocarcinoma,RIBOCICLIB,0
+Ampullary Adenocarcinoma,DURVALUMAB,0
+Ampullary Adenocarcinoma,LENVATINIB,0
+Ampullary Adenocarcinoma,PALBOCICLIB,0
+Ampullary Adenocarcinoma,TRIFLURIDINA TIPIRACILO,1
+Ampullary Adenocarcinoma,IPILIMUMAB,1
+Ampullary Adenocarcinoma,PAZOPANIB,0
+Ampullary Adenocarcinoma,CRIZOTINIB,0
+Ampullary Adenocarcinoma,TRABECTEDINA,0
+Ampullary Adenocarcinoma,AVELumab,1
+Ampullary Adenocarcinoma,LORLATINIB,0
+Ampullary Adenocarcinoma,ENZALUTAMIDA,0
+Ampullary Adenocarcinoma,AFATINIB,1
+Ampullary Adenocarcinoma,CAPECITABINA,17
+Ampullary Adenocarcinoma,CETUXIMAB,1
+Ampullary Adenocarcinoma,PACLitaxel ALBUMINA,0
+Ampullary Adenocarcinoma,AFLIBERCEPT,0
+Ampullary Adenocarcinoma,SACITUZUMAB GOVITECAN,0
+Ampullary Adenocarcinoma,eriBULina,0
+Ampullary Adenocarcinoma,PACLITAXEL,3
+Ampullary Adenocarcinoma,CLORURO DE SODIO,0
+Ampullary Adenocarcinoma,ENCORAFENIB,0
+Ampullary Adenocarcinoma,EVEROLIMUS,0
+Ampullary Adenocarcinoma,VINORELBINA,0
+Ampullary Adenocarcinoma,PEMETREXED,0
+Ampullary Adenocarcinoma,BINIMETINIB,0
+Ampullary Adenocarcinoma,CARBOPLATINO,3
+Ampullary Adenocarcinoma,ABIRATERONA,0
+Ampullary Adenocarcinoma,DENOSUMAB,0
+Ampullary Adenocarcinoma,EVEROLIMUS,0
+Ampullary Adenocarcinoma,FILGRASTIM,0
+Ampullary Adenocarcinoma,FLUOROURACILO,34
+Ampullary Adenocarcinoma,DOXORUBICINA,2
+Ampullary Adenocarcinoma,GEMCITABINA,40
+Ampullary Adenocarcinoma,REGORAFENIB,0
+Ampullary Adenocarcinoma,SELPERCATINIB,0
+Ampullary Adenocarcinoma,REMDESIVIR,0
+Ampullary Adenocarcinoma,ENOXAPARINA,0
+Ampullary Adenocarcinoma,IRINOTECAN,7
+Ampullary Adenocarcinoma,NINTEDANIB,0
+Ampullary Adenocarcinoma,PLERIXAFOR,0
+Ampullary Adenocarcinoma,ALPELISIB,0
+Ampullary Adenocarcinoma,RUCAPARIB,0
+Ampullary Adenocarcinoma,ALBÚMINA,0
+Ampullary Adenocarcinoma,TEMOZOLOMIDA,0
+Ampullary Adenocarcinoma,OXALIPLATINO,14
+Ampullary Adenocarcinoma,SOTORASIB,0
+Duodenal Adenocarcinoma,PEMBROlizumab,16
+Duodenal Adenocarcinoma,OSIMERTINIB,0
+Duodenal Adenocarcinoma,NIVOlumab,7
+Duodenal Adenocarcinoma,ABEMACICLIB,0
+Duodenal Adenocarcinoma,EMTANSINA TRASTUZUMAB,0
+Duodenal Adenocarcinoma,PERTuzumab,1
+Duodenal Adenocarcinoma,PANItumumab,2
+Duodenal Adenocarcinoma,ALECTINIB,0
+Duodenal Adenocarcinoma,DABRAFENIB,1
+Duodenal Adenocarcinoma,NIRAPARIB,0
+Duodenal Adenocarcinoma,TRASTuzumab,20
+Duodenal Adenocarcinoma,CABOZANTINIB,0
+Duodenal Adenocarcinoma,DERUXTECAN TRASTUZUMAB,1
+Duodenal Adenocarcinoma,RAMUCIRUMAB,1
+Duodenal Adenocarcinoma,ATEZOlizumab,2
+Duodenal Adenocarcinoma,BEVACIZUMAB,17
+Duodenal Adenocarcinoma,OLAPARIB,0
+Duodenal Adenocarcinoma,TRAMETINIB,3
+Duodenal Adenocarcinoma,RIBOCICLIB,0
+Duodenal Adenocarcinoma,DURVALUMAB,0
+Duodenal Adenocarcinoma,LENVATINIB,2
+Duodenal Adenocarcinoma,PALBOCICLIB,1
+Duodenal Adenocarcinoma,TRIFLURIDINA TIPIRACILO,0
+Duodenal Adenocarcinoma,IPILIMUMAB,5
+Duodenal Adenocarcinoma,PAZOPANIB,2
+Duodenal Adenocarcinoma,CRIZOTINIB,0
+Duodenal Adenocarcinoma,TRABECTEDINA,0
+Duodenal Adenocarcinoma,AVELumab,1
+Duodenal Adenocarcinoma,LORLATINIB,0
+Duodenal Adenocarcinoma,ENZALUTAMIDA,0
+Duodenal Adenocarcinoma,AFATINIB,1
+Duodenal Adenocarcinoma,CAPECITABINA,45
+Duodenal Adenocarcinoma,CETUXIMAB,6
+Duodenal Adenocarcinoma,PACLitaxel ALBUMINA,0
+Duodenal Adenocarcinoma,AFLIBERCEPT,0
+Duodenal Adenocarcinoma,SACITUZUMAB GOVITECAN,0
+Duodenal Adenocarcinoma,eriBULina,0
+Duodenal Adenocarcinoma,PACLITAXEL,24
+Duodenal Adenocarcinoma,CLORURO DE SODIO,0
+Duodenal Adenocarcinoma,ENCORAFENIB,0
+Duodenal Adenocarcinoma,EVEROLIMUS,2
+Duodenal Adenocarcinoma,VINORELBINA,0
+Duodenal Adenocarcinoma,PEMETREXED,0
+Duodenal Adenocarcinoma,BINIMETINIB,0
+Duodenal Adenocarcinoma,CARBOPLATINO,9
+Duodenal Adenocarcinoma,ABIRATERONA,0
+Duodenal Adenocarcinoma,DENOSUMAB,0
+Duodenal Adenocarcinoma,EVEROLIMUS,2
+Duodenal Adenocarcinoma,FILGRASTIM,0
+Duodenal Adenocarcinoma,FLUOROURACILO,187
+Duodenal Adenocarcinoma,DOXORUBICINA,28
+Duodenal Adenocarcinoma,GEMCITABINA,96
+Duodenal Adenocarcinoma,REGORAFENIB,1
+Duodenal Adenocarcinoma,SELPERCATINIB,0
+Duodenal Adenocarcinoma,REMDESIVIR,0
+Duodenal Adenocarcinoma,ENOXAPARINA,0
+Duodenal Adenocarcinoma,IRINOTECAN,27
+Duodenal Adenocarcinoma,NINTEDANIB,0
+Duodenal Adenocarcinoma,PLERIXAFOR,0
+Duodenal Adenocarcinoma,ALPELISIB,0
+Duodenal Adenocarcinoma,RUCAPARIB,0
+Duodenal Adenocarcinoma,ALBÚMINA,0
+Duodenal Adenocarcinoma,TEMOZOLOMIDA,2
+Duodenal Adenocarcinoma,OXALIPLATINO,48
+Duodenal Adenocarcinoma,SOTORASIB,0
+Rectal Adenocarcinoma,PEMBROlizumab,9
+Rectal Adenocarcinoma,OSIMERTINIB,0
+Rectal Adenocarcinoma,NIVOlumab,11
+Rectal Adenocarcinoma,ABEMACICLIB,0
+Rectal Adenocarcinoma,EMTANSINA TRASTUZUMAB,0
+Rectal Adenocarcinoma,PERTuzumab,1
+Rectal Adenocarcinoma,PANItumumab,31
+Rectal Adenocarcinoma,ALECTINIB,1
+Rectal Adenocarcinoma,DABRAFENIB,2
+Rectal Adenocarcinoma,NIRAPARIB,0
+Rectal Adenocarcinoma,TRASTuzumab,3
+Rectal Adenocarcinoma,CABOZANTINIB,0
+Rectal Adenocarcinoma,DERUXTECAN TRASTUZUMAB,0
+Rectal Adenocarcinoma,RAMUCIRUMAB,2
+Rectal Adenocarcinoma,ATEZOlizumab,1
+Rectal Adenocarcinoma,BEVACIZUMAB,139
+Rectal Adenocarcinoma,OLAPARIB,1
+Rectal Adenocarcinoma,TRAMETINIB,2
+Rectal Adenocarcinoma,RIBOCICLIB,0
+Rectal Adenocarcinoma,DURVALUMAB,1
+Rectal Adenocarcinoma,LENVATINIB,1
+Rectal Adenocarcinoma,PALBOCICLIB,0
+Rectal Adenocarcinoma,TRIFLURIDINA TIPIRACILO,3
+Rectal Adenocarcinoma,IPILIMUMAB,3
+Rectal Adenocarcinoma,PAZOPANIB,2
+Rectal Adenocarcinoma,CRIZOTINIB,1
+Rectal Adenocarcinoma,TRABECTEDINA,0
+Rectal Adenocarcinoma,AVELumab,2
+Rectal Adenocarcinoma,LORLATINIB,0
+Rectal Adenocarcinoma,ENZALUTAMIDA,0
+Rectal Adenocarcinoma,AFATINIB,1
+Rectal Adenocarcinoma,CAPECITABINA,365
+Rectal Adenocarcinoma,CETUXIMAB,63
+Rectal Adenocarcinoma,PACLitaxel ALBUMINA,0
+Rectal Adenocarcinoma,AFLIBERCEPT,4
+Rectal Adenocarcinoma,SACITUZUMAB GOVITECAN,0
+Rectal Adenocarcinoma,eriBULina,0
+Rectal Adenocarcinoma,PACLITAXEL,22
+Rectal Adenocarcinoma,CLORURO DE SODIO,0
+Rectal Adenocarcinoma,ENCORAFENIB,0
+Rectal Adenocarcinoma,EVEROLIMUS,0
+Rectal Adenocarcinoma,VINORELBINA,1
+Rectal Adenocarcinoma,PEMETREXED,6
+Rectal Adenocarcinoma,BINIMETINIB,0
+Rectal Adenocarcinoma,CARBOPLATINO,31
+Rectal Adenocarcinoma,ABIRATERONA,0
+Rectal Adenocarcinoma,DENOSUMAB,1
+Rectal Adenocarcinoma,EVEROLIMUS,0
+Rectal Adenocarcinoma,FILGRASTIM,0
+Rectal Adenocarcinoma,FLUOROURACILO,1362
+Rectal Adenocarcinoma,DOXORUBICINA,53
+Rectal Adenocarcinoma,GEMCITABINA,14
+Rectal Adenocarcinoma,REGORAFENIB,10
+Rectal Adenocarcinoma,SELPERCATINIB,0
+Rectal Adenocarcinoma,REMDESIVIR,0
+Rectal Adenocarcinoma,ENOXAPARINA,0
+Rectal Adenocarcinoma,IRINOTECAN,151
+Rectal Adenocarcinoma,NINTEDANIB,0
+Rectal Adenocarcinoma,PLERIXAFOR,0
+Rectal Adenocarcinoma,ALPELISIB,0
+Rectal Adenocarcinoma,RUCAPARIB,0
+Rectal Adenocarcinoma,ALBÚMINA,0
+Rectal Adenocarcinoma,TEMOZOLOMIDA,1
+Rectal Adenocarcinoma,OXALIPLATINO,350
+Rectal Adenocarcinoma,SOTORASIB,0
+Gastric Lymphoma,PEMBROlizumab,0
+Gastric Lymphoma,OSIMERTINIB,0
+Gastric Lymphoma,NIVOlumab,0
+Gastric Lymphoma,ABEMACICLIB,0
+Gastric Lymphoma,EMTANSINA TRASTUZUMAB,0
+Gastric Lymphoma,PERTuzumab,0
+Gastric Lymphoma,PANItumumab,0
+Gastric Lymphoma,ALECTINIB,0
+Gastric Lymphoma,DABRAFENIB,0
+Gastric Lymphoma,NIRAPARIB,0
+Gastric Lymphoma,TRASTuzumab,0
+Gastric Lymphoma,CABOZANTINIB,0
+Gastric Lymphoma,DERUXTECAN TRASTUZUMAB,0
+Gastric Lymphoma,RAMUCIRUMAB,0
+Gastric Lymphoma,ATEZOlizumab,0
+Gastric Lymphoma,BEVACIZUMAB,0
+Gastric Lymphoma,OLAPARIB,0
+Gastric Lymphoma,TRAMETINIB,0
+Gastric Lymphoma,RIBOCICLIB,0
+Gastric Lymphoma,DURVALUMAB,0
+Gastric Lymphoma,LENVATINIB,0
+Gastric Lymphoma,PALBOCICLIB,0
+Gastric Lymphoma,TRIFLURIDINA TIPIRACILO,0
+Gastric Lymphoma,IPILIMUMAB,0
+Gastric Lymphoma,PAZOPANIB,0
+Gastric Lymphoma,CRIZOTINIB,0
+Gastric Lymphoma,TRABECTEDINA,0
+Gastric Lymphoma,AVELumab,0
+Gastric Lymphoma,LORLATINIB,0
+Gastric Lymphoma,ENZALUTAMIDA,0
+Gastric Lymphoma,AFATINIB,0
+Gastric Lymphoma,CAPECITABINA,1
+Gastric Lymphoma,CETUXIMAB,0
+Gastric Lymphoma,PACLitaxel ALBUMINA,0
+Gastric Lymphoma,AFLIBERCEPT,0
+Gastric Lymphoma,SACITUZUMAB GOVITECAN,0
+Gastric Lymphoma,eriBULina,0
+Gastric Lymphoma,PACLITAXEL,1
+Gastric Lymphoma,CLORURO DE SODIO,0
+Gastric Lymphoma,ENCORAFENIB,0
+Gastric Lymphoma,EVEROLIMUS,0
+Gastric Lymphoma,VINORELBINA,0
+Gastric Lymphoma,PEMETREXED,0
+Gastric Lymphoma,BINIMETINIB,0
+Gastric Lymphoma,CARBOPLATINO,1
+Gastric Lymphoma,ABIRATERONA,0
+Gastric Lymphoma,DENOSUMAB,0
+Gastric Lymphoma,EVEROLIMUS,0
+Gastric Lymphoma,FILGRASTIM,0
+Gastric Lymphoma,FLUOROURACILO,1
+Gastric Lymphoma,DOXORUBICINA,66
+Gastric Lymphoma,GEMCITABINA,0
+Gastric Lymphoma,REGORAFENIB,0
+Gastric Lymphoma,SELPERCATINIB,0
+Gastric Lymphoma,REMDESIVIR,0
+Gastric Lymphoma,ENOXAPARINA,0
+Gastric Lymphoma,IRINOTECAN,1
+Gastric Lymphoma,NINTEDANIB,0
+Gastric Lymphoma,PLERIXAFOR,0
+Gastric Lymphoma,ALPELISIB,0
+Gastric Lymphoma,RUCAPARIB,0
+Gastric Lymphoma,ALBÚMINA,0
+Gastric Lymphoma,TEMOZOLOMIDA,0
+Gastric Lymphoma,OXALIPLATINO,1
+Gastric Lymphoma,SOTORASIB,0
+Colorectal Carcinoid Tumor,PEMBROlizumab,2
+Colorectal Carcinoid Tumor,OSIMERTINIB,0
+Colorectal Carcinoid Tumor,NIVOlumab,0
+Colorectal Carcinoid Tumor,ABEMACICLIB,0
+Colorectal Carcinoid Tumor,EMTANSINA TRASTUZUMAB,0
+Colorectal Carcinoid Tumor,PERTuzumab,0
+Colorectal Carcinoid Tumor,PANItumumab,0
+Colorectal Carcinoid Tumor,ALECTINIB,0
+Colorectal Carcinoid Tumor,DABRAFENIB,0
+Colorectal Carcinoid Tumor,NIRAPARIB,0
+Colorectal Carcinoid Tumor,TRASTuzumab,0
+Colorectal Carcinoid Tumor,CABOZANTINIB,1
+Colorectal Carcinoid Tumor,DERUXTECAN TRASTUZUMAB,0
+Colorectal Carcinoid Tumor,RAMUCIRUMAB,0
+Colorectal Carcinoid Tumor,ATEZOlizumab,0
+Colorectal Carcinoid Tumor,BEVACIZUMAB,1
+Colorectal Carcinoid Tumor,OLAPARIB,0
+Colorectal Carcinoid Tumor,TRAMETINIB,0
+Colorectal Carcinoid Tumor,RIBOCICLIB,0
+Colorectal Carcinoid Tumor,DURVALUMAB,0
+Colorectal Carcinoid Tumor,LENVATINIB,0
+Colorectal Carcinoid Tumor,PALBOCICLIB,0
+Colorectal Carcinoid Tumor,TRIFLURIDINA TIPIRACILO,0
+Colorectal Carcinoid Tumor,IPILIMUMAB,0
+Colorectal Carcinoid Tumor,PAZOPANIB,0
+Colorectal Carcinoid Tumor,CRIZOTINIB,0
+Colorectal Carcinoid Tumor,TRABECTEDINA,0
+Colorectal Carcinoid Tumor,AVELumab,0
+Colorectal Carcinoid Tumor,LORLATINIB,0
+Colorectal Carcinoid Tumor,ENZALUTAMIDA,0
+Colorectal Carcinoid Tumor,AFATINIB,0
+Colorectal Carcinoid Tumor,CAPECITABINA,1
+Colorectal Carcinoid Tumor,CETUXIMAB,1
+Colorectal Carcinoid Tumor,PACLitaxel ALBUMINA,0
+Colorectal Carcinoid Tumor,AFLIBERCEPT,0
+Colorectal Carcinoid Tumor,SACITUZUMAB GOVITECAN,0
+Colorectal Carcinoid Tumor,eriBULina,0
+Colorectal Carcinoid Tumor,PACLITAXEL,1
+Colorectal Carcinoid Tumor,CLORURO DE SODIO,0
+Colorectal Carcinoid Tumor,ENCORAFENIB,0
+Colorectal Carcinoid Tumor,EVEROLIMUS,1
+Colorectal Carcinoid Tumor,VINORELBINA,0
+Colorectal Carcinoid Tumor,PEMETREXED,0
+Colorectal Carcinoid Tumor,BINIMETINIB,0
+Colorectal Carcinoid Tumor,CARBOPLATINO,0
+Colorectal Carcinoid Tumor,ABIRATERONA,0
+Colorectal Carcinoid Tumor,DENOSUMAB,0
+Colorectal Carcinoid Tumor,EVEROLIMUS,1
+Colorectal Carcinoid Tumor,FILGRASTIM,0
+Colorectal Carcinoid Tumor,FLUOROURACILO,11
+Colorectal Carcinoid Tumor,DOXORUBICINA,3
+Colorectal Carcinoid Tumor,GEMCITABINA,0
+Colorectal Carcinoid Tumor,REGORAFENIB,1
+Colorectal Carcinoid Tumor,SELPERCATINIB,1
+Colorectal Carcinoid Tumor,REMDESIVIR,0
+Colorectal Carcinoid Tumor,ENOXAPARINA,0
+Colorectal Carcinoid Tumor,IRINOTECAN,1
+Colorectal Carcinoid Tumor,NINTEDANIB,0
+Colorectal Carcinoid Tumor,PLERIXAFOR,0
+Colorectal Carcinoid Tumor,ALPELISIB,0
+Colorectal Carcinoid Tumor,RUCAPARIB,0
+Colorectal Carcinoid Tumor,ALBÚMINA,0
+Colorectal Carcinoid Tumor,TEMOZOLOMIDA,1
+Colorectal Carcinoid Tumor,OXALIPLATINO,1
+Colorectal Carcinoid Tumor,SOTORASIB,0
+Gastrointestinal Carcinoma In Situ,PEMBROlizumab,1
+Gastrointestinal Carcinoma In Situ,OSIMERTINIB,0
+Gastrointestinal Carcinoma In Situ,NIVOlumab,1
+Gastrointestinal Carcinoma In Situ,ABEMACICLIB,0
+Gastrointestinal Carcinoma In Situ,EMTANSINA TRASTUZUMAB,0
+Gastrointestinal Carcinoma In Situ,PERTuzumab,0
+Gastrointestinal Carcinoma In Situ,PANItumumab,0
+Gastrointestinal Carcinoma In Situ,ALECTINIB,1
+Gastrointestinal Carcinoma In Situ,DABRAFENIB,0
+Gastrointestinal Carcinoma In Situ,NIRAPARIB,0
+Gastrointestinal Carcinoma In Situ,TRASTuzumab,5
+Gastrointestinal Carcinoma In Situ,CABOZANTINIB,1
+Gastrointestinal Carcinoma In Situ,DERUXTECAN TRASTUZUMAB,1
+Gastrointestinal Carcinoma In Situ,RAMUCIRUMAB,0
+Gastrointestinal Carcinoma In Situ,ATEZOlizumab,2
+Gastrointestinal Carcinoma In Situ,BEVACIZUMAB,2
+Gastrointestinal Carcinoma In Situ,OLAPARIB,0
+Gastrointestinal Carcinoma In Situ,TRAMETINIB,0
+Gastrointestinal Carcinoma In Situ,RIBOCICLIB,0
+Gastrointestinal Carcinoma In Situ,DURVALUMAB,0
+Gastrointestinal Carcinoma In Situ,LENVATINIB,0
+Gastrointestinal Carcinoma In Situ,PALBOCICLIB,0
+Gastrointestinal Carcinoma In Situ,TRIFLURIDINA TIPIRACILO,0
+Gastrointestinal Carcinoma In Situ,IPILIMUMAB,0
+Gastrointestinal Carcinoma In Situ,PAZOPANIB,0
+Gastrointestinal Carcinoma In Situ,CRIZOTINIB,7
+Gastrointestinal Carcinoma In Situ,TRABECTEDINA,0
+Gastrointestinal Carcinoma In Situ,AVELumab,1
+Gastrointestinal Carcinoma In Situ,LORLATINIB,0
+Gastrointestinal Carcinoma In Situ,ENZALUTAMIDA,0
+Gastrointestinal Carcinoma In Situ,AFATINIB,1
+Gastrointestinal Carcinoma In Situ,CAPECITABINA,0
+Gastrointestinal Carcinoma In Situ,CETUXIMAB,1
+Gastrointestinal Carcinoma In Situ,PACLitaxel ALBUMINA,0
+Gastrointestinal Carcinoma In Situ,AFLIBERCEPT,0
+Gastrointestinal Carcinoma In Situ,SACITUZUMAB GOVITECAN,0
+Gastrointestinal Carcinoma In Situ,eriBULina,0
+Gastrointestinal Carcinoma In Situ,PACLITAXEL,2
+Gastrointestinal Carcinoma In Situ,CLORURO DE SODIO,0
+Gastrointestinal Carcinoma In Situ,ENCORAFENIB,0
+Gastrointestinal Carcinoma In Situ,EVEROLIMUS,0
+Gastrointestinal Carcinoma In Situ,VINORELBINA,0
+Gastrointestinal Carcinoma In Situ,PEMETREXED,0
+Gastrointestinal Carcinoma In Situ,BINIMETINIB,0
+Gastrointestinal Carcinoma In Situ,CARBOPLATINO,0
+Gastrointestinal Carcinoma In Situ,ABIRATERONA,0
+Gastrointestinal Carcinoma In Situ,DENOSUMAB,0
+Gastrointestinal Carcinoma In Situ,EVEROLIMUS,0
+Gastrointestinal Carcinoma In Situ,FILGRASTIM,0
+Gastrointestinal Carcinoma In Situ,FLUOROURACILO,9
+Gastrointestinal Carcinoma In Situ,DOXORUBICINA,5
+Gastrointestinal Carcinoma In Situ,GEMCITABINA,4
+Gastrointestinal Carcinoma In Situ,REGORAFENIB,0
+Gastrointestinal Carcinoma In Situ,SELPERCATINIB,1
+Gastrointestinal Carcinoma In Situ,REMDESIVIR,0
+Gastrointestinal Carcinoma In Situ,ENOXAPARINA,0
+Gastrointestinal Carcinoma In Situ,IRINOTECAN,0
+Gastrointestinal Carcinoma In Situ,NINTEDANIB,0
+Gastrointestinal Carcinoma In Situ,PLERIXAFOR,0
+Gastrointestinal Carcinoma In Situ,ALPELISIB,0
+Gastrointestinal Carcinoma In Situ,RUCAPARIB,0
+Gastrointestinal Carcinoma In Situ,ALBÚMINA,0
+Gastrointestinal Carcinoma In Situ,TEMOZOLOMIDA,0
+Gastrointestinal Carcinoma In Situ,OXALIPLATINO,5
+Gastrointestinal Carcinoma In Situ,SOTORASIB,0
+Pancreatic Neuroendocrine Tumor,PEMBROlizumab,26
+Pancreatic Neuroendocrine Tumor,OSIMERTINIB,0
+Pancreatic Neuroendocrine Tumor,NIVOlumab,34
+Pancreatic Neuroendocrine Tumor,ABEMACICLIB,0
+Pancreatic Neuroendocrine Tumor,EMTANSINA TRASTUZUMAB,0
+Pancreatic Neuroendocrine Tumor,PERTuzumab,2
+Pancreatic Neuroendocrine Tumor,PANItumumab,0
+Pancreatic Neuroendocrine Tumor,ALECTINIB,2
+Pancreatic Neuroendocrine Tumor,DABRAFENIB,13
+Pancreatic Neuroendocrine Tumor,NIRAPARIB,0
+Pancreatic Neuroendocrine Tumor,TRASTuzumab,5
+Pancreatic Neuroendocrine Tumor,CABOZANTINIB,11
+Pancreatic Neuroendocrine Tumor,DERUXTECAN TRASTUZUMAB,0
+Pancreatic Neuroendocrine Tumor,RAMUCIRUMAB,2
+Pancreatic Neuroendocrine Tumor,ATEZOlizumab,5
+Pancreatic Neuroendocrine Tumor,BEVACIZUMAB,66
+Pancreatic Neuroendocrine Tumor,OLAPARIB,3
+Pancreatic Neuroendocrine Tumor,TRAMETINIB,11
+Pancreatic Neuroendocrine Tumor,RIBOCICLIB,1
+Pancreatic Neuroendocrine Tumor,DURVALUMAB,5
+Pancreatic Neuroendocrine Tumor,LENVATINIB,11
+Pancreatic Neuroendocrine Tumor,PALBOCICLIB,6
+Pancreatic Neuroendocrine Tumor,TRIFLURIDINA TIPIRACILO,0
+Pancreatic Neuroendocrine Tumor,IPILIMUMAB,36
+Pancreatic Neuroendocrine Tumor,PAZOPANIB,16
+Pancreatic Neuroendocrine Tumor,CRIZOTINIB,3
+Pancreatic Neuroendocrine Tumor,TRABECTEDINA,0
+Pancreatic Neuroendocrine Tumor,AVELumab,3
+Pancreatic Neuroendocrine Tumor,LORLATINIB,2
+Pancreatic Neuroendocrine Tumor,ENZALUTAMIDA,0
+Pancreatic Neuroendocrine Tumor,AFATINIB,1
+Pancreatic Neuroendocrine Tumor,CAPECITABINA,136
+Pancreatic Neuroendocrine Tumor,CETUXIMAB,6
+Pancreatic Neuroendocrine Tumor,PACLitaxel ALBUMINA,0
+Pancreatic Neuroendocrine Tumor,AFLIBERCEPT,3
+Pancreatic Neuroendocrine Tumor,SACITUZUMAB GOVITECAN,0
+Pancreatic Neuroendocrine Tumor,eriBULina,0
+Pancreatic Neuroendocrine Tumor,PACLITAXEL,27
+Pancreatic Neuroendocrine Tumor,CLORURO DE SODIO,0
+Pancreatic Neuroendocrine Tumor,ENCORAFENIB,0
+Pancreatic Neuroendocrine Tumor,EVEROLIMUS,462
+Pancreatic Neuroendocrine Tumor,VINORELBINA,2
+Pancreatic Neuroendocrine Tumor,PEMETREXED,1
+Pancreatic Neuroendocrine Tumor,BINIMETINIB,0
+Pancreatic Neuroendocrine Tumor,CARBOPLATINO,40
+Pancreatic Neuroendocrine Tumor,ABIRATERONA,0
+Pancreatic Neuroendocrine Tumor,DENOSUMAB,8
+Pancreatic Neuroendocrine Tumor,EVEROLIMUS,462
+Pancreatic Neuroendocrine Tumor,FILGRASTIM,1
+Pancreatic Neuroendocrine Tumor,FLUOROURACILO,227
+Pancreatic Neuroendocrine Tumor,DOXORUBICINA,76
+Pancreatic Neuroendocrine Tumor,GEMCITABINA,54
+Pancreatic Neuroendocrine Tumor,REGORAFENIB,4
+Pancreatic Neuroendocrine Tumor,SELPERCATINIB,1
+Pancreatic Neuroendocrine Tumor,REMDESIVIR,0
+Pancreatic Neuroendocrine Tumor,ENOXAPARINA,0
+Pancreatic Neuroendocrine Tumor,IRINOTECAN,38
+Pancreatic Neuroendocrine Tumor,NINTEDANIB,3
+Pancreatic Neuroendocrine Tumor,PLERIXAFOR,0
+Pancreatic Neuroendocrine Tumor,ALPELISIB,3
+Pancreatic Neuroendocrine Tumor,RUCAPARIB,0
+Pancreatic Neuroendocrine Tumor,ALBÚMINA,0
+Pancreatic Neuroendocrine Tumor,TEMOZOLOMIDA,172
+Pancreatic Neuroendocrine Tumor,OXALIPLATINO,42
+Pancreatic Neuroendocrine Tumor,SOTORASIB,0
+Gastric Carcinoma In Situ,PEMBROlizumab,0
+Gastric Carcinoma In Situ,OSIMERTINIB,1
+Gastric Carcinoma In Situ,NIVOlumab,1
+Gastric Carcinoma In Situ,ABEMACICLIB,0
+Gastric Carcinoma In Situ,EMTANSINA TRASTUZUMAB,0
+Gastric Carcinoma In Situ,PERTuzumab,1
+Gastric Carcinoma In Situ,PANItumumab,0
+Gastric Carcinoma In Situ,ALECTINIB,0
+Gastric Carcinoma In Situ,DABRAFENIB,0
+Gastric Carcinoma In Situ,NIRAPARIB,0
+Gastric Carcinoma In Situ,TRASTuzumab,46
+Gastric Carcinoma In Situ,CABOZANTINIB,1
+Gastric Carcinoma In Situ,DERUXTECAN TRASTUZUMAB,0
+Gastric Carcinoma In Situ,RAMUCIRUMAB,0
+Gastric Carcinoma In Situ,ATEZOlizumab,0
+Gastric Carcinoma In Situ,BEVACIZUMAB,0
+Gastric Carcinoma In Situ,OLAPARIB,0
+Gastric Carcinoma In Situ,TRAMETINIB,0
+Gastric Carcinoma In Situ,RIBOCICLIB,0
+Gastric Carcinoma In Situ,DURVALUMAB,0
+Gastric Carcinoma In Situ,LENVATINIB,0
+Gastric Carcinoma In Situ,PALBOCICLIB,0
+Gastric Carcinoma In Situ,TRIFLURIDINA TIPIRACILO,0
+Gastric Carcinoma In Situ,IPILIMUMAB,0
+Gastric Carcinoma In Situ,PAZOPANIB,0
+Gastric Carcinoma In Situ,CRIZOTINIB,4
+Gastric Carcinoma In Situ,TRABECTEDINA,0
+Gastric Carcinoma In Situ,AVELumab,0
+Gastric Carcinoma In Situ,LORLATINIB,0
+Gastric Carcinoma In Situ,ENZALUTAMIDA,0
+Gastric Carcinoma In Situ,AFATINIB,0
+Gastric Carcinoma In Situ,CAPECITABINA,2
+Gastric Carcinoma In Situ,CETUXIMAB,0
+Gastric Carcinoma In Situ,PACLitaxel ALBUMINA,0
+Gastric Carcinoma In Situ,AFLIBERCEPT,0
+Gastric Carcinoma In Situ,SACITUZUMAB GOVITECAN,0
+Gastric Carcinoma In Situ,eriBULina,0
+Gastric Carcinoma In Situ,PACLITAXEL,9
+Gastric Carcinoma In Situ,CLORURO DE SODIO,0
+Gastric Carcinoma In Situ,ENCORAFENIB,0
+Gastric Carcinoma In Situ,EVEROLIMUS,0
+Gastric Carcinoma In Situ,VINORELBINA,0
+Gastric Carcinoma In Situ,PEMETREXED,0
+Gastric Carcinoma In Situ,BINIMETINIB,0
+Gastric Carcinoma In Situ,CARBOPLATINO,2
+Gastric Carcinoma In Situ,ABIRATERONA,0
+Gastric Carcinoma In Situ,DENOSUMAB,0
+Gastric Carcinoma In Situ,EVEROLIMUS,0
+Gastric Carcinoma In Situ,FILGRASTIM,0
+Gastric Carcinoma In Situ,FLUOROURACILO,30
+Gastric Carcinoma In Situ,DOXORUBICINA,7
+Gastric Carcinoma In Situ,GEMCITABINA,2
+Gastric Carcinoma In Situ,REGORAFENIB,0
+Gastric Carcinoma In Situ,SELPERCATINIB,0
+Gastric Carcinoma In Situ,REMDESIVIR,0
+Gastric Carcinoma In Situ,ENOXAPARINA,0
+Gastric Carcinoma In Situ,IRINOTECAN,2
+Gastric Carcinoma In Situ,NINTEDANIB,0
+Gastric Carcinoma In Situ,PLERIXAFOR,0
+Gastric Carcinoma In Situ,ALPELISIB,0
+Gastric Carcinoma In Situ,RUCAPARIB,0
+Gastric Carcinoma In Situ,ALBÚMINA,0
+Gastric Carcinoma In Situ,TEMOZOLOMIDA,1
+Gastric Carcinoma In Situ,OXALIPLATINO,6
+Gastric Carcinoma In Situ,SOTORASIB,0
+Gastrointestinal Carcinosarcoma,PEMBROlizumab,0
+Gastrointestinal Carcinosarcoma,OSIMERTINIB,0
+Gastrointestinal Carcinosarcoma,NIVOlumab,0
+Gastrointestinal Carcinosarcoma,ABEMACICLIB,0
+Gastrointestinal Carcinosarcoma,EMTANSINA TRASTUZUMAB,0
+Gastrointestinal Carcinosarcoma,PERTuzumab,0
+Gastrointestinal Carcinosarcoma,PANItumumab,0
+Gastrointestinal Carcinosarcoma,ALECTINIB,0
+Gastrointestinal Carcinosarcoma,DABRAFENIB,0
+Gastrointestinal Carcinosarcoma,NIRAPARIB,0
+Gastrointestinal Carcinosarcoma,TRASTuzumab,0
+Gastrointestinal Carcinosarcoma,CABOZANTINIB,1
+Gastrointestinal Carcinosarcoma,DERUXTECAN TRASTUZUMAB,0
+Gastrointestinal Carcinosarcoma,RAMUCIRUMAB,0
+Gastrointestinal Carcinosarcoma,ATEZOlizumab,0
+Gastrointestinal Carcinosarcoma,BEVACIZUMAB,0
+Gastrointestinal Carcinosarcoma,OLAPARIB,0
+Gastrointestinal Carcinosarcoma,TRAMETINIB,0
+Gastrointestinal Carcinosarcoma,RIBOCICLIB,0
+Gastrointestinal Carcinosarcoma,DURVALUMAB,0
+Gastrointestinal Carcinosarcoma,LENVATINIB,0
+Gastrointestinal Carcinosarcoma,PALBOCICLIB,0
+Gastrointestinal Carcinosarcoma,TRIFLURIDINA TIPIRACILO,0
+Gastrointestinal Carcinosarcoma,IPILIMUMAB,0
+Gastrointestinal Carcinosarcoma,PAZOPANIB,1
+Gastrointestinal Carcinosarcoma,CRIZOTINIB,0
+Gastrointestinal Carcinosarcoma,TRABECTEDINA,0
+Gastrointestinal Carcinosarcoma,AVELumab,0
+Gastrointestinal Carcinosarcoma,LORLATINIB,0
+Gastrointestinal Carcinosarcoma,ENZALUTAMIDA,0
+Gastrointestinal Carcinosarcoma,AFATINIB,0
+Gastrointestinal Carcinosarcoma,CAPECITABINA,1
+Gastrointestinal Carcinosarcoma,CETUXIMAB,0
+Gastrointestinal Carcinosarcoma,PACLitaxel ALBUMINA,0
+Gastrointestinal Carcinosarcoma,AFLIBERCEPT,0
+Gastrointestinal Carcinosarcoma,SACITUZUMAB GOVITECAN,0
+Gastrointestinal Carcinosarcoma,eriBULina,0
+Gastrointestinal Carcinosarcoma,PACLITAXEL,4
+Gastrointestinal Carcinosarcoma,CLORURO DE SODIO,0
+Gastrointestinal Carcinosarcoma,ENCORAFENIB,0
+Gastrointestinal Carcinosarcoma,EVEROLIMUS,0
+Gastrointestinal Carcinosarcoma,VINORELBINA,0
+Gastrointestinal Carcinosarcoma,PEMETREXED,0
+Gastrointestinal Carcinosarcoma,BINIMETINIB,0
+Gastrointestinal Carcinosarcoma,CARBOPLATINO,2
+Gastrointestinal Carcinosarcoma,ABIRATERONA,0
+Gastrointestinal Carcinosarcoma,DENOSUMAB,0
+Gastrointestinal Carcinosarcoma,EVEROLIMUS,0
+Gastrointestinal Carcinosarcoma,FILGRASTIM,0
+Gastrointestinal Carcinosarcoma,FLUOROURACILO,4
+Gastrointestinal Carcinosarcoma,DOXORUBICINA,0
+Gastrointestinal Carcinosarcoma,GEMCITABINA,2
+Gastrointestinal Carcinosarcoma,REGORAFENIB,0
+Gastrointestinal Carcinosarcoma,SELPERCATINIB,0
+Gastrointestinal Carcinosarcoma,REMDESIVIR,0
+Gastrointestinal Carcinosarcoma,ENOXAPARINA,0
+Gastrointestinal Carcinosarcoma,IRINOTECAN,1
+Gastrointestinal Carcinosarcoma,NINTEDANIB,0
+Gastrointestinal Carcinosarcoma,PLERIXAFOR,0
+Gastrointestinal Carcinosarcoma,ALPELISIB,0
+Gastrointestinal Carcinosarcoma,RUCAPARIB,0
+Gastrointestinal Carcinosarcoma,ALBÚMINA,0
+Gastrointestinal Carcinosarcoma,TEMOZOLOMIDA,0
+Gastrointestinal Carcinosarcoma,OXALIPLATINO,1
+Gastrointestinal Carcinosarcoma,SOTORASIB,0
+Gastrointestinal Dysplasia,PEMBROlizumab,0
+Gastrointestinal Dysplasia,OSIMERTINIB,0
+Gastrointestinal Dysplasia,NIVOlumab,0
+Gastrointestinal Dysplasia,ABEMACICLIB,0
+Gastrointestinal Dysplasia,EMTANSINA TRASTUZUMAB,0
+Gastrointestinal Dysplasia,PERTuzumab,0
+Gastrointestinal Dysplasia,PANItumumab,0
+Gastrointestinal Dysplasia,ALECTINIB,0
+Gastrointestinal Dysplasia,DABRAFENIB,0
+Gastrointestinal Dysplasia,NIRAPARIB,0
+Gastrointestinal Dysplasia,TRASTuzumab,1
+Gastrointestinal Dysplasia,CABOZANTINIB,0
+Gastrointestinal Dysplasia,DERUXTECAN TRASTUZUMAB,0
+Gastrointestinal Dysplasia,RAMUCIRUMAB,0
+Gastrointestinal Dysplasia,ATEZOlizumab,0
+Gastrointestinal Dysplasia,BEVACIZUMAB,4
+Gastrointestinal Dysplasia,OLAPARIB,0
+Gastrointestinal Dysplasia,TRAMETINIB,0
+Gastrointestinal Dysplasia,RIBOCICLIB,0
+Gastrointestinal Dysplasia,DURVALUMAB,0
+Gastrointestinal Dysplasia,LENVATINIB,0
+Gastrointestinal Dysplasia,PALBOCICLIB,1
+Gastrointestinal Dysplasia,TRIFLURIDINA TIPIRACILO,0
+Gastrointestinal Dysplasia,IPILIMUMAB,0
+Gastrointestinal Dysplasia,PAZOPANIB,0
+Gastrointestinal Dysplasia,CRIZOTINIB,0
+Gastrointestinal Dysplasia,TRABECTEDINA,0
+Gastrointestinal Dysplasia,AVELumab,0
+Gastrointestinal Dysplasia,LORLATINIB,0
+Gastrointestinal Dysplasia,ENZALUTAMIDA,0
+Gastrointestinal Dysplasia,AFATINIB,0
+Gastrointestinal Dysplasia,CAPECITABINA,1
+Gastrointestinal Dysplasia,CETUXIMAB,0
+Gastrointestinal Dysplasia,PACLitaxel ALBUMINA,0
+Gastrointestinal Dysplasia,AFLIBERCEPT,0
+Gastrointestinal Dysplasia,SACITUZUMAB GOVITECAN,0
+Gastrointestinal Dysplasia,eriBULina,0
+Gastrointestinal Dysplasia,PACLITAXEL,3
+Gastrointestinal Dysplasia,CLORURO DE SODIO,0
+Gastrointestinal Dysplasia,ENCORAFENIB,0
+Gastrointestinal Dysplasia,EVEROLIMUS,0
+Gastrointestinal Dysplasia,VINORELBINA,0
+Gastrointestinal Dysplasia,PEMETREXED,0
+Gastrointestinal Dysplasia,BINIMETINIB,0
+Gastrointestinal Dysplasia,CARBOPLATINO,0
+Gastrointestinal Dysplasia,ABIRATERONA,0
+Gastrointestinal Dysplasia,DENOSUMAB,0
+Gastrointestinal Dysplasia,EVEROLIMUS,0
+Gastrointestinal Dysplasia,FILGRASTIM,0
+Gastrointestinal Dysplasia,FLUOROURACILO,3
+Gastrointestinal Dysplasia,DOXORUBICINA,1
+Gastrointestinal Dysplasia,GEMCITABINA,0
+Gastrointestinal Dysplasia,REGORAFENIB,0
+Gastrointestinal Dysplasia,SELPERCATINIB,0
+Gastrointestinal Dysplasia,REMDESIVIR,0
+Gastrointestinal Dysplasia,ENOXAPARINA,0
+Gastrointestinal Dysplasia,IRINOTECAN,0
+Gastrointestinal Dysplasia,NINTEDANIB,0
+Gastrointestinal Dysplasia,PLERIXAFOR,0
+Gastrointestinal Dysplasia,ALPELISIB,0
+Gastrointestinal Dysplasia,RUCAPARIB,0
+Gastrointestinal Dysplasia,ALBÚMINA,0
+Gastrointestinal Dysplasia,TEMOZOLOMIDA,0
+Gastrointestinal Dysplasia,OXALIPLATINO,0
+Gastrointestinal Dysplasia,SOTORASIB,0
+Gastric Carcinosarcoma,PEMBROlizumab,0
+Gastric Carcinosarcoma,OSIMERTINIB,0
+Gastric Carcinosarcoma,NIVOlumab,0
+Gastric Carcinosarcoma,ABEMACICLIB,0
+Gastric Carcinosarcoma,EMTANSINA TRASTUZUMAB,0
+Gastric Carcinosarcoma,PERTuzumab,0
+Gastric Carcinosarcoma,PANItumumab,0
+Gastric Carcinosarcoma,ALECTINIB,0
+Gastric Carcinosarcoma,DABRAFENIB,0
+Gastric Carcinosarcoma,NIRAPARIB,0
+Gastric Carcinosarcoma,TRASTuzumab,3
+Gastric Carcinosarcoma,CABOZANTINIB,0
+Gastric Carcinosarcoma,DERUXTECAN TRASTUZUMAB,0
+Gastric Carcinosarcoma,RAMUCIRUMAB,0
+Gastric Carcinosarcoma,ATEZOlizumab,0
+Gastric Carcinosarcoma,BEVACIZUMAB,0
+Gastric Carcinosarcoma,OLAPARIB,0
+Gastric Carcinosarcoma,TRAMETINIB,0
+Gastric Carcinosarcoma,RIBOCICLIB,0
+Gastric Carcinosarcoma,DURVALUMAB,0
+Gastric Carcinosarcoma,LENVATINIB,0
+Gastric Carcinosarcoma,PALBOCICLIB,0
+Gastric Carcinosarcoma,TRIFLURIDINA TIPIRACILO,0
+Gastric Carcinosarcoma,IPILIMUMAB,0
+Gastric Carcinosarcoma,PAZOPANIB,1
+Gastric Carcinosarcoma,CRIZOTINIB,0
+Gastric Carcinosarcoma,TRABECTEDINA,0
+Gastric Carcinosarcoma,AVELumab,0
+Gastric Carcinosarcoma,LORLATINIB,0
+Gastric Carcinosarcoma,ENZALUTAMIDA,0
+Gastric Carcinosarcoma,AFATINIB,0
+Gastric Carcinosarcoma,CAPECITABINA,0
+Gastric Carcinosarcoma,CETUXIMAB,0
+Gastric Carcinosarcoma,PACLitaxel ALBUMINA,0
+Gastric Carcinosarcoma,AFLIBERCEPT,0
+Gastric Carcinosarcoma,SACITUZUMAB GOVITECAN,0
+Gastric Carcinosarcoma,eriBULina,0
+Gastric Carcinosarcoma,PACLITAXEL,3
+Gastric Carcinosarcoma,CLORURO DE SODIO,0
+Gastric Carcinosarcoma,ENCORAFENIB,0
+Gastric Carcinosarcoma,EVEROLIMUS,0
+Gastric Carcinosarcoma,VINORELBINA,0
+Gastric Carcinosarcoma,PEMETREXED,0
+Gastric Carcinosarcoma,BINIMETINIB,0
+Gastric Carcinosarcoma,CARBOPLATINO,3
+Gastric Carcinosarcoma,ABIRATERONA,0
+Gastric Carcinosarcoma,DENOSUMAB,0
+Gastric Carcinosarcoma,EVEROLIMUS,0
+Gastric Carcinosarcoma,FILGRASTIM,0
+Gastric Carcinosarcoma,FLUOROURACILO,8
+Gastric Carcinosarcoma,DOXORUBICINA,2
+Gastric Carcinosarcoma,GEMCITABINA,1
+Gastric Carcinosarcoma,REGORAFENIB,0
+Gastric Carcinosarcoma,SELPERCATINIB,0
+Gastric Carcinosarcoma,REMDESIVIR,0
+Gastric Carcinosarcoma,ENOXAPARINA,0
+Gastric Carcinosarcoma,IRINOTECAN,1
+Gastric Carcinosarcoma,NINTEDANIB,0
+Gastric Carcinosarcoma,PLERIXAFOR,0
+Gastric Carcinosarcoma,ALPELISIB,0
+Gastric Carcinosarcoma,RUCAPARIB,0
+Gastric Carcinosarcoma,ALBÚMINA,0
+Gastric Carcinosarcoma,TEMOZOLOMIDA,0
+Gastric Carcinosarcoma,OXALIPLATINO,1
+Gastric Carcinosarcoma,SOTORASIB,0
+Esophageal Dysplasia,PEMBROlizumab,0
+Esophageal Dysplasia,OSIMERTINIB,0
+Esophageal Dysplasia,NIVOlumab,0
+Esophageal Dysplasia,ABEMACICLIB,0
+Esophageal Dysplasia,EMTANSINA TRASTUZUMAB,0
+Esophageal Dysplasia,PERTuzumab,0
+Esophageal Dysplasia,PANItumumab,0
+Esophageal Dysplasia,ALECTINIB,0
+Esophageal Dysplasia,DABRAFENIB,0
+Esophageal Dysplasia,NIRAPARIB,0
+Esophageal Dysplasia,TRASTuzumab,6
+Esophageal Dysplasia,CABOZANTINIB,0
+Esophageal Dysplasia,DERUXTECAN TRASTUZUMAB,0
+Esophageal Dysplasia,RAMUCIRUMAB,0
+Esophageal Dysplasia,ATEZOlizumab,0
+Esophageal Dysplasia,BEVACIZUMAB,2
+Esophageal Dysplasia,OLAPARIB,0
+Esophageal Dysplasia,TRAMETINIB,0
+Esophageal Dysplasia,RIBOCICLIB,0
+Esophageal Dysplasia,DURVALUMAB,0
+Esophageal Dysplasia,LENVATINIB,0
+Esophageal Dysplasia,PALBOCICLIB,1
+Esophageal Dysplasia,TRIFLURIDINA TIPIRACILO,0
+Esophageal Dysplasia,IPILIMUMAB,0
+Esophageal Dysplasia,PAZOPANIB,0
+Esophageal Dysplasia,CRIZOTINIB,0
+Esophageal Dysplasia,TRABECTEDINA,0
+Esophageal Dysplasia,AVELumab,0
+Esophageal Dysplasia,LORLATINIB,0
+Esophageal Dysplasia,ENZALUTAMIDA,0
+Esophageal Dysplasia,AFATINIB,0
+Esophageal Dysplasia,CAPECITABINA,1
+Esophageal Dysplasia,CETUXIMAB,0
+Esophageal Dysplasia,PACLitaxel ALBUMINA,0
+Esophageal Dysplasia,AFLIBERCEPT,0
+Esophageal Dysplasia,SACITUZUMAB GOVITECAN,0
+Esophageal Dysplasia,eriBULina,0
+Esophageal Dysplasia,PACLITAXEL,4
+Esophageal Dysplasia,CLORURO DE SODIO,0
+Esophageal Dysplasia,ENCORAFENIB,0
+Esophageal Dysplasia,EVEROLIMUS,0
+Esophageal Dysplasia,VINORELBINA,0
+Esophageal Dysplasia,PEMETREXED,0
+Esophageal Dysplasia,BINIMETINIB,0
+Esophageal Dysplasia,CARBOPLATINO,0
+Esophageal Dysplasia,ABIRATERONA,0
+Esophageal Dysplasia,DENOSUMAB,0
+Esophageal Dysplasia,EVEROLIMUS,0
+Esophageal Dysplasia,FILGRASTIM,0
+Esophageal Dysplasia,FLUOROURACILO,11
+Esophageal Dysplasia,DOXORUBICINA,4
+Esophageal Dysplasia,GEMCITABINA,0
+Esophageal Dysplasia,REGORAFENIB,0
+Esophageal Dysplasia,SELPERCATINIB,0
+Esophageal Dysplasia,REMDESIVIR,0
+Esophageal Dysplasia,ENOXAPARINA,0
+Esophageal Dysplasia,IRINOTECAN,0
+Esophageal Dysplasia,NINTEDANIB,0
+Esophageal Dysplasia,PLERIXAFOR,0
+Esophageal Dysplasia,ALPELISIB,0
+Esophageal Dysplasia,RUCAPARIB,0
+Esophageal Dysplasia,ALBÚMINA,0
+Esophageal Dysplasia,TEMOZOLOMIDA,0
+Esophageal Dysplasia,OXALIPLATINO,0
+Esophageal Dysplasia,SOTORASIB,0
+Small Intestine Carcinoma In Situ,PEMBROlizumab,1
+Small Intestine Carcinoma In Situ,OSIMERTINIB,0
+Small Intestine Carcinoma In Situ,NIVOlumab,0
+Small Intestine Carcinoma In Situ,ABEMACICLIB,0
+Small Intestine Carcinoma In Situ,EMTANSINA TRASTUZUMAB,0
+Small Intestine Carcinoma In Situ,PERTuzumab,0
+Small Intestine Carcinoma In Situ,PANItumumab,0
+Small Intestine Carcinoma In Situ,ALECTINIB,0
+Small Intestine Carcinoma In Situ,DABRAFENIB,0
+Small Intestine Carcinoma In Situ,NIRAPARIB,0
+Small Intestine Carcinoma In Situ,TRASTuzumab,1
+Small Intestine Carcinoma In Situ,CABOZANTINIB,0
+Small Intestine Carcinoma In Situ,DERUXTECAN TRASTUZUMAB,0
+Small Intestine Carcinoma In Situ,RAMUCIRUMAB,0
+Small Intestine Carcinoma In Situ,ATEZOlizumab,0
+Small Intestine Carcinoma In Situ,BEVACIZUMAB,0
+Small Intestine Carcinoma In Situ,OLAPARIB,0
+Small Intestine Carcinoma In Situ,TRAMETINIB,0
+Small Intestine Carcinoma In Situ,RIBOCICLIB,0
+Small Intestine Carcinoma In Situ,DURVALUMAB,0
+Small Intestine Carcinoma In Situ,LENVATINIB,0
+Small Intestine Carcinoma In Situ,PALBOCICLIB,0
+Small Intestine Carcinoma In Situ,TRIFLURIDINA TIPIRACILO,0
+Small Intestine Carcinoma In Situ,IPILIMUMAB,0
+Small Intestine Carcinoma In Situ,PAZOPANIB,0
+Small Intestine Carcinoma In Situ,CRIZOTINIB,0
+Small Intestine Carcinoma In Situ,TRABECTEDINA,0
+Small Intestine Carcinoma In Situ,AVELumab,0
+Small Intestine Carcinoma In Situ,LORLATINIB,0
+Small Intestine Carcinoma In Situ,ENZALUTAMIDA,0
+Small Intestine Carcinoma In Situ,AFATINIB,0
+Small Intestine Carcinoma In Situ,CAPECITABINA,0
+Small Intestine Carcinoma In Situ,CETUXIMAB,0
+Small Intestine Carcinoma In Situ,PACLitaxel ALBUMINA,0
+Small Intestine Carcinoma In Situ,AFLIBERCEPT,0
+Small Intestine Carcinoma In Situ,SACITUZUMAB GOVITECAN,0
+Small Intestine Carcinoma In Situ,eriBULina,0
+Small Intestine Carcinoma In Situ,PACLITAXEL,0
+Small Intestine Carcinoma In Situ,CLORURO DE SODIO,0
+Small Intestine Carcinoma In Situ,ENCORAFENIB,0
+Small Intestine Carcinoma In Situ,EVEROLIMUS,0
+Small Intestine Carcinoma In Situ,VINORELBINA,0
+Small Intestine Carcinoma In Situ,PEMETREXED,0
+Small Intestine Carcinoma In Situ,BINIMETINIB,0
+Small Intestine Carcinoma In Situ,CARBOPLATINO,0
+Small Intestine Carcinoma In Situ,ABIRATERONA,0
+Small Intestine Carcinoma In Situ,DENOSUMAB,0
+Small Intestine Carcinoma In Situ,EVEROLIMUS,0
+Small Intestine Carcinoma In Situ,FILGRASTIM,0
+Small Intestine Carcinoma In Situ,FLUOROURACILO,3
+Small Intestine Carcinoma In Situ,DOXORUBICINA,0
+Small Intestine Carcinoma In Situ,GEMCITABINA,0
+Small Intestine Carcinoma In Situ,REGORAFENIB,0
+Small Intestine Carcinoma In Situ,SELPERCATINIB,0
+Small Intestine Carcinoma In Situ,REMDESIVIR,0
+Small Intestine Carcinoma In Situ,ENOXAPARINA,0
+Small Intestine Carcinoma In Situ,IRINOTECAN,0
+Small Intestine Carcinoma In Situ,NINTEDANIB,1
+Small Intestine Carcinoma In Situ,PLERIXAFOR,0
+Small Intestine Carcinoma In Situ,ALPELISIB,0
+Small Intestine Carcinoma In Situ,RUCAPARIB,0
+Small Intestine Carcinoma In Situ,ALBÚMINA,0
+Small Intestine Carcinoma In Situ,TEMOZOLOMIDA,0
+Small Intestine Carcinoma In Situ,OXALIPLATINO,0
+Small Intestine Carcinoma In Situ,SOTORASIB,0
+Colorectal Dysplasia,PEMBROlizumab,1
+Colorectal Dysplasia,OSIMERTINIB,0
+Colorectal Dysplasia,NIVOlumab,0
+Colorectal Dysplasia,ABEMACICLIB,0
+Colorectal Dysplasia,EMTANSINA TRASTUZUMAB,0
+Colorectal Dysplasia,PERTuzumab,0
+Colorectal Dysplasia,PANItumumab,1
+Colorectal Dysplasia,ALECTINIB,0
+Colorectal Dysplasia,DABRAFENIB,0
+Colorectal Dysplasia,NIRAPARIB,0
+Colorectal Dysplasia,TRASTuzumab,0
+Colorectal Dysplasia,CABOZANTINIB,0
+Colorectal Dysplasia,DERUXTECAN TRASTUZUMAB,0
+Colorectal Dysplasia,RAMUCIRUMAB,0
+Colorectal Dysplasia,ATEZOlizumab,0
+Colorectal Dysplasia,BEVACIZUMAB,1
+Colorectal Dysplasia,OLAPARIB,0
+Colorectal Dysplasia,TRAMETINIB,0
+Colorectal Dysplasia,RIBOCICLIB,0
+Colorectal Dysplasia,DURVALUMAB,0
+Colorectal Dysplasia,LENVATINIB,0
+Colorectal Dysplasia,PALBOCICLIB,0
+Colorectal Dysplasia,TRIFLURIDINA TIPIRACILO,0
+Colorectal Dysplasia,IPILIMUMAB,0
+Colorectal Dysplasia,PAZOPANIB,0
+Colorectal Dysplasia,CRIZOTINIB,0
+Colorectal Dysplasia,TRABECTEDINA,0
+Colorectal Dysplasia,AVELumab,0
+Colorectal Dysplasia,LORLATINIB,0
+Colorectal Dysplasia,ENZALUTAMIDA,0
+Colorectal Dysplasia,AFATINIB,0
+Colorectal Dysplasia,CAPECITABINA,1
+Colorectal Dysplasia,CETUXIMAB,1
+Colorectal Dysplasia,PACLitaxel ALBUMINA,0
+Colorectal Dysplasia,AFLIBERCEPT,0
+Colorectal Dysplasia,SACITUZUMAB GOVITECAN,0
+Colorectal Dysplasia,eriBULina,0
+Colorectal Dysplasia,PACLITAXEL,1
+Colorectal Dysplasia,CLORURO DE SODIO,0
+Colorectal Dysplasia,ENCORAFENIB,0
+Colorectal Dysplasia,EVEROLIMUS,0
+Colorectal Dysplasia,VINORELBINA,0
+Colorectal Dysplasia,PEMETREXED,0
+Colorectal Dysplasia,BINIMETINIB,0
+Colorectal Dysplasia,CARBOPLATINO,1
+Colorectal Dysplasia,ABIRATERONA,0
+Colorectal Dysplasia,DENOSUMAB,0
+Colorectal Dysplasia,EVEROLIMUS,0
+Colorectal Dysplasia,FILGRASTIM,0
+Colorectal Dysplasia,FLUOROURACILO,13
+Colorectal Dysplasia,DOXORUBICINA,0
+Colorectal Dysplasia,GEMCITABINA,0
+Colorectal Dysplasia,REGORAFENIB,0
+Colorectal Dysplasia,SELPERCATINIB,0
+Colorectal Dysplasia,REMDESIVIR,0
+Colorectal Dysplasia,ENOXAPARINA,0
+Colorectal Dysplasia,IRINOTECAN,1
+Colorectal Dysplasia,NINTEDANIB,0
+Colorectal Dysplasia,PLERIXAFOR,0
+Colorectal Dysplasia,ALPELISIB,0
+Colorectal Dysplasia,RUCAPARIB,0
+Colorectal Dysplasia,ALBÚMINA,0
+Colorectal Dysplasia,TEMOZOLOMIDA,0
+Colorectal Dysplasia,OXALIPLATINO,3
+Colorectal Dysplasia,SOTORASIB,0
+Gastrointestinal Sarcoma,PEMBROlizumab,8
+Gastrointestinal Sarcoma,OSIMERTINIB,0
+Gastrointestinal Sarcoma,NIVOlumab,7
+Gastrointestinal Sarcoma,ABEMACICLIB,0
+Gastrointestinal Sarcoma,EMTANSINA TRASTUZUMAB,0
+Gastrointestinal Sarcoma,PERTuzumab,0
+Gastrointestinal Sarcoma,PANItumumab,7
+Gastrointestinal Sarcoma,ALECTINIB,1
+Gastrointestinal Sarcoma,DABRAFENIB,4
+Gastrointestinal Sarcoma,NIRAPARIB,0
+Gastrointestinal Sarcoma,TRASTuzumab,3
+Gastrointestinal Sarcoma,CABOZANTINIB,11
+Gastrointestinal Sarcoma,DERUXTECAN TRASTUZUMAB,0
+Gastrointestinal Sarcoma,RAMUCIRUMAB,0
+Gastrointestinal Sarcoma,ATEZOlizumab,0
+Gastrointestinal Sarcoma,BEVACIZUMAB,17
+Gastrointestinal Sarcoma,OLAPARIB,0
+Gastrointestinal Sarcoma,TRAMETINIB,5
+Gastrointestinal Sarcoma,RIBOCICLIB,0
+Gastrointestinal Sarcoma,DURVALUMAB,0
+Gastrointestinal Sarcoma,LENVATINIB,3
+Gastrointestinal Sarcoma,PALBOCICLIB,1
+Gastrointestinal Sarcoma,TRIFLURIDINA TIPIRACILO,2
+Gastrointestinal Sarcoma,IPILIMUMAB,6
+Gastrointestinal Sarcoma,PAZOPANIB,40
+Gastrointestinal Sarcoma,CRIZOTINIB,10
+Gastrointestinal Sarcoma,TRABECTEDINA,23
+Gastrointestinal Sarcoma,AVELumab,2
+Gastrointestinal Sarcoma,LORLATINIB,0
+Gastrointestinal Sarcoma,ENZALUTAMIDA,0
+Gastrointestinal Sarcoma,AFATINIB,2
+Gastrointestinal Sarcoma,CAPECITABINA,4
+Gastrointestinal Sarcoma,CETUXIMAB,8
+Gastrointestinal Sarcoma,PACLitaxel ALBUMINA,0
+Gastrointestinal Sarcoma,AFLIBERCEPT,1
+Gastrointestinal Sarcoma,SACITUZUMAB GOVITECAN,0
+Gastrointestinal Sarcoma,eriBULina,0
+Gastrointestinal Sarcoma,PACLITAXEL,30
+Gastrointestinal Sarcoma,CLORURO DE SODIO,0
+Gastrointestinal Sarcoma,ENCORAFENIB,0
+Gastrointestinal Sarcoma,EVEROLIMUS,12
+Gastrointestinal Sarcoma,VINORELBINA,2
+Gastrointestinal Sarcoma,PEMETREXED,1
+Gastrointestinal Sarcoma,BINIMETINIB,1
+Gastrointestinal Sarcoma,CARBOPLATINO,22
+Gastrointestinal Sarcoma,ABIRATERONA,0
+Gastrointestinal Sarcoma,DENOSUMAB,5
+Gastrointestinal Sarcoma,EVEROLIMUS,12
+Gastrointestinal Sarcoma,FILGRASTIM,0
+Gastrointestinal Sarcoma,FLUOROURACILO,57
+Gastrointestinal Sarcoma,DOXORUBICINA,172
+Gastrointestinal Sarcoma,GEMCITABINA,41
+Gastrointestinal Sarcoma,REGORAFENIB,79
+Gastrointestinal Sarcoma,SELPERCATINIB,0
+Gastrointestinal Sarcoma,REMDESIVIR,0
+Gastrointestinal Sarcoma,ENOXAPARINA,0
+Gastrointestinal Sarcoma,IRINOTECAN,23
+Gastrointestinal Sarcoma,NINTEDANIB,0
+Gastrointestinal Sarcoma,PLERIXAFOR,0
+Gastrointestinal Sarcoma,ALPELISIB,1
+Gastrointestinal Sarcoma,RUCAPARIB,0
+Gastrointestinal Sarcoma,ALBÚMINA,0
+Gastrointestinal Sarcoma,TEMOZOLOMIDA,10
+Gastrointestinal Sarcoma,OXALIPLATINO,7
+Gastrointestinal Sarcoma,SOTORASIB,1
+Colorectal Carcinosarcoma,PEMBROlizumab,0
+Colorectal Carcinosarcoma,OSIMERTINIB,0
+Colorectal Carcinosarcoma,NIVOlumab,1
+Colorectal Carcinosarcoma,ABEMACICLIB,0
+Colorectal Carcinosarcoma,EMTANSINA TRASTUZUMAB,0
+Colorectal Carcinosarcoma,PERTuzumab,0
+Colorectal Carcinosarcoma,PANItumumab,0
+Colorectal Carcinosarcoma,ALECTINIB,0
+Colorectal Carcinosarcoma,DABRAFENIB,0
+Colorectal Carcinosarcoma,NIRAPARIB,0
+Colorectal Carcinosarcoma,TRASTuzumab,0
+Colorectal Carcinosarcoma,CABOZANTINIB,0
+Colorectal Carcinosarcoma,DERUXTECAN TRASTUZUMAB,0
+Colorectal Carcinosarcoma,RAMUCIRUMAB,0
+Colorectal Carcinosarcoma,ATEZOlizumab,0
+Colorectal Carcinosarcoma,BEVACIZUMAB,0
+Colorectal Carcinosarcoma,OLAPARIB,0
+Colorectal Carcinosarcoma,TRAMETINIB,0
+Colorectal Carcinosarcoma,RIBOCICLIB,0
+Colorectal Carcinosarcoma,DURVALUMAB,0
+Colorectal Carcinosarcoma,LENVATINIB,0
+Colorectal Carcinosarcoma,PALBOCICLIB,0
+Colorectal Carcinosarcoma,TRIFLURIDINA TIPIRACILO,0
+Colorectal Carcinosarcoma,IPILIMUMAB,0
+Colorectal Carcinosarcoma,PAZOPANIB,0
+Colorectal Carcinosarcoma,CRIZOTINIB,0
+Colorectal Carcinosarcoma,TRABECTEDINA,0
+Colorectal Carcinosarcoma,AVELumab,0
+Colorectal Carcinosarcoma,LORLATINIB,0
+Colorectal Carcinosarcoma,ENZALUTAMIDA,0
+Colorectal Carcinosarcoma,AFATINIB,0
+Colorectal Carcinosarcoma,CAPECITABINA,0
+Colorectal Carcinosarcoma,CETUXIMAB,0
+Colorectal Carcinosarcoma,PACLitaxel ALBUMINA,0
+Colorectal Carcinosarcoma,AFLIBERCEPT,0
+Colorectal Carcinosarcoma,SACITUZUMAB GOVITECAN,0
+Colorectal Carcinosarcoma,eriBULina,0
+Colorectal Carcinosarcoma,PACLITAXEL,1
+Colorectal Carcinosarcoma,CLORURO DE SODIO,0
+Colorectal Carcinosarcoma,ENCORAFENIB,0
+Colorectal Carcinosarcoma,EVEROLIMUS,0
+Colorectal Carcinosarcoma,VINORELBINA,0
+Colorectal Carcinosarcoma,PEMETREXED,0
+Colorectal Carcinosarcoma,BINIMETINIB,0
+Colorectal Carcinosarcoma,CARBOPLATINO,1
+Colorectal Carcinosarcoma,ABIRATERONA,0
+Colorectal Carcinosarcoma,DENOSUMAB,0
+Colorectal Carcinosarcoma,EVEROLIMUS,0
+Colorectal Carcinosarcoma,FILGRASTIM,0
+Colorectal Carcinosarcoma,FLUOROURACILO,1
+Colorectal Carcinosarcoma,DOXORUBICINA,0
+Colorectal Carcinosarcoma,GEMCITABINA,0
+Colorectal Carcinosarcoma,REGORAFENIB,0
+Colorectal Carcinosarcoma,SELPERCATINIB,0
+Colorectal Carcinosarcoma,REMDESIVIR,0
+Colorectal Carcinosarcoma,ENOXAPARINA,0
+Colorectal Carcinosarcoma,IRINOTECAN,0
+Colorectal Carcinosarcoma,NINTEDANIB,0
+Colorectal Carcinosarcoma,PLERIXAFOR,0
+Colorectal Carcinosarcoma,ALPELISIB,0
+Colorectal Carcinosarcoma,RUCAPARIB,0
+Colorectal Carcinosarcoma,ALBÚMINA,0
+Colorectal Carcinosarcoma,TEMOZOLOMIDA,0
+Colorectal Carcinosarcoma,OXALIPLATINO,0
+Colorectal Carcinosarcoma,SOTORASIB,0
+Pancreatic Dysplasia,PEMBROlizumab,0
+Pancreatic Dysplasia,OSIMERTINIB,0
+Pancreatic Dysplasia,NIVOlumab,0
+Pancreatic Dysplasia,ABEMACICLIB,0
+Pancreatic Dysplasia,EMTANSINA TRASTUZUMAB,0
+Pancreatic Dysplasia,PERTuzumab,0
+Pancreatic Dysplasia,PANItumumab,0
+Pancreatic Dysplasia,ALECTINIB,0
+Pancreatic Dysplasia,DABRAFENIB,0
+Pancreatic Dysplasia,NIRAPARIB,0
+Pancreatic Dysplasia,TRASTuzumab,1
+Pancreatic Dysplasia,CABOZANTINIB,0
+Pancreatic Dysplasia,DERUXTECAN TRASTUZUMAB,0
+Pancreatic Dysplasia,RAMUCIRUMAB,0
+Pancreatic Dysplasia,ATEZOlizumab,0
+Pancreatic Dysplasia,BEVACIZUMAB,0
+Pancreatic Dysplasia,OLAPARIB,0
+Pancreatic Dysplasia,TRAMETINIB,0
+Pancreatic Dysplasia,RIBOCICLIB,0
+Pancreatic Dysplasia,DURVALUMAB,0
+Pancreatic Dysplasia,LENVATINIB,0
+Pancreatic Dysplasia,PALBOCICLIB,0
+Pancreatic Dysplasia,TRIFLURIDINA TIPIRACILO,0
+Pancreatic Dysplasia,IPILIMUMAB,0
+Pancreatic Dysplasia,PAZOPANIB,0
+Pancreatic Dysplasia,CRIZOTINIB,0
+Pancreatic Dysplasia,TRABECTEDINA,0
+Pancreatic Dysplasia,AVELumab,0
+Pancreatic Dysplasia,LORLATINIB,0
+Pancreatic Dysplasia,ENZALUTAMIDA,0
+Pancreatic Dysplasia,AFATINIB,0
+Pancreatic Dysplasia,CAPECITABINA,1
+Pancreatic Dysplasia,CETUXIMAB,0
+Pancreatic Dysplasia,PACLitaxel ALBUMINA,0
+Pancreatic Dysplasia,AFLIBERCEPT,0
+Pancreatic Dysplasia,SACITUZUMAB GOVITECAN,0
+Pancreatic Dysplasia,eriBULina,0
+Pancreatic Dysplasia,PACLITAXEL,0
+Pancreatic Dysplasia,CLORURO DE SODIO,0
+Pancreatic Dysplasia,ENCORAFENIB,0
+Pancreatic Dysplasia,EVEROLIMUS,0
+Pancreatic Dysplasia,VINORELBINA,0
+Pancreatic Dysplasia,PEMETREXED,0
+Pancreatic Dysplasia,BINIMETINIB,0
+Pancreatic Dysplasia,CARBOPLATINO,0
+Pancreatic Dysplasia,ABIRATERONA,0
+Pancreatic Dysplasia,DENOSUMAB,0
+Pancreatic Dysplasia,EVEROLIMUS,0
+Pancreatic Dysplasia,FILGRASTIM,0
+Pancreatic Dysplasia,FLUOROURACILO,1
+Pancreatic Dysplasia,DOXORUBICINA,0
+Pancreatic Dysplasia,GEMCITABINA,5
+Pancreatic Dysplasia,REGORAFENIB,0
+Pancreatic Dysplasia,SELPERCATINIB,0
+Pancreatic Dysplasia,REMDESIVIR,0
+Pancreatic Dysplasia,ENOXAPARINA,0
+Pancreatic Dysplasia,IRINOTECAN,2
+Pancreatic Dysplasia,NINTEDANIB,0
+Pancreatic Dysplasia,PLERIXAFOR,0
+Pancreatic Dysplasia,ALPELISIB,0
+Pancreatic Dysplasia,RUCAPARIB,0
+Pancreatic Dysplasia,ALBÚMINA,0
+Pancreatic Dysplasia,TEMOZOLOMIDA,0
+Pancreatic Dysplasia,OXALIPLATINO,1
+Pancreatic Dysplasia,SOTORASIB,0
+Colorectal Sarcoma,PEMBROlizumab,5
+Colorectal Sarcoma,OSIMERTINIB,0
+Colorectal Sarcoma,NIVOlumab,2
+Colorectal Sarcoma,ABEMACICLIB,0
+Colorectal Sarcoma,EMTANSINA TRASTUZUMAB,0
+Colorectal Sarcoma,PERTuzumab,1
+Colorectal Sarcoma,PANItumumab,59
+Colorectal Sarcoma,ALECTINIB,1
+Colorectal Sarcoma,DABRAFENIB,3
+Colorectal Sarcoma,NIRAPARIB,1
+Colorectal Sarcoma,TRASTuzumab,5
+Colorectal Sarcoma,CABOZANTINIB,1
+Colorectal Sarcoma,DERUXTECAN TRASTUZUMAB,1
+Colorectal Sarcoma,RAMUCIRUMAB,2
+Colorectal Sarcoma,ATEZOlizumab,0
+Colorectal Sarcoma,BEVACIZUMAB,52
+Colorectal Sarcoma,OLAPARIB,0
+Colorectal Sarcoma,TRAMETINIB,4
+Colorectal Sarcoma,RIBOCICLIB,0
+Colorectal Sarcoma,DURVALUMAB,0
+Colorectal Sarcoma,LENVATINIB,0
+Colorectal Sarcoma,PALBOCICLIB,1
+Colorectal Sarcoma,TRIFLURIDINA TIPIRACILO,5
+Colorectal Sarcoma,IPILIMUMAB,2
+Colorectal Sarcoma,PAZOPANIB,5
+Colorectal Sarcoma,CRIZOTINIB,4
+Colorectal Sarcoma,TRABECTEDINA,1
+Colorectal Sarcoma,AVELumab,1
+Colorectal Sarcoma,LORLATINIB,0
+Colorectal Sarcoma,ENZALUTAMIDA,0
+Colorectal Sarcoma,AFATINIB,1
+Colorectal Sarcoma,CAPECITABINA,11
+Colorectal Sarcoma,CETUXIMAB,91
+Colorectal Sarcoma,PACLitaxel ALBUMINA,0
+Colorectal Sarcoma,AFLIBERCEPT,4
+Colorectal Sarcoma,SACITUZUMAB GOVITECAN,0
+Colorectal Sarcoma,eriBULina,0
+Colorectal Sarcoma,PACLITAXEL,10
+Colorectal Sarcoma,CLORURO DE SODIO,0
+Colorectal Sarcoma,ENCORAFENIB,1
+Colorectal Sarcoma,EVEROLIMUS,1
+Colorectal Sarcoma,VINORELBINA,1
+Colorectal Sarcoma,PEMETREXED,0
+Colorectal Sarcoma,BINIMETINIB,1
+Colorectal Sarcoma,CARBOPLATINO,1
+Colorectal Sarcoma,ABIRATERONA,0
+Colorectal Sarcoma,DENOSUMAB,0
+Colorectal Sarcoma,EVEROLIMUS,1
+Colorectal Sarcoma,FILGRASTIM,1
+Colorectal Sarcoma,FLUOROURACILO,85
+Colorectal Sarcoma,DOXORUBICINA,39
+Colorectal Sarcoma,GEMCITABINA,3
+Colorectal Sarcoma,REGORAFENIB,18
+Colorectal Sarcoma,SELPERCATINIB,2
+Colorectal Sarcoma,REMDESIVIR,0
+Colorectal Sarcoma,ENOXAPARINA,0
+Colorectal Sarcoma,IRINOTECAN,58
+Colorectal Sarcoma,NINTEDANIB,0
+Colorectal Sarcoma,PLERIXAFOR,0
+Colorectal Sarcoma,ALPELISIB,0
+Colorectal Sarcoma,RUCAPARIB,0
+Colorectal Sarcoma,ALBÚMINA,0
+Colorectal Sarcoma,TEMOZOLOMIDA,1
+Colorectal Sarcoma,OXALIPLATINO,56
+Colorectal Sarcoma,SOTORASIB,12
+Esophageal Carcinoma In Situ,PEMBROlizumab,0
+Esophageal Carcinoma In Situ,OSIMERTINIB,0
+Esophageal Carcinoma In Situ,NIVOlumab,0
+Esophageal Carcinoma In Situ,ABEMACICLIB,0
+Esophageal Carcinoma In Situ,EMTANSINA TRASTUZUMAB,0
+Esophageal Carcinoma In Situ,PERTuzumab,1
+Esophageal Carcinoma In Situ,PANItumumab,0
+Esophageal Carcinoma In Situ,ALECTINIB,1
+Esophageal Carcinoma In Situ,DABRAFENIB,0
+Esophageal Carcinoma In Situ,NIRAPARIB,0
+Esophageal Carcinoma In Situ,TRASTuzumab,13
+Esophageal Carcinoma In Situ,CABOZANTINIB,0
+Esophageal Carcinoma In Situ,DERUXTECAN TRASTUZUMAB,0
+Esophageal Carcinoma In Situ,RAMUCIRUMAB,0
+Esophageal Carcinoma In Situ,ATEZOlizumab,0
+Esophageal Carcinoma In Situ,BEVACIZUMAB,0
+Esophageal Carcinoma In Situ,OLAPARIB,0
+Esophageal Carcinoma In Situ,TRAMETINIB,0
+Esophageal Carcinoma In Situ,RIBOCICLIB,0
+Esophageal Carcinoma In Situ,DURVALUMAB,0
+Esophageal Carcinoma In Situ,LENVATINIB,0
+Esophageal Carcinoma In Situ,PALBOCICLIB,0
+Esophageal Carcinoma In Situ,TRIFLURIDINA TIPIRACILO,0
+Esophageal Carcinoma In Situ,IPILIMUMAB,0
+Esophageal Carcinoma In Situ,PAZOPANIB,0
+Esophageal Carcinoma In Situ,CRIZOTINIB,2
+Esophageal Carcinoma In Situ,TRABECTEDINA,0
+Esophageal Carcinoma In Situ,AVELumab,0
+Esophageal Carcinoma In Situ,LORLATINIB,0
+Esophageal Carcinoma In Situ,ENZALUTAMIDA,0
+Esophageal Carcinoma In Situ,AFATINIB,0
+Esophageal Carcinoma In Situ,CAPECITABINA,1
+Esophageal Carcinoma In Situ,CETUXIMAB,3
+Esophageal Carcinoma In Situ,PACLitaxel ALBUMINA,0
+Esophageal Carcinoma In Situ,AFLIBERCEPT,0
+Esophageal Carcinoma In Situ,SACITUZUMAB GOVITECAN,0
+Esophageal Carcinoma In Situ,eriBULina,0
+Esophageal Carcinoma In Situ,PACLITAXEL,6
+Esophageal Carcinoma In Situ,CLORURO DE SODIO,0
+Esophageal Carcinoma In Situ,ENCORAFENIB,0
+Esophageal Carcinoma In Situ,EVEROLIMUS,0
+Esophageal Carcinoma In Situ,VINORELBINA,0
+Esophageal Carcinoma In Situ,PEMETREXED,0
+Esophageal Carcinoma In Situ,BINIMETINIB,0
+Esophageal Carcinoma In Situ,CARBOPLATINO,3
+Esophageal Carcinoma In Situ,ABIRATERONA,0
+Esophageal Carcinoma In Situ,DENOSUMAB,0
+Esophageal Carcinoma In Situ,EVEROLIMUS,0
+Esophageal Carcinoma In Situ,FILGRASTIM,0
+Esophageal Carcinoma In Situ,FLUOROURACILO,14
+Esophageal Carcinoma In Situ,DOXORUBICINA,0
+Esophageal Carcinoma In Situ,GEMCITABINA,1
+Esophageal Carcinoma In Situ,REGORAFENIB,0
+Esophageal Carcinoma In Situ,SELPERCATINIB,0
+Esophageal Carcinoma In Situ,REMDESIVIR,0
+Esophageal Carcinoma In Situ,ENOXAPARINA,0
+Esophageal Carcinoma In Situ,IRINOTECAN,2
+Esophageal Carcinoma In Situ,NINTEDANIB,0
+Esophageal Carcinoma In Situ,PLERIXAFOR,0
+Esophageal Carcinoma In Situ,ALPELISIB,0
+Esophageal Carcinoma In Situ,RUCAPARIB,0
+Esophageal Carcinoma In Situ,ALBÚMINA,0
+Esophageal Carcinoma In Situ,TEMOZOLOMIDA,1
+Esophageal Carcinoma In Situ,OXALIPLATINO,1
+Esophageal Carcinoma In Situ,SOTORASIB,0
+Ampullary Dysplasia,PEMBROlizumab,0
+Ampullary Dysplasia,OSIMERTINIB,0
+Ampullary Dysplasia,NIVOlumab,0
+Ampullary Dysplasia,ABEMACICLIB,0
+Ampullary Dysplasia,EMTANSINA TRASTUZUMAB,0
+Ampullary Dysplasia,PERTuzumab,0
+Ampullary Dysplasia,PANItumumab,0
+Ampullary Dysplasia,ALECTINIB,0
+Ampullary Dysplasia,DABRAFENIB,0
+Ampullary Dysplasia,NIRAPARIB,0
+Ampullary Dysplasia,TRASTuzumab,0
+Ampullary Dysplasia,CABOZANTINIB,0
+Ampullary Dysplasia,DERUXTECAN TRASTUZUMAB,0
+Ampullary Dysplasia,RAMUCIRUMAB,0
+Ampullary Dysplasia,ATEZOlizumab,0
+Ampullary Dysplasia,BEVACIZUMAB,0
+Ampullary Dysplasia,OLAPARIB,0
+Ampullary Dysplasia,TRAMETINIB,0
+Ampullary Dysplasia,RIBOCICLIB,0
+Ampullary Dysplasia,DURVALUMAB,0
+Ampullary Dysplasia,LENVATINIB,0
+Ampullary Dysplasia,PALBOCICLIB,0
+Ampullary Dysplasia,TRIFLURIDINA TIPIRACILO,0
+Ampullary Dysplasia,IPILIMUMAB,0
+Ampullary Dysplasia,PAZOPANIB,0
+Ampullary Dysplasia,CRIZOTINIB,0
+Ampullary Dysplasia,TRABECTEDINA,0
+Ampullary Dysplasia,AVELumab,0
+Ampullary Dysplasia,LORLATINIB,0
+Ampullary Dysplasia,ENZALUTAMIDA,0
+Ampullary Dysplasia,AFATINIB,0
+Ampullary Dysplasia,CAPECITABINA,0
+Ampullary Dysplasia,CETUXIMAB,0
+Ampullary Dysplasia,PACLitaxel ALBUMINA,0
+Ampullary Dysplasia,AFLIBERCEPT,0
+Ampullary Dysplasia,SACITUZUMAB GOVITECAN,0
+Ampullary Dysplasia,eriBULina,0
+Ampullary Dysplasia,PACLITAXEL,0
+Ampullary Dysplasia,CLORURO DE SODIO,0
+Ampullary Dysplasia,ENCORAFENIB,0
+Ampullary Dysplasia,EVEROLIMUS,0
+Ampullary Dysplasia,VINORELBINA,0
+Ampullary Dysplasia,PEMETREXED,0
+Ampullary Dysplasia,BINIMETINIB,0
+Ampullary Dysplasia,CARBOPLATINO,0
+Ampullary Dysplasia,ABIRATERONA,0
+Ampullary Dysplasia,DENOSUMAB,0
+Ampullary Dysplasia,EVEROLIMUS,0
+Ampullary Dysplasia,FILGRASTIM,0
+Ampullary Dysplasia,FLUOROURACILO,0
+Ampullary Dysplasia,DOXORUBICINA,0
+Ampullary Dysplasia,GEMCITABINA,1
+Ampullary Dysplasia,REGORAFENIB,0
+Ampullary Dysplasia,SELPERCATINIB,0
+Ampullary Dysplasia,REMDESIVIR,0
+Ampullary Dysplasia,ENOXAPARINA,0
+Ampullary Dysplasia,IRINOTECAN,0
+Ampullary Dysplasia,NINTEDANIB,0
+Ampullary Dysplasia,PLERIXAFOR,0
+Ampullary Dysplasia,ALPELISIB,0
+Ampullary Dysplasia,RUCAPARIB,0
+Ampullary Dysplasia,ALBÚMINA,0
+Ampullary Dysplasia,TEMOZOLOMIDA,0
+Ampullary Dysplasia,OXALIPLATINO,0
+Ampullary Dysplasia,SOTORASIB,0
+Gastrointestinal Dysplastic Polyp,PEMBROlizumab,0
+Gastrointestinal Dysplastic Polyp,OSIMERTINIB,0
+Gastrointestinal Dysplastic Polyp,NIVOlumab,0
+Gastrointestinal Dysplastic Polyp,ABEMACICLIB,0
+Gastrointestinal Dysplastic Polyp,EMTANSINA TRASTUZUMAB,0
+Gastrointestinal Dysplastic Polyp,PERTuzumab,0
+Gastrointestinal Dysplastic Polyp,PANItumumab,0
+Gastrointestinal Dysplastic Polyp,ALECTINIB,0
+Gastrointestinal Dysplastic Polyp,DABRAFENIB,0
+Gastrointestinal Dysplastic Polyp,NIRAPARIB,0
+Gastrointestinal Dysplastic Polyp,TRASTuzumab,0
+Gastrointestinal Dysplastic Polyp,CABOZANTINIB,0
+Gastrointestinal Dysplastic Polyp,DERUXTECAN TRASTUZUMAB,0
+Gastrointestinal Dysplastic Polyp,RAMUCIRUMAB,0
+Gastrointestinal Dysplastic Polyp,ATEZOlizumab,0
+Gastrointestinal Dysplastic Polyp,BEVACIZUMAB,1
+Gastrointestinal Dysplastic Polyp,OLAPARIB,0
+Gastrointestinal Dysplastic Polyp,TRAMETINIB,0
+Gastrointestinal Dysplastic Polyp,RIBOCICLIB,0
+Gastrointestinal Dysplastic Polyp,DURVALUMAB,0
+Gastrointestinal Dysplastic Polyp,LENVATINIB,0
+Gastrointestinal Dysplastic Polyp,PALBOCICLIB,0
+Gastrointestinal Dysplastic Polyp,TRIFLURIDINA TIPIRACILO,0
+Gastrointestinal Dysplastic Polyp,IPILIMUMAB,0
+Gastrointestinal Dysplastic Polyp,PAZOPANIB,0
+Gastrointestinal Dysplastic Polyp,CRIZOTINIB,0
+Gastrointestinal Dysplastic Polyp,TRABECTEDINA,0
+Gastrointestinal Dysplastic Polyp,AVELumab,0
+Gastrointestinal Dysplastic Polyp,LORLATINIB,0
+Gastrointestinal Dysplastic Polyp,ENZALUTAMIDA,0
+Gastrointestinal Dysplastic Polyp,AFATINIB,0
+Gastrointestinal Dysplastic Polyp,CAPECITABINA,0
+Gastrointestinal Dysplastic Polyp,CETUXIMAB,1
+Gastrointestinal Dysplastic Polyp,PACLitaxel ALBUMINA,0
+Gastrointestinal Dysplastic Polyp,AFLIBERCEPT,0
+Gastrointestinal Dysplastic Polyp,SACITUZUMAB GOVITECAN,0
+Gastrointestinal Dysplastic Polyp,eriBULina,0
+Gastrointestinal Dysplastic Polyp,PACLITAXEL,0
+Gastrointestinal Dysplastic Polyp,CLORURO DE SODIO,0
+Gastrointestinal Dysplastic Polyp,ENCORAFENIB,0
+Gastrointestinal Dysplastic Polyp,EVEROLIMUS,0
+Gastrointestinal Dysplastic Polyp,VINORELBINA,0
+Gastrointestinal Dysplastic Polyp,PEMETREXED,0
+Gastrointestinal Dysplastic Polyp,BINIMETINIB,0
+Gastrointestinal Dysplastic Polyp,CARBOPLATINO,0
+Gastrointestinal Dysplastic Polyp,ABIRATERONA,0
+Gastrointestinal Dysplastic Polyp,DENOSUMAB,0
+Gastrointestinal Dysplastic Polyp,EVEROLIMUS,0
+Gastrointestinal Dysplastic Polyp,FILGRASTIM,0
+Gastrointestinal Dysplastic Polyp,FLUOROURACILO,0
+Gastrointestinal Dysplastic Polyp,DOXORUBICINA,0
+Gastrointestinal Dysplastic Polyp,GEMCITABINA,0
+Gastrointestinal Dysplastic Polyp,REGORAFENIB,0
+Gastrointestinal Dysplastic Polyp,SELPERCATINIB,0
+Gastrointestinal Dysplastic Polyp,REMDESIVIR,0
+Gastrointestinal Dysplastic Polyp,ENOXAPARINA,0
+Gastrointestinal Dysplastic Polyp,IRINOTECAN,0
+Gastrointestinal Dysplastic Polyp,NINTEDANIB,0
+Gastrointestinal Dysplastic Polyp,PLERIXAFOR,0
+Gastrointestinal Dysplastic Polyp,ALPELISIB,0
+Gastrointestinal Dysplastic Polyp,RUCAPARIB,0
+Gastrointestinal Dysplastic Polyp,ALBÚMINA,0
+Gastrointestinal Dysplastic Polyp,TEMOZOLOMIDA,0
+Gastrointestinal Dysplastic Polyp,OXALIPLATINO,0
+Gastrointestinal Dysplastic Polyp,SOTORASIB,0
+Colorectal Carcinoma In Situ,PEMBROlizumab,3
+Colorectal Carcinoma In Situ,OSIMERTINIB,0
+Colorectal Carcinoma In Situ,NIVOlumab,2
+Colorectal Carcinoma In Situ,ABEMACICLIB,0
+Colorectal Carcinoma In Situ,EMTANSINA TRASTUZUMAB,0
+Colorectal Carcinoma In Situ,PERTuzumab,5
+Colorectal Carcinoma In Situ,PANItumumab,20
+Colorectal Carcinoma In Situ,ALECTINIB,0
+Colorectal Carcinoma In Situ,DABRAFENIB,0
+Colorectal Carcinoma In Situ,NIRAPARIB,0
+Colorectal Carcinoma In Situ,TRASTuzumab,22
+Colorectal Carcinoma In Situ,CABOZANTINIB,1
+Colorectal Carcinoma In Situ,DERUXTECAN TRASTUZUMAB,3
+Colorectal Carcinoma In Situ,RAMUCIRUMAB,0
+Colorectal Carcinoma In Situ,ATEZOlizumab,2
+Colorectal Carcinoma In Situ,BEVACIZUMAB,24
+Colorectal Carcinoma In Situ,OLAPARIB,0
+Colorectal Carcinoma In Situ,TRAMETINIB,0
+Colorectal Carcinoma In Situ,RIBOCICLIB,0
+Colorectal Carcinoma In Situ,DURVALUMAB,0
+Colorectal Carcinoma In Situ,LENVATINIB,0
+Colorectal Carcinoma In Situ,PALBOCICLIB,0
+Colorectal Carcinoma In Situ,TRIFLURIDINA TIPIRACILO,3
+Colorectal Carcinoma In Situ,IPILIMUMAB,0
+Colorectal Carcinoma In Situ,PAZOPANIB,0
+Colorectal Carcinoma In Situ,CRIZOTINIB,9
+Colorectal Carcinoma In Situ,TRABECTEDINA,0
+Colorectal Carcinoma In Situ,AVELumab,0
+Colorectal Carcinoma In Situ,LORLATINIB,0
+Colorectal Carcinoma In Situ,ENZALUTAMIDA,0
+Colorectal Carcinoma In Situ,AFATINIB,1
+Colorectal Carcinoma In Situ,CAPECITABINA,15
+Colorectal Carcinoma In Situ,CETUXIMAB,58
+Colorectal Carcinoma In Situ,PACLitaxel ALBUMINA,0
+Colorectal Carcinoma In Situ,AFLIBERCEPT,0
+Colorectal Carcinoma In Situ,SACITUZUMAB GOVITECAN,0
+Colorectal Carcinoma In Situ,eriBULina,0
+Colorectal Carcinoma In Situ,PACLITAXEL,7
+Colorectal Carcinoma In Situ,CLORURO DE SODIO,0
+Colorectal Carcinoma In Situ,ENCORAFENIB,0
+Colorectal Carcinoma In Situ,EVEROLIMUS,0
+Colorectal Carcinoma In Situ,VINORELBINA,0
+Colorectal Carcinoma In Situ,PEMETREXED,5
+Colorectal Carcinoma In Situ,BINIMETINIB,0
+Colorectal Carcinoma In Situ,CARBOPLATINO,2
+Colorectal Carcinoma In Situ,ABIRATERONA,0
+Colorectal Carcinoma In Situ,DENOSUMAB,0
+Colorectal Carcinoma In Situ,EVEROLIMUS,0
+Colorectal Carcinoma In Situ,FILGRASTIM,0
+Colorectal Carcinoma In Situ,FLUOROURACILO,116
+Colorectal Carcinoma In Situ,DOXORUBICINA,27
+Colorectal Carcinoma In Situ,GEMCITABINA,4
+Colorectal Carcinoma In Situ,REGORAFENIB,4
+Colorectal Carcinoma In Situ,SELPERCATINIB,0
+Colorectal Carcinoma In Situ,REMDESIVIR,0
+Colorectal Carcinoma In Situ,ENOXAPARINA,0
+Colorectal Carcinoma In Situ,IRINOTECAN,42
+Colorectal Carcinoma In Situ,NINTEDANIB,0
+Colorectal Carcinoma In Situ,PLERIXAFOR,0
+Colorectal Carcinoma In Situ,ALPELISIB,0
+Colorectal Carcinoma In Situ,RUCAPARIB,0
+Colorectal Carcinoma In Situ,ALBÚMINA,0
+Colorectal Carcinoma In Situ,TEMOZOLOMIDA,3
+Colorectal Carcinoma In Situ,OXALIPLATINO,46
+Colorectal Carcinoma In Situ,SOTORASIB,0
+Duodenal Dysplasia,PEMBROlizumab,0
+Duodenal Dysplasia,OSIMERTINIB,0
+Duodenal Dysplasia,NIVOlumab,0
+Duodenal Dysplasia,ABEMACICLIB,0
+Duodenal Dysplasia,EMTANSINA TRASTUZUMAB,0
+Duodenal Dysplasia,PERTuzumab,0
+Duodenal Dysplasia,PANItumumab,0
+Duodenal Dysplasia,ALECTINIB,0
+Duodenal Dysplasia,DABRAFENIB,0
+Duodenal Dysplasia,NIRAPARIB,0
+Duodenal Dysplasia,TRASTuzumab,0
+Duodenal Dysplasia,CABOZANTINIB,0
+Duodenal Dysplasia,DERUXTECAN TRASTUZUMAB,0
+Duodenal Dysplasia,RAMUCIRUMAB,0
+Duodenal Dysplasia,ATEZOlizumab,0
+Duodenal Dysplasia,BEVACIZUMAB,0
+Duodenal Dysplasia,OLAPARIB,0
+Duodenal Dysplasia,TRAMETINIB,0
+Duodenal Dysplasia,RIBOCICLIB,0
+Duodenal Dysplasia,DURVALUMAB,0
+Duodenal Dysplasia,LENVATINIB,0
+Duodenal Dysplasia,PALBOCICLIB,0
+Duodenal Dysplasia,TRIFLURIDINA TIPIRACILO,0
+Duodenal Dysplasia,IPILIMUMAB,0
+Duodenal Dysplasia,PAZOPANIB,0
+Duodenal Dysplasia,CRIZOTINIB,0
+Duodenal Dysplasia,TRABECTEDINA,0
+Duodenal Dysplasia,AVELumab,0
+Duodenal Dysplasia,LORLATINIB,0
+Duodenal Dysplasia,ENZALUTAMIDA,0
+Duodenal Dysplasia,AFATINIB,0
+Duodenal Dysplasia,CAPECITABINA,0
+Duodenal Dysplasia,CETUXIMAB,0
+Duodenal Dysplasia,PACLitaxel ALBUMINA,0
+Duodenal Dysplasia,AFLIBERCEPT,0
+Duodenal Dysplasia,SACITUZUMAB GOVITECAN,0
+Duodenal Dysplasia,eriBULina,0
+Duodenal Dysplasia,PACLITAXEL,0
+Duodenal Dysplasia,CLORURO DE SODIO,0
+Duodenal Dysplasia,ENCORAFENIB,0
+Duodenal Dysplasia,EVEROLIMUS,0
+Duodenal Dysplasia,VINORELBINA,0
+Duodenal Dysplasia,PEMETREXED,0
+Duodenal Dysplasia,BINIMETINIB,0
+Duodenal Dysplasia,CARBOPLATINO,0
+Duodenal Dysplasia,ABIRATERONA,0
+Duodenal Dysplasia,DENOSUMAB,0
+Duodenal Dysplasia,EVEROLIMUS,0
+Duodenal Dysplasia,FILGRASTIM,0
+Duodenal Dysplasia,FLUOROURACILO,1
+Duodenal Dysplasia,DOXORUBICINA,0
+Duodenal Dysplasia,GEMCITABINA,0
+Duodenal Dysplasia,REGORAFENIB,0
+Duodenal Dysplasia,SELPERCATINIB,0
+Duodenal Dysplasia,REMDESIVIR,0
+Duodenal Dysplasia,ENOXAPARINA,0
+Duodenal Dysplasia,IRINOTECAN,0
+Duodenal Dysplasia,NINTEDANIB,0
+Duodenal Dysplasia,PLERIXAFOR,0
+Duodenal Dysplasia,ALPELISIB,0
+Duodenal Dysplasia,RUCAPARIB,0
+Duodenal Dysplasia,ALBÚMINA,0
+Duodenal Dysplasia,TEMOZOLOMIDA,0
+Duodenal Dysplasia,OXALIPLATINO,0
+Duodenal Dysplasia,SOTORASIB,0
+Gastrointestinal Mucinous Adenocarcinoma,PEMBROlizumab,1
+Gastrointestinal Mucinous Adenocarcinoma,OSIMERTINIB,0
+Gastrointestinal Mucinous Adenocarcinoma,NIVOlumab,0
+Gastrointestinal Mucinous Adenocarcinoma,ABEMACICLIB,0
+Gastrointestinal Mucinous Adenocarcinoma,EMTANSINA TRASTUZUMAB,0
+Gastrointestinal Mucinous Adenocarcinoma,PERTuzumab,0
+Gastrointestinal Mucinous Adenocarcinoma,PANItumumab,4
+Gastrointestinal Mucinous Adenocarcinoma,ALECTINIB,0
+Gastrointestinal Mucinous Adenocarcinoma,DABRAFENIB,0
+Gastrointestinal Mucinous Adenocarcinoma,NIRAPARIB,0
+Gastrointestinal Mucinous Adenocarcinoma,TRASTuzumab,0
+Gastrointestinal Mucinous Adenocarcinoma,CABOZANTINIB,0
+Gastrointestinal Mucinous Adenocarcinoma,DERUXTECAN TRASTUZUMAB,0
+Gastrointestinal Mucinous Adenocarcinoma,RAMUCIRUMAB,1
+Gastrointestinal Mucinous Adenocarcinoma,ATEZOlizumab,0
+Gastrointestinal Mucinous Adenocarcinoma,BEVACIZUMAB,15
+Gastrointestinal Mucinous Adenocarcinoma,OLAPARIB,0
+Gastrointestinal Mucinous Adenocarcinoma,TRAMETINIB,0
+Gastrointestinal Mucinous Adenocarcinoma,RIBOCICLIB,0
+Gastrointestinal Mucinous Adenocarcinoma,DURVALUMAB,0
+Gastrointestinal Mucinous Adenocarcinoma,LENVATINIB,0
+Gastrointestinal Mucinous Adenocarcinoma,PALBOCICLIB,0
+Gastrointestinal Mucinous Adenocarcinoma,TRIFLURIDINA TIPIRACILO,0
+Gastrointestinal Mucinous Adenocarcinoma,IPILIMUMAB,0
+Gastrointestinal Mucinous Adenocarcinoma,PAZOPANIB,0
+Gastrointestinal Mucinous Adenocarcinoma,CRIZOTINIB,0
+Gastrointestinal Mucinous Adenocarcinoma,TRABECTEDINA,0
+Gastrointestinal Mucinous Adenocarcinoma,AVELumab,1
+Gastrointestinal Mucinous Adenocarcinoma,LORLATINIB,0
+Gastrointestinal Mucinous Adenocarcinoma,ENZALUTAMIDA,0
+Gastrointestinal Mucinous Adenocarcinoma,AFATINIB,0
+Gastrointestinal Mucinous Adenocarcinoma,CAPECITABINA,13
+Gastrointestinal Mucinous Adenocarcinoma,CETUXIMAB,2
+Gastrointestinal Mucinous Adenocarcinoma,PACLitaxel ALBUMINA,0
+Gastrointestinal Mucinous Adenocarcinoma,AFLIBERCEPT,0
+Gastrointestinal Mucinous Adenocarcinoma,SACITUZUMAB GOVITECAN,0
+Gastrointestinal Mucinous Adenocarcinoma,eriBULina,0
+Gastrointestinal Mucinous Adenocarcinoma,PACLITAXEL,7
+Gastrointestinal Mucinous Adenocarcinoma,CLORURO DE SODIO,0
+Gastrointestinal Mucinous Adenocarcinoma,ENCORAFENIB,0
+Gastrointestinal Mucinous Adenocarcinoma,EVEROLIMUS,1
+Gastrointestinal Mucinous Adenocarcinoma,VINORELBINA,0
+Gastrointestinal Mucinous Adenocarcinoma,PEMETREXED,0
+Gastrointestinal Mucinous Adenocarcinoma,BINIMETINIB,0
+Gastrointestinal Mucinous Adenocarcinoma,CARBOPLATINO,5
+Gastrointestinal Mucinous Adenocarcinoma,ABIRATERONA,0
+Gastrointestinal Mucinous Adenocarcinoma,DENOSUMAB,0
+Gastrointestinal Mucinous Adenocarcinoma,EVEROLIMUS,1
+Gastrointestinal Mucinous Adenocarcinoma,FILGRASTIM,0
+Gastrointestinal Mucinous Adenocarcinoma,FLUOROURACILO,39
+Gastrointestinal Mucinous Adenocarcinoma,DOXORUBICINA,10
+Gastrointestinal Mucinous Adenocarcinoma,GEMCITABINA,5
+Gastrointestinal Mucinous Adenocarcinoma,REGORAFENIB,1
+Gastrointestinal Mucinous Adenocarcinoma,SELPERCATINIB,0
+Gastrointestinal Mucinous Adenocarcinoma,REMDESIVIR,0
+Gastrointestinal Mucinous Adenocarcinoma,ENOXAPARINA,0
+Gastrointestinal Mucinous Adenocarcinoma,IRINOTECAN,9
+Gastrointestinal Mucinous Adenocarcinoma,NINTEDANIB,0
+Gastrointestinal Mucinous Adenocarcinoma,PLERIXAFOR,0
+Gastrointestinal Mucinous Adenocarcinoma,ALPELISIB,0
+Gastrointestinal Mucinous Adenocarcinoma,RUCAPARIB,0
+Gastrointestinal Mucinous Adenocarcinoma,ALBÚMINA,0
+Gastrointestinal Mucinous Adenocarcinoma,TEMOZOLOMIDA,0
+Gastrointestinal Mucinous Adenocarcinoma,OXALIPLATINO,18
+Gastrointestinal Mucinous Adenocarcinoma,SOTORASIB,0
+Small Intestine Dysplasia,PEMBROlizumab,0
+Small Intestine Dysplasia,OSIMERTINIB,0
+Small Intestine Dysplasia,NIVOlumab,0
+Small Intestine Dysplasia,ABEMACICLIB,0
+Small Intestine Dysplasia,EMTANSINA TRASTUZUMAB,0
+Small Intestine Dysplasia,PERTuzumab,0
+Small Intestine Dysplasia,PANItumumab,0
+Small Intestine Dysplasia,ALECTINIB,0
+Small Intestine Dysplasia,DABRAFENIB,0
+Small Intestine Dysplasia,NIRAPARIB,0
+Small Intestine Dysplasia,TRASTuzumab,0
+Small Intestine Dysplasia,CABOZANTINIB,0
+Small Intestine Dysplasia,DERUXTECAN TRASTUZUMAB,0
+Small Intestine Dysplasia,RAMUCIRUMAB,0
+Small Intestine Dysplasia,ATEZOlizumab,0
+Small Intestine Dysplasia,BEVACIZUMAB,0
+Small Intestine Dysplasia,OLAPARIB,0
+Small Intestine Dysplasia,TRAMETINIB,0
+Small Intestine Dysplasia,RIBOCICLIB,0
+Small Intestine Dysplasia,DURVALUMAB,0
+Small Intestine Dysplasia,LENVATINIB,0
+Small Intestine Dysplasia,PALBOCICLIB,0
+Small Intestine Dysplasia,TRIFLURIDINA TIPIRACILO,0
+Small Intestine Dysplasia,IPILIMUMAB,0
+Small Intestine Dysplasia,PAZOPANIB,0
+Small Intestine Dysplasia,CRIZOTINIB,0
+Small Intestine Dysplasia,TRABECTEDINA,0
+Small Intestine Dysplasia,AVELumab,0
+Small Intestine Dysplasia,LORLATINIB,0
+Small Intestine Dysplasia,ENZALUTAMIDA,0
+Small Intestine Dysplasia,AFATINIB,0
+Small Intestine Dysplasia,CAPECITABINA,1
+Small Intestine Dysplasia,CETUXIMAB,0
+Small Intestine Dysplasia,PACLitaxel ALBUMINA,0
+Small Intestine Dysplasia,AFLIBERCEPT,0
+Small Intestine Dysplasia,SACITUZUMAB GOVITECAN,0
+Small Intestine Dysplasia,eriBULina,0
+Small Intestine Dysplasia,PACLITAXEL,0
+Small Intestine Dysplasia,CLORURO DE SODIO,0
+Small Intestine Dysplasia,ENCORAFENIB,0
+Small Intestine Dysplasia,EVEROLIMUS,0
+Small Intestine Dysplasia,VINORELBINA,0
+Small Intestine Dysplasia,PEMETREXED,0
+Small Intestine Dysplasia,BINIMETINIB,0
+Small Intestine Dysplasia,CARBOPLATINO,0
+Small Intestine Dysplasia,ABIRATERONA,0
+Small Intestine Dysplasia,DENOSUMAB,0
+Small Intestine Dysplasia,EVEROLIMUS,0
+Small Intestine Dysplasia,FILGRASTIM,0
+Small Intestine Dysplasia,FLUOROURACILO,0
+Small Intestine Dysplasia,DOXORUBICINA,0
+Small Intestine Dysplasia,GEMCITABINA,0
+Small Intestine Dysplasia,REGORAFENIB,0
+Small Intestine Dysplasia,SELPERCATINIB,0
+Small Intestine Dysplasia,REMDESIVIR,0
+Small Intestine Dysplasia,ENOXAPARINA,0
+Small Intestine Dysplasia,IRINOTECAN,0
+Small Intestine Dysplasia,NINTEDANIB,0
+Small Intestine Dysplasia,PLERIXAFOR,0
+Small Intestine Dysplasia,ALPELISIB,0
+Small Intestine Dysplasia,RUCAPARIB,0
+Small Intestine Dysplasia,ALBÚMINA,0
+Small Intestine Dysplasia,TEMOZOLOMIDA,0
+Small Intestine Dysplasia,OXALIPLATINO,1
+Small Intestine Dysplasia,SOTORASIB,0
+Gastrointestinal Carcinoma Invasive,PEMBROlizumab,11
+Gastrointestinal Carcinoma Invasive,OSIMERTINIB,0
+Gastrointestinal Carcinoma Invasive,NIVOlumab,4
+Gastrointestinal Carcinoma Invasive,ABEMACICLIB,0
+Gastrointestinal Carcinoma Invasive,EMTANSINA TRASTUZUMAB,0
+Gastrointestinal Carcinoma Invasive,PERTuzumab,0
+Gastrointestinal Carcinoma Invasive,PANItumumab,0
+Gastrointestinal Carcinoma Invasive,ALECTINIB,0
+Gastrointestinal Carcinoma Invasive,DABRAFENIB,0
+Gastrointestinal Carcinoma Invasive,NIRAPARIB,0
+Gastrointestinal Carcinoma Invasive,TRASTuzumab,9
+Gastrointestinal Carcinoma Invasive,CABOZANTINIB,3
+Gastrointestinal Carcinoma Invasive,DERUXTECAN TRASTUZUMAB,1
+Gastrointestinal Carcinoma Invasive,RAMUCIRUMAB,1
+Gastrointestinal Carcinoma Invasive,ATEZOlizumab,9
+Gastrointestinal Carcinoma Invasive,BEVACIZUMAB,18
+Gastrointestinal Carcinoma Invasive,OLAPARIB,0
+Gastrointestinal Carcinoma Invasive,TRAMETINIB,1
+Gastrointestinal Carcinoma Invasive,RIBOCICLIB,1
+Gastrointestinal Carcinoma Invasive,DURVALUMAB,0
+Gastrointestinal Carcinoma Invasive,LENVATINIB,3
+Gastrointestinal Carcinoma Invasive,PALBOCICLIB,3
+Gastrointestinal Carcinoma Invasive,TRIFLURIDINA TIPIRACILO,0
+Gastrointestinal Carcinoma Invasive,IPILIMUMAB,2
+Gastrointestinal Carcinoma Invasive,PAZOPANIB,1
+Gastrointestinal Carcinoma Invasive,CRIZOTINIB,2
+Gastrointestinal Carcinoma Invasive,TRABECTEDINA,0
+Gastrointestinal Carcinoma Invasive,AVELumab,0
+Gastrointestinal Carcinoma Invasive,LORLATINIB,0
+Gastrointestinal Carcinoma Invasive,ENZALUTAMIDA,0
+Gastrointestinal Carcinoma Invasive,AFATINIB,1
+Gastrointestinal Carcinoma Invasive,CAPECITABINA,17
+Gastrointestinal Carcinoma Invasive,CETUXIMAB,6
+Gastrointestinal Carcinoma Invasive,PACLitaxel ALBUMINA,0
+Gastrointestinal Carcinoma Invasive,AFLIBERCEPT,0
+Gastrointestinal Carcinoma Invasive,SACITUZUMAB GOVITECAN,0
+Gastrointestinal Carcinoma Invasive,eriBULina,0
+Gastrointestinal Carcinoma Invasive,PACLITAXEL,37
+Gastrointestinal Carcinoma Invasive,CLORURO DE SODIO,0
+Gastrointestinal Carcinoma Invasive,ENCORAFENIB,0
+Gastrointestinal Carcinoma Invasive,EVEROLIMUS,2
+Gastrointestinal Carcinoma Invasive,VINORELBINA,4
+Gastrointestinal Carcinoma Invasive,PEMETREXED,0
+Gastrointestinal Carcinoma Invasive,BINIMETINIB,0
+Gastrointestinal Carcinoma Invasive,CARBOPLATINO,23
+Gastrointestinal Carcinoma Invasive,ABIRATERONA,0
+Gastrointestinal Carcinoma Invasive,DENOSUMAB,1
+Gastrointestinal Carcinoma Invasive,EVEROLIMUS,2
+Gastrointestinal Carcinoma Invasive,FILGRASTIM,0
+Gastrointestinal Carcinoma Invasive,FLUOROURACILO,128
+Gastrointestinal Carcinoma Invasive,DOXORUBICINA,31
+Gastrointestinal Carcinoma Invasive,GEMCITABINA,41
+Gastrointestinal Carcinoma Invasive,REGORAFENIB,3
+Gastrointestinal Carcinoma Invasive,SELPERCATINIB,0
+Gastrointestinal Carcinoma Invasive,REMDESIVIR,0
+Gastrointestinal Carcinoma Invasive,ENOXAPARINA,0
+Gastrointestinal Carcinoma Invasive,IRINOTECAN,6
+Gastrointestinal Carcinoma Invasive,NINTEDANIB,0
+Gastrointestinal Carcinoma Invasive,PLERIXAFOR,2
+Gastrointestinal Carcinoma Invasive,ALPELISIB,0
+Gastrointestinal Carcinoma Invasive,RUCAPARIB,0
+Gastrointestinal Carcinoma Invasive,ALBÚMINA,0
+Gastrointestinal Carcinoma Invasive,TEMOZOLOMIDA,0
+Gastrointestinal Carcinoma Invasive,OXALIPLATINO,28
+Gastrointestinal Carcinoma Invasive,SOTORASIB,0
+Rectal Dysplasia,PEMBROlizumab,0
+Rectal Dysplasia,OSIMERTINIB,0
+Rectal Dysplasia,NIVOlumab,0
+Rectal Dysplasia,ABEMACICLIB,0
+Rectal Dysplasia,EMTANSINA TRASTUZUMAB,0
+Rectal Dysplasia,PERTuzumab,0
+Rectal Dysplasia,PANItumumab,1
+Rectal Dysplasia,ALECTINIB,0
+Rectal Dysplasia,DABRAFENIB,0
+Rectal Dysplasia,NIRAPARIB,0
+Rectal Dysplasia,TRASTuzumab,0
+Rectal Dysplasia,CABOZANTINIB,0
+Rectal Dysplasia,DERUXTECAN TRASTUZUMAB,0
+Rectal Dysplasia,RAMUCIRUMAB,0
+Rectal Dysplasia,ATEZOlizumab,0
+Rectal Dysplasia,BEVACIZUMAB,1
+Rectal Dysplasia,OLAPARIB,0
+Rectal Dysplasia,TRAMETINIB,0
+Rectal Dysplasia,RIBOCICLIB,0
+Rectal Dysplasia,DURVALUMAB,0
+Rectal Dysplasia,LENVATINIB,0
+Rectal Dysplasia,PALBOCICLIB,0
+Rectal Dysplasia,TRIFLURIDINA TIPIRACILO,0
+Rectal Dysplasia,IPILIMUMAB,0
+Rectal Dysplasia,PAZOPANIB,0
+Rectal Dysplasia,CRIZOTINIB,0
+Rectal Dysplasia,TRABECTEDINA,0
+Rectal Dysplasia,AVELumab,0
+Rectal Dysplasia,LORLATINIB,0
+Rectal Dysplasia,ENZALUTAMIDA,0
+Rectal Dysplasia,AFATINIB,0
+Rectal Dysplasia,CAPECITABINA,1
+Rectal Dysplasia,CETUXIMAB,0
+Rectal Dysplasia,PACLitaxel ALBUMINA,0
+Rectal Dysplasia,AFLIBERCEPT,0
+Rectal Dysplasia,SACITUZUMAB GOVITECAN,0
+Rectal Dysplasia,eriBULina,0
+Rectal Dysplasia,PACLITAXEL,0
+Rectal Dysplasia,CLORURO DE SODIO,0
+Rectal Dysplasia,ENCORAFENIB,0
+Rectal Dysplasia,EVEROLIMUS,0
+Rectal Dysplasia,VINORELBINA,0
+Rectal Dysplasia,PEMETREXED,0
+Rectal Dysplasia,BINIMETINIB,0
+Rectal Dysplasia,CARBOPLATINO,0
+Rectal Dysplasia,ABIRATERONA,0
+Rectal Dysplasia,DENOSUMAB,0
+Rectal Dysplasia,EVEROLIMUS,0
+Rectal Dysplasia,FILGRASTIM,0
+Rectal Dysplasia,FLUOROURACILO,6
+Rectal Dysplasia,DOXORUBICINA,0
+Rectal Dysplasia,GEMCITABINA,0
+Rectal Dysplasia,REGORAFENIB,0
+Rectal Dysplasia,SELPERCATINIB,0
+Rectal Dysplasia,REMDESIVIR,0
+Rectal Dysplasia,ENOXAPARINA,0
+Rectal Dysplasia,IRINOTECAN,0
+Rectal Dysplasia,NINTEDANIB,0
+Rectal Dysplasia,PLERIXAFOR,0
+Rectal Dysplasia,ALPELISIB,0
+Rectal Dysplasia,RUCAPARIB,0
+Rectal Dysplasia,ALBÚMINA,0
+Rectal Dysplasia,TEMOZOLOMIDA,0
+Rectal Dysplasia,OXALIPLATINO,1
+Rectal Dysplasia,SOTORASIB,0
+Ampullary Carcinoma In Situ,PEMBROlizumab,0
+Ampullary Carcinoma In Situ,OSIMERTINIB,0
+Ampullary Carcinoma In Situ,NIVOlumab,0
+Ampullary Carcinoma In Situ,ABEMACICLIB,0
+Ampullary Carcinoma In Situ,EMTANSINA TRASTUZUMAB,0
+Ampullary Carcinoma In Situ,PERTuzumab,0
+Ampullary Carcinoma In Situ,PANItumumab,0
+Ampullary Carcinoma In Situ,ALECTINIB,0
+Ampullary Carcinoma In Situ,DABRAFENIB,0
+Ampullary Carcinoma In Situ,NIRAPARIB,0
+Ampullary Carcinoma In Situ,TRASTuzumab,0
+Ampullary Carcinoma In Situ,CABOZANTINIB,0
+Ampullary Carcinoma In Situ,DERUXTECAN TRASTUZUMAB,0
+Ampullary Carcinoma In Situ,RAMUCIRUMAB,0
+Ampullary Carcinoma In Situ,ATEZOlizumab,0
+Ampullary Carcinoma In Situ,BEVACIZUMAB,0
+Ampullary Carcinoma In Situ,OLAPARIB,0
+Ampullary Carcinoma In Situ,TRAMETINIB,0
+Ampullary Carcinoma In Situ,RIBOCICLIB,0
+Ampullary Carcinoma In Situ,DURVALUMAB,0
+Ampullary Carcinoma In Situ,LENVATINIB,0
+Ampullary Carcinoma In Situ,PALBOCICLIB,0
+Ampullary Carcinoma In Situ,TRIFLURIDINA TIPIRACILO,0
+Ampullary Carcinoma In Situ,IPILIMUMAB,0
+Ampullary Carcinoma In Situ,PAZOPANIB,0
+Ampullary Carcinoma In Situ,CRIZOTINIB,0
+Ampullary Carcinoma In Situ,TRABECTEDINA,0
+Ampullary Carcinoma In Situ,AVELumab,0
+Ampullary Carcinoma In Situ,LORLATINIB,0
+Ampullary Carcinoma In Situ,ENZALUTAMIDA,0
+Ampullary Carcinoma In Situ,AFATINIB,0
+Ampullary Carcinoma In Situ,CAPECITABINA,0
+Ampullary Carcinoma In Situ,CETUXIMAB,0
+Ampullary Carcinoma In Situ,PACLitaxel ALBUMINA,0
+Ampullary Carcinoma In Situ,AFLIBERCEPT,0
+Ampullary Carcinoma In Situ,SACITUZUMAB GOVITECAN,0
+Ampullary Carcinoma In Situ,eriBULina,0
+Ampullary Carcinoma In Situ,PACLITAXEL,0
+Ampullary Carcinoma In Situ,CLORURO DE SODIO,0
+Ampullary Carcinoma In Situ,ENCORAFENIB,0
+Ampullary Carcinoma In Situ,EVEROLIMUS,0
+Ampullary Carcinoma In Situ,VINORELBINA,0
+Ampullary Carcinoma In Situ,PEMETREXED,0
+Ampullary Carcinoma In Situ,BINIMETINIB,0
+Ampullary Carcinoma In Situ,CARBOPLATINO,0
+Ampullary Carcinoma In Situ,ABIRATERONA,0
+Ampullary Carcinoma In Situ,DENOSUMAB,0
+Ampullary Carcinoma In Situ,EVEROLIMUS,0
+Ampullary Carcinoma In Situ,FILGRASTIM,0
+Ampullary Carcinoma In Situ,FLUOROURACILO,0
+Ampullary Carcinoma In Situ,DOXORUBICINA,0
+Ampullary Carcinoma In Situ,GEMCITABINA,1
+Ampullary Carcinoma In Situ,REGORAFENIB,0
+Ampullary Carcinoma In Situ,SELPERCATINIB,0
+Ampullary Carcinoma In Situ,REMDESIVIR,0
+Ampullary Carcinoma In Situ,ENOXAPARINA,0
+Ampullary Carcinoma In Situ,IRINOTECAN,0
+Ampullary Carcinoma In Situ,NINTEDANIB,0
+Ampullary Carcinoma In Situ,PLERIXAFOR,0
+Ampullary Carcinoma In Situ,ALPELISIB,0
+Ampullary Carcinoma In Situ,RUCAPARIB,0
+Ampullary Carcinoma In Situ,ALBÚMINA,0
+Ampullary Carcinoma In Situ,TEMOZOLOMIDA,0
+Ampullary Carcinoma In Situ,OXALIPLATINO,0
+Ampullary Carcinoma In Situ,SOTORASIB,0
+Duodenal Carcinoma In Situ,PEMBROlizumab,0
+Duodenal Carcinoma In Situ,OSIMERTINIB,0
+Duodenal Carcinoma In Situ,NIVOlumab,0
+Duodenal Carcinoma In Situ,ABEMACICLIB,0
+Duodenal Carcinoma In Situ,EMTANSINA TRASTUZUMAB,0
+Duodenal Carcinoma In Situ,PERTuzumab,0
+Duodenal Carcinoma In Situ,PANItumumab,0
+Duodenal Carcinoma In Situ,ALECTINIB,0
+Duodenal Carcinoma In Situ,DABRAFENIB,0
+Duodenal Carcinoma In Situ,NIRAPARIB,0
+Duodenal Carcinoma In Situ,TRASTuzumab,1
+Duodenal Carcinoma In Situ,CABOZANTINIB,0
+Duodenal Carcinoma In Situ,DERUXTECAN TRASTUZUMAB,0
+Duodenal Carcinoma In Situ,RAMUCIRUMAB,0
+Duodenal Carcinoma In Situ,ATEZOlizumab,0
+Duodenal Carcinoma In Situ,BEVACIZUMAB,0
+Duodenal Carcinoma In Situ,OLAPARIB,0
+Duodenal Carcinoma In Situ,TRAMETINIB,0
+Duodenal Carcinoma In Situ,RIBOCICLIB,0
+Duodenal Carcinoma In Situ,DURVALUMAB,0
+Duodenal Carcinoma In Situ,LENVATINIB,0
+Duodenal Carcinoma In Situ,PALBOCICLIB,0
+Duodenal Carcinoma In Situ,TRIFLURIDINA TIPIRACILO,0
+Duodenal Carcinoma In Situ,IPILIMUMAB,0
+Duodenal Carcinoma In Situ,PAZOPANIB,0
+Duodenal Carcinoma In Situ,CRIZOTINIB,0
+Duodenal Carcinoma In Situ,TRABECTEDINA,0
+Duodenal Carcinoma In Situ,AVELumab,0
+Duodenal Carcinoma In Situ,LORLATINIB,0
+Duodenal Carcinoma In Situ,ENZALUTAMIDA,0
+Duodenal Carcinoma In Situ,AFATINIB,0
+Duodenal Carcinoma In Situ,CAPECITABINA,0
+Duodenal Carcinoma In Situ,CETUXIMAB,0
+Duodenal Carcinoma In Situ,PACLitaxel ALBUMINA,0
+Duodenal Carcinoma In Situ,AFLIBERCEPT,0
+Duodenal Carcinoma In Situ,SACITUZUMAB GOVITECAN,0
+Duodenal Carcinoma In Situ,eriBULina,0
+Duodenal Carcinoma In Situ,PACLITAXEL,0
+Duodenal Carcinoma In Situ,CLORURO DE SODIO,0
+Duodenal Carcinoma In Situ,ENCORAFENIB,0
+Duodenal Carcinoma In Situ,EVEROLIMUS,0
+Duodenal Carcinoma In Situ,VINORELBINA,0
+Duodenal Carcinoma In Situ,PEMETREXED,0
+Duodenal Carcinoma In Situ,BINIMETINIB,0
+Duodenal Carcinoma In Situ,CARBOPLATINO,0
+Duodenal Carcinoma In Situ,ABIRATERONA,0
+Duodenal Carcinoma In Situ,DENOSUMAB,0
+Duodenal Carcinoma In Situ,EVEROLIMUS,0
+Duodenal Carcinoma In Situ,FILGRASTIM,0
+Duodenal Carcinoma In Situ,FLUOROURACILO,1
+Duodenal Carcinoma In Situ,DOXORUBICINA,0
+Duodenal Carcinoma In Situ,GEMCITABINA,3
+Duodenal Carcinoma In Situ,REGORAFENIB,0
+Duodenal Carcinoma In Situ,SELPERCATINIB,0
+Duodenal Carcinoma In Situ,REMDESIVIR,0
+Duodenal Carcinoma In Situ,ENOXAPARINA,0
+Duodenal Carcinoma In Situ,IRINOTECAN,0
+Duodenal Carcinoma In Situ,NINTEDANIB,0
+Duodenal Carcinoma In Situ,PLERIXAFOR,0
+Duodenal Carcinoma In Situ,ALPELISIB,0
+Duodenal Carcinoma In Situ,RUCAPARIB,0
+Duodenal Carcinoma In Situ,ALBÚMINA,0
+Duodenal Carcinoma In Situ,TEMOZOLOMIDA,0
+Duodenal Carcinoma In Situ,OXALIPLATINO,0
+Duodenal Carcinoma In Situ,SOTORASIB,0
+Pancreatic Carcinoma In Situ,PEMBROlizumab,1
+Pancreatic Carcinoma In Situ,OSIMERTINIB,0
+Pancreatic Carcinoma In Situ,NIVOlumab,0
+Pancreatic Carcinoma In Situ,ABEMACICLIB,0
+Pancreatic Carcinoma In Situ,EMTANSINA TRASTUZUMAB,0
+Pancreatic Carcinoma In Situ,PERTuzumab,1
+Pancreatic Carcinoma In Situ,PANItumumab,1
+Pancreatic Carcinoma In Situ,ALECTINIB,0
+Pancreatic Carcinoma In Situ,DABRAFENIB,0
+Pancreatic Carcinoma In Situ,NIRAPARIB,0
+Pancreatic Carcinoma In Situ,TRASTuzumab,9
+Pancreatic Carcinoma In Situ,CABOZANTINIB,0
+Pancreatic Carcinoma In Situ,DERUXTECAN TRASTUZUMAB,0
+Pancreatic Carcinoma In Situ,RAMUCIRUMAB,0
+Pancreatic Carcinoma In Situ,ATEZOlizumab,0
+Pancreatic Carcinoma In Situ,BEVACIZUMAB,0
+Pancreatic Carcinoma In Situ,OLAPARIB,1
+Pancreatic Carcinoma In Situ,TRAMETINIB,0
+Pancreatic Carcinoma In Situ,RIBOCICLIB,0
+Pancreatic Carcinoma In Situ,DURVALUMAB,1
+Pancreatic Carcinoma In Situ,LENVATINIB,0
+Pancreatic Carcinoma In Situ,PALBOCICLIB,0
+Pancreatic Carcinoma In Situ,TRIFLURIDINA TIPIRACILO,1
+Pancreatic Carcinoma In Situ,IPILIMUMAB,0
+Pancreatic Carcinoma In Situ,PAZOPANIB,0
+Pancreatic Carcinoma In Situ,CRIZOTINIB,0
+Pancreatic Carcinoma In Situ,TRABECTEDINA,0
+Pancreatic Carcinoma In Situ,AVELumab,0
+Pancreatic Carcinoma In Situ,LORLATINIB,0
+Pancreatic Carcinoma In Situ,ENZALUTAMIDA,0
+Pancreatic Carcinoma In Situ,AFATINIB,2
+Pancreatic Carcinoma In Situ,CAPECITABINA,2
+Pancreatic Carcinoma In Situ,CETUXIMAB,7
+Pancreatic Carcinoma In Situ,PACLitaxel ALBUMINA,0
+Pancreatic Carcinoma In Situ,AFLIBERCEPT,0
+Pancreatic Carcinoma In Situ,SACITUZUMAB GOVITECAN,0
+Pancreatic Carcinoma In Situ,eriBULina,0
+Pancreatic Carcinoma In Situ,PACLITAXEL,13
+Pancreatic Carcinoma In Situ,CLORURO DE SODIO,0
+Pancreatic Carcinoma In Situ,ENCORAFENIB,0
+Pancreatic Carcinoma In Situ,EVEROLIMUS,1
+Pancreatic Carcinoma In Situ,VINORELBINA,0
+Pancreatic Carcinoma In Situ,PEMETREXED,1
+Pancreatic Carcinoma In Situ,BINIMETINIB,1
+Pancreatic Carcinoma In Situ,CARBOPLATINO,1
+Pancreatic Carcinoma In Situ,ABIRATERONA,0
+Pancreatic Carcinoma In Situ,DENOSUMAB,0
+Pancreatic Carcinoma In Situ,EVEROLIMUS,1
+Pancreatic Carcinoma In Situ,FILGRASTIM,0
+Pancreatic Carcinoma In Situ,FLUOROURACILO,21
+Pancreatic Carcinoma In Situ,DOXORUBICINA,8
+Pancreatic Carcinoma In Situ,GEMCITABINA,88
+Pancreatic Carcinoma In Situ,REGORAFENIB,2
+Pancreatic Carcinoma In Situ,SELPERCATINIB,0
+Pancreatic Carcinoma In Situ,REMDESIVIR,0
+Pancreatic Carcinoma In Situ,ENOXAPARINA,0
+Pancreatic Carcinoma In Situ,IRINOTECAN,8
+Pancreatic Carcinoma In Situ,NINTEDANIB,0
+Pancreatic Carcinoma In Situ,PLERIXAFOR,0
+Pancreatic Carcinoma In Situ,ALPELISIB,0
+Pancreatic Carcinoma In Situ,RUCAPARIB,0
+Pancreatic Carcinoma In Situ,ALBÚMINA,0
+Pancreatic Carcinoma In Situ,TEMOZOLOMIDA,2
+Pancreatic Carcinoma In Situ,OXALIPLATINO,6
+Pancreatic Carcinoma In Situ,SOTORASIB,0
+Small Intestine Carcinoma Invasive,PEMBROlizumab,1
+Small Intestine Carcinoma Invasive,OSIMERTINIB,0
+Small Intestine Carcinoma Invasive,NIVOlumab,2
+Small Intestine Carcinoma Invasive,ABEMACICLIB,0
+Small Intestine Carcinoma Invasive,EMTANSINA TRASTUZUMAB,0
+Small Intestine Carcinoma Invasive,PERTuzumab,0
+Small Intestine Carcinoma Invasive,PANItumumab,0
+Small Intestine Carcinoma Invasive,ALECTINIB,1
+Small Intestine Carcinoma Invasive,DABRAFENIB,0
+Small Intestine Carcinoma Invasive,NIRAPARIB,0
+Small Intestine Carcinoma Invasive,TRASTuzumab,0
+Small Intestine Carcinoma Invasive,CABOZANTINIB,1
+Small Intestine Carcinoma Invasive,DERUXTECAN TRASTUZUMAB,0
+Small Intestine Carcinoma Invasive,RAMUCIRUMAB,0
+Small Intestine Carcinoma Invasive,ATEZOlizumab,1
+Small Intestine Carcinoma Invasive,BEVACIZUMAB,5
+Small Intestine Carcinoma Invasive,OLAPARIB,0
+Small Intestine Carcinoma Invasive,TRAMETINIB,0
+Small Intestine Carcinoma Invasive,RIBOCICLIB,0
+Small Intestine Carcinoma Invasive,DURVALUMAB,0
+Small Intestine Carcinoma Invasive,LENVATINIB,1
+Small Intestine Carcinoma Invasive,PALBOCICLIB,0
+Small Intestine Carcinoma Invasive,TRIFLURIDINA TIPIRACILO,0
+Small Intestine Carcinoma Invasive,IPILIMUMAB,1
+Small Intestine Carcinoma Invasive,PAZOPANIB,0
+Small Intestine Carcinoma Invasive,CRIZOTINIB,0
+Small Intestine Carcinoma Invasive,TRABECTEDINA,0
+Small Intestine Carcinoma Invasive,AVELumab,0
+Small Intestine Carcinoma Invasive,LORLATINIB,0
+Small Intestine Carcinoma Invasive,ENZALUTAMIDA,0
+Small Intestine Carcinoma Invasive,AFATINIB,0
+Small Intestine Carcinoma Invasive,CAPECITABINA,5
+Small Intestine Carcinoma Invasive,CETUXIMAB,0
+Small Intestine Carcinoma Invasive,PACLitaxel ALBUMINA,0
+Small Intestine Carcinoma Invasive,AFLIBERCEPT,0
+Small Intestine Carcinoma Invasive,SACITUZUMAB GOVITECAN,0
+Small Intestine Carcinoma Invasive,eriBULina,0
+Small Intestine Carcinoma Invasive,PACLITAXEL,7
+Small Intestine Carcinoma Invasive,CLORURO DE SODIO,0
+Small Intestine Carcinoma Invasive,ENCORAFENIB,0
+Small Intestine Carcinoma Invasive,EVEROLIMUS,1
+Small Intestine Carcinoma Invasive,VINORELBINA,0
+Small Intestine Carcinoma Invasive,PEMETREXED,0
+Small Intestine Carcinoma Invasive,BINIMETINIB,0
+Small Intestine Carcinoma Invasive,CARBOPLATINO,1
+Small Intestine Carcinoma Invasive,ABIRATERONA,0
+Small Intestine Carcinoma Invasive,DENOSUMAB,0
+Small Intestine Carcinoma Invasive,EVEROLIMUS,1
+Small Intestine Carcinoma Invasive,FILGRASTIM,0
+Small Intestine Carcinoma Invasive,FLUOROURACILO,21
+Small Intestine Carcinoma Invasive,DOXORUBICINA,2
+Small Intestine Carcinoma Invasive,GEMCITABINA,12
+Small Intestine Carcinoma Invasive,REGORAFENIB,3
+Small Intestine Carcinoma Invasive,SELPERCATINIB,1
+Small Intestine Carcinoma Invasive,REMDESIVIR,0
+Small Intestine Carcinoma Invasive,ENOXAPARINA,0
+Small Intestine Carcinoma Invasive,IRINOTECAN,2
+Small Intestine Carcinoma Invasive,NINTEDANIB,1
+Small Intestine Carcinoma Invasive,PLERIXAFOR,0
+Small Intestine Carcinoma Invasive,ALPELISIB,0
+Small Intestine Carcinoma Invasive,RUCAPARIB,0
+Small Intestine Carcinoma Invasive,ALBÚMINA,0
+Small Intestine Carcinoma Invasive,TEMOZOLOMIDA,0
+Small Intestine Carcinoma Invasive,OXALIPLATINO,9
+Small Intestine Carcinoma Invasive,SOTORASIB,0
+Colorectal Carcinoma Invasive,PEMBROlizumab,16
+Colorectal Carcinoma Invasive,OSIMERTINIB,0
+Colorectal Carcinoma Invasive,NIVOlumab,5
+Colorectal Carcinoma Invasive,ABEMACICLIB,1
+Colorectal Carcinoma Invasive,EMTANSINA TRASTUZUMAB,0
+Colorectal Carcinoma Invasive,PERTuzumab,1
+Colorectal Carcinoma Invasive,PANItumumab,69
+Colorectal Carcinoma Invasive,ALECTINIB,1
+Colorectal Carcinoma Invasive,DABRAFENIB,3
+Colorectal Carcinoma Invasive,NIRAPARIB,0
+Colorectal Carcinoma Invasive,TRASTuzumab,15
+Colorectal Carcinoma Invasive,CABOZANTINIB,2
+Colorectal Carcinoma Invasive,DERUXTECAN TRASTUZUMAB,0
+Colorectal Carcinoma Invasive,RAMUCIRUMAB,4
+Colorectal Carcinoma Invasive,ATEZOlizumab,3
+Colorectal Carcinoma Invasive,BEVACIZUMAB,168
+Colorectal Carcinoma Invasive,OLAPARIB,1
+Colorectal Carcinoma Invasive,TRAMETINIB,9
+Colorectal Carcinoma Invasive,RIBOCICLIB,0
+Colorectal Carcinoma Invasive,DURVALUMAB,2
+Colorectal Carcinoma Invasive,LENVATINIB,1
+Colorectal Carcinoma Invasive,PALBOCICLIB,4
+Colorectal Carcinoma Invasive,TRIFLURIDINA TIPIRACILO,2
+Colorectal Carcinoma Invasive,IPILIMUMAB,3
+Colorectal Carcinoma Invasive,PAZOPANIB,1
+Colorectal Carcinoma Invasive,CRIZOTINIB,3
+Colorectal Carcinoma Invasive,TRABECTEDINA,0
+Colorectal Carcinoma Invasive,AVELumab,1
+Colorectal Carcinoma Invasive,LORLATINIB,0
+Colorectal Carcinoma Invasive,ENZALUTAMIDA,0
+Colorectal Carcinoma Invasive,AFATINIB,2
+Colorectal Carcinoma Invasive,CAPECITABINA,136
+Colorectal Carcinoma Invasive,CETUXIMAB,137
+Colorectal Carcinoma Invasive,PACLitaxel ALBUMINA,0
+Colorectal Carcinoma Invasive,AFLIBERCEPT,5
+Colorectal Carcinoma Invasive,SACITUZUMAB GOVITECAN,1
+Colorectal Carcinoma Invasive,eriBULina,0
+Colorectal Carcinoma Invasive,PACLITAXEL,55
+Colorectal Carcinoma Invasive,CLORURO DE SODIO,0
+Colorectal Carcinoma Invasive,ENCORAFENIB,2
+Colorectal Carcinoma Invasive,EVEROLIMUS,4
+Colorectal Carcinoma Invasive,VINORELBINA,2
+Colorectal Carcinoma Invasive,PEMETREXED,0
+Colorectal Carcinoma Invasive,BINIMETINIB,2
+Colorectal Carcinoma Invasive,CARBOPLATINO,15
+Colorectal Carcinoma Invasive,ABIRATERONA,0
+Colorectal Carcinoma Invasive,DENOSUMAB,0
+Colorectal Carcinoma Invasive,EVEROLIMUS,4
+Colorectal Carcinoma Invasive,FILGRASTIM,0
+Colorectal Carcinoma Invasive,FLUOROURACILO,848
+Colorectal Carcinoma Invasive,DOXORUBICINA,74
+Colorectal Carcinoma Invasive,GEMCITABINA,20
+Colorectal Carcinoma Invasive,REGORAFENIB,24
+Colorectal Carcinoma Invasive,SELPERCATINIB,1
+Colorectal Carcinoma Invasive,REMDESIVIR,0
+Colorectal Carcinoma Invasive,ENOXAPARINA,1
+Colorectal Carcinoma Invasive,IRINOTECAN,153
+Colorectal Carcinoma Invasive,NINTEDANIB,2
+Colorectal Carcinoma Invasive,PLERIXAFOR,3
+Colorectal Carcinoma Invasive,ALPELISIB,2
+Colorectal Carcinoma Invasive,RUCAPARIB,0
+Colorectal Carcinoma Invasive,ALBÚMINA,0
+Colorectal Carcinoma Invasive,TEMOZOLOMIDA,4
+Colorectal Carcinoma Invasive,OXALIPLATINO,355
+Colorectal Carcinoma Invasive,SOTORASIB,2
