@@ -1,5 +1,7 @@
-pymed==0.8.9
-requests==2.31.0
-pandas==2.1.1
-matplotlib==3.8.3
-seaborn==0.13.2
+pymed>=0.8.9
+requests>=2.31.0
+pandas>=2.1.1
+matplotlib>=3.8.3
+seaborn>=0.13.2
+streamlit>=1.31.1
+literature_mining==0.1
