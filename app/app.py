@@ -26,7 +26,8 @@ if st.sidebar.button('Analizar'):
         # Cargar datos desde los archivos CSV
         df_diseases = pd.read_csv(diseases_file)
         df_drugs = pd.read_csv(drugs_file)
-        df_adverse_effects = pd.read_csv(adverse_effects)
+        if adverse_effects is not None:
+            df_adverse_effects = pd.read_csv(adverse_effects)
         # Mostrar los datos cargados
         # Mostrar loader mientras se procesan los datos
         with left_column:
@@ -67,7 +68,7 @@ if st.sidebar.button('Analizar'):
                 results_df_wide_faers, top_events_faers = lt.data_preprocessing(results_faers)
                 
                 #Generar figura
-                fig_faers = lt.bar_plot_results(results_df_wide_faers, top_events_faers, num_columns = 2, xlab = results_faers.columns[0],
+                fig_faers = lt.bar_plot_results(results_df_wide_faers, top_events_faers, num_columns = 25, xlab = results_faers.columns[0],
                         plot_title ='Farmacos y efecto adverso. Source:Faers', legend_title = results_faers.columns[1])
                 
                 st.pyplot(fig_faers)
