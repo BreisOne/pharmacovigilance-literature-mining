@@ -29,3 +29,5 @@ Thumbs.db
 #Files
 notebooks/crossref-api-review.ipynb
 notebooks/resultados.json
+app/.streamlit/*
+app/header.png

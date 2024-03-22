@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 import literature_mining as lt 
 import base64
 
+# Obtener la API key de Faers
+api_key = st.secrets["FAERS_API_KEY"]
+
 # Configuración de la página
 st.title('Análisis de Enfermedades y Fármacos')
 
@@ -50,7 +53,7 @@ def analysis_layout(df_diseases, df_drugs, df_adverse_effects = None):
         # Busqueda en la API de faers de los efectos adversos
         with st.spinner('Haciendo consulta en FAERS...'):
             #Obtener resultados de la API de Faers
-            results_faers = lt.obtain_fda_results_from_list('pqnh6L01FAfMHzGvbu6PoEXoHoqQLIXFgxWCAaoH', df_drugs)
+            results_faers = lt.obtain_fda_results_from_list(api_key, df_drugs)
                 
         with st.spinner('Generando gráficos...'):
                 
