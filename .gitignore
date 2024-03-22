@@ -25,3 +25,7 @@ ENV/
 
 # Windows
 Thumbs.db
+
+#Files
+notebooks/crossref-api-review.ipynb
+notebooks/resultados.json
