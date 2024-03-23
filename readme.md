@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/760383775.svg)](https://zenodo.org/doi/10.5281/zenodo.10863934)
+
 # PubMed Co-occurrence and FAERS Analysis
 
 This application performs a co-occurrence analysis on PubMed of two lists of terms. The use case of the application would be diseases (list 1) and drugs (list 2). The app also extracts the adverse effects from the list of drugs and allows an optional third list to filter out the adverse effects of interest.
@@ -54,3 +56,10 @@ If you find any bugs, have ideas for new features or improvements, or simply wan
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Citation
+If you use this repository in your work, please cite it as follows:
+
+```
+Bea-Mascato, B. (2024). BreisOne/literature-mining: Literature-mining app v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.10863935
+```
