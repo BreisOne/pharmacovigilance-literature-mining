@@ -17,7 +17,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Función para cargar los DataFrames de ejemplo desde la carpeta example_data
 def load_example_dataframe(filename):
-    return pd.read_csv(f'example_data/{filename}')
+    return pd.read_csv(f'./app/example_data/{filename}')
 
 # Función para generar enlace de descarga para un DataFrame en CSV
 def get_table_download_link(df, filename):
@@ -92,9 +92,6 @@ st.sidebar.markdown(get_table_download_link(df_example_adverse_effects, 'Plantil
 
 left_column, right_column = st.columns(2)
 
-if diseases_file is None and drugs_file is None:
-    analysis_layout(df_example_diseases, df_example_drugs, df_example_adverse_effects)
-
 # Botón para realizar el análisis
 if st.sidebar.button('Analizar'):
     if diseases_file is not None and drugs_file is not None:
@@ -107,3 +104,7 @@ if st.sidebar.button('Analizar'):
         analysis_layout(df_diseases, df_drugs, df_adverse_effects)
     else:
         st.warning('Por favor, carga ambos archivos CSV antes de analizar.')
+        
+#Realizar un análisis de ejemplo para mostrar como se debería ver el resultado
+if st.sidebar.button('Analisis de Ejemplo'):
+    analysis_layout(df_example_diseases, df_example_drugs, df_example_adverse_effects)

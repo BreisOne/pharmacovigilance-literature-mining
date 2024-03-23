@@ -33,5 +33,5 @@ figures/
 #Files
 notebooks/crossref-api-review.ipynb
 notebooks/resultados.json
-app/.streamlit/*
+.streamlit/*
 app/header.png
