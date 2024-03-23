@@ -28,8 +28,6 @@ Thumbs.db
 
 #Folders
 results/
-figures/
-
 #Files
 notebooks/crossref-api-review.ipynb
 notebooks/resultados.json
