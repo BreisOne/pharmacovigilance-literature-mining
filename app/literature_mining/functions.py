@@ -13,9 +13,9 @@ def get_results_count(query):
 
 # Función para procesar una única combinación de tipos de tumor y fármacos
 def process_combination(disease, drug):
-    query = f"{disease} AND {drug}"
-    results_count = get_results_count(query)
-    return {'TipoTumor': disease, 'Farmaco': drug, 'Resultados': results_count}
+        query = f"{disease} AND {drug}"
+        results_count = get_results_count(query)
+        return {'TipoTumor': disease, 'Farmaco': drug, 'Resultados': results_count}
 
 
 def obtain_fda_results(api_key, drug_term):
@@ -129,18 +129,21 @@ def bar_plot_results(results_df_wide, top_events, num_columns = 25, xlab = 'Fár
 def iterative_pubmed_search(first_list, second_list):
     # Inicializar una lista para almacenar los resultados
     results_list = []
+    
+    try:
+        # Bucle anidado para combinar tipos de tumor y fármacos
+        for first_list_element in first_list[first_list.columns[0]]:
+            for second_list_element in second_list[second_list.columns[0]]:
+                # Crear la consulta combinando el tipo de tumor y el fármaco
+                query = f"{first_list_element} AND {second_list_element}"
+                # Obtener el número de resultados
+                results_count = get_results_count(query)
+                # Agregar los resultados a la lista
+                results_list.append({f'{first_list.columns[0]}': first_list_element, f'{second_list.columns[0]}': second_list_element, 'Resultados': results_count})
 
-    # Bucle anidado para combinar tipos de tumor y fármacos
-    for first_list_element in first_list[first_list.columns[0]]:
-        for second_list_element in second_list[second_list.columns[0]]:
-            # Crear la consulta combinando el tipo de tumor y el fármaco
-            query = f"{first_list_element} AND {second_list_element}"
-            # Obtener el número de resultados
-            results_count = get_results_count(query)
-            # Agregar los resultados a la lista
-            results_list.append({f'{first_list.columns[0]}': first_list_element, f'{second_list.columns[0]}': second_list_element, 'Resultados': results_count})
-
-    # Crear un DataFrame a partir de la lista de resultados
-    results_df = pd.DataFrame(results_list)
-    return results_df
+        # Crear un DataFrame a partir de la lista de resultados
+        results_df = pd.DataFrame(results_list)
+        return results_df
+    except requests.exceptions.RequestException as e:
+        print(f"Error en la búsqueda itearitiva de PUBMED: {e}")
     
