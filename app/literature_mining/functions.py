@@ -55,7 +55,7 @@ def obtain_fda_results_from_list(api_key, drugs):
     
     df_results = pd.DataFrame(columns=['farmaco', 'term', 'count'])
 
-    for drug in drugs['Farmaco']:
+    for drug in drugs[drugs.columns[0]]:
         data = obtain_fda_results(api_key,drug)
         
         # Verificar si 'results' está presente en data

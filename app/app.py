@@ -100,6 +100,8 @@ if st.sidebar.button('Analizar'):
         df_drugs = pd.read_csv(drugs_file)
         if adverse_effects is not None:
             df_adverse_effects = pd.read_csv(adverse_effects)
+        else:
+            df_adverse_effects = None
         # Hacer el analisis y mostrar los resultados
         analysis_layout(df_diseases, df_drugs, df_adverse_effects)
     else:
