@@ -13,7 +13,7 @@ st.title('Análisis de Enfermedades y Fármacos')
 #header_image = './header.png'  # Reemplaza esto con la URL de tu imagen
 # st.image(header_image, use_column_width=True)
 # st.set_option('deprecation.showPyplotGlobalUse', False)
-pd.set_option('future.no_silent_downcasting', True)
+# pd.set_option('future.no_silent_downcasting', True)
 
 # Función para cargar los DataFrames de ejemplo desde la carpeta example_data
 def load_example_dataframe(filename):
