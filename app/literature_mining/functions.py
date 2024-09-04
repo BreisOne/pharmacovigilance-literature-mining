@@ -103,19 +103,20 @@ def data_preprocessing(results_df, rows = "farmaco", columns = "term", cellValue
     results_df_wide = results_df_wide[[rows] + list(top_events.index)]
     results_df_wide.set_index(rows, inplace=True)
 
-    results_df = results_df_wide.fillna(0)
+    results_df = results_df_wide.fillna(0).infer_objects(copy=False)
     
     return results_df, top_events
 
 def bar_plot_results(results_df_wide, top_events, num_columns = 25, xlab = 'Fármacos', 
                      plot_title ='Farmacos y efecto adverso. Source:Faers', legend_title = 'Efecto adverso'):
     # Visualizar los resultados de cada farmaco en función del tipo de tumor
+    fig, ax = plt.subplots(figsize=(10, 6))
 
     # Configura la paleta de colores única para cada fármaco con Seaborn
     colors = sns.color_palette("Set3", n_colors=len(top_events))
 
     # Creamos un gráfico de barras apiladas
-    ax = results_df_wide.head(num_columns).plot(kind='bar', stacked=True, figsize=(10, 6), color = colors, width=0.8)
+    results_df_wide.head(num_columns).plot(kind='bar', stacked=True, ax=ax, color = colors, width=0.8)
 
     # Añadimos etiquetas y título
     ax.set_xlabel(xlab, fontsize=12)
@@ -124,7 +125,8 @@ def bar_plot_results(results_df_wide, top_events, num_columns = 25, xlab = 'Fár
     ax.legend(title= legend_title, bbox_to_anchor=(1.05, 1), loc='upper left')  # Colocar la leyenda a la derecha
     plt.xticks(rotation=45, ha='right')  # Rotar las etiquetas del eje x
     plt.tight_layout()  # Ajustar el diseño del gráfico
-    plt.show()
+    
+    return fig
     
 def iterative_pubmed_search(first_list, second_list):
     # Inicializar una lista para almacenar los resultados
