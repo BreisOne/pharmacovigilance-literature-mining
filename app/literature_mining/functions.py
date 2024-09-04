@@ -103,7 +103,7 @@ def data_preprocessing(results_df, rows = "farmaco", columns = "term", cellValue
     results_df_wide = results_df_wide[[rows] + list(top_events.index)]
     results_df_wide.set_index(rows, inplace=True)
 
-    results_df = results_df_wide.fillna(0).infer_objects(copy=False)
+    results_df = results_df_wide.infer_objects(copy=False)
     
     return results_df, top_events
 
