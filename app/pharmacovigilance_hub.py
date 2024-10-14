@@ -7,7 +7,7 @@ import base64
 api_key = st.secrets["FAERS_API_KEY"]
 
 # Configuración de la página
-st.title('Análisis de Enfermedades y Fármacos')
+st.title('Pharmacovigilance and literature mining hub')
 
 # Función para cargar los DataFrames de ejemplo desde la carpeta example_data
 def load_example_dataframe(filename):
