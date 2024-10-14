@@ -13,7 +13,7 @@ def get_results_count(query):
         return pubmed.getTotalResultsCount(query)
     except Exception as e:
         print(f"Error al obtener resultados para la consulta '{query}': {e}")
-
+        return None
 # Función para procesar una única combinación de tipos de tumor y fármacos
 def process_combination(disease, drug):
         query = f"{disease} AND {drug}"
@@ -53,7 +53,8 @@ def obtain_fda_results(api_key, drug_term):
     
     except requests.exceptions.RequestException as e:
         print(f"Error en la llamada a la API para {drug_term}: {e}")
-
+        return None
+    
 def obtain_fda_results_from_list(api_key, drugs):
     
     df_results = pd.DataFrame(columns=['farmaco', 'term', 'count'])
