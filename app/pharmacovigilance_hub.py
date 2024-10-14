@@ -11,6 +11,7 @@ st.set_page_config(
                 page_title="Pharmacovigilance and literature mining hub",
                 page_icon="💊",
                 layout="wide")
+
 st.title('Pharmacovigilance and literature mining hub')
 
 # Función para cargar los DataFrames de ejemplo desde la carpeta example_data
