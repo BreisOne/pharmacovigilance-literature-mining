@@ -7,7 +7,10 @@ import base64
 api_key = st.secrets["FAERS_API_KEY"]
 
 # Configuración de la página
-st.set_page_config(layout="wide")
+st.set_page_config(
+                page_title="Pharmacovigilance and literature mining hub",
+                page_icon="💊",
+                layout="wide")
 st.title('Pharmacovigilance and literature mining hub')
 
 # Función para cargar los DataFrames de ejemplo desde la carpeta example_data
