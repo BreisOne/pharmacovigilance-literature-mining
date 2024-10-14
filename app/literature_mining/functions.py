@@ -8,8 +8,11 @@ import seaborn as sns
 
 # Función para obtener el número de resultados
 def get_results_count(query):
-    pubmed = PubMed(tool="MyTool", email="b.mascat@gmail.com")
-    return pubmed.getTotalResultsCount(query)
+    pubmed = PubMed(tool="MyTool", email="testemails@gmail.com")
+    try:
+        return pubmed.getTotalResultsCount(query)
+    except Exception as e:
+        print(f"Error al obtener resultados para la consulta '{query}': {e}")
 
 # Función para procesar una única combinación de tipos de tumor y fármacos
 def process_combination(disease, drug):

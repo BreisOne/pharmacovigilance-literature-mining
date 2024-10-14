@@ -9,12 +9,6 @@ api_key = st.secrets["FAERS_API_KEY"]
 # Configuración de la página
 st.title('Análisis de Enfermedades y Fármacos')
 
-# Imagen de encabezado
-#header_image = './header.png'  # Reemplaza esto con la URL de tu imagen
-# st.image(header_image, use_column_width=True)
-# st.set_option('deprecation.showPyplotGlobalUse', False)
-# pd.set_option('future.no_silent_downcasting', True)
-
 # Función para cargar los DataFrames de ejemplo desde la carpeta example_data
 def load_example_dataframe(filename):
     return pd.read_csv(f'./app/example_data/{filename}')
@@ -34,19 +28,23 @@ def analysis_layout(df_diseases, df_drugs, df_adverse_effects = None):
             
             # Obtener resultados mediante la API (simulado en este ejemplo)
             pubmed_results = lt.iterative_pubmed_search(df_diseases, df_drugs)
-
-        # Graficar resultados y actualizar en la zona central
-        with st.spinner('Generando gráficos...'):
+            
+            # Verificar si pubmed_results está vacío o es nulo
+            if pubmed_results is None or pubmed_results.empty:
+                st.info("Se ha alcanzado el límite de llamadas a la API de PubMed. Por favor, intente de nuevo más tarde.")
+            else:
+                # Graficar resultados y actualizar en la zona central
+                with st.spinner('Generando gráficos...'):
                 
-            #Preprocesado del dataframe 
-            results_df_wide_pubmed, top_events_pubmed = lt.data_preprocessing(pubmed_results, rows = df_diseases.columns[0], columns = df_drugs.columns[0], cellValues = "Resultados", num_top_events = 12)
-                
-            #Generar figura
-            fig_pubmed = lt.bar_plot_results(results_df_wide_pubmed, top_events_pubmed, num_columns = 25, xlab = df_diseases.columns[0], 
-            plot_title ='Estudios de co-ocurrencia por enfermedad y farmaco. Source:PubMed', legend_title = df_drugs.columns[0])
-                
-            st.pyplot(fig_pubmed)
-            st.write(pubmed_results)
+                    #Preprocesado del dataframe 
+                    results_df_wide_pubmed, top_events_pubmed = lt.data_preprocessing(pubmed_results, rows = df_diseases.columns[0], columns = df_drugs.columns[0], cellValues = "Resultados", num_top_events = 12)
+                    
+                    #Generar figura
+                    fig_pubmed = lt.bar_plot_results(results_df_wide_pubmed, top_events_pubmed, num_columns = 25, xlab = df_diseases.columns[0], 
+                    plot_title ='Estudios de co-ocurrencia por enfermedad y farmaco. Source:PubMed', legend_title = df_drugs.columns[0])
+                    
+                    st.pyplot(fig_pubmed)
+                    st.write(pubmed_results)
         
     with right_column:
         st.write('### Faers:')
