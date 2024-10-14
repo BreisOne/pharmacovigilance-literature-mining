@@ -12,13 +12,13 @@ def get_results_count(query):
     try:
         return pubmed.getTotalResultsCount(query)
     except Exception as e:
-        print(f"Error al obtener resultados para la consulta '{query}': {e}")
+        print(f"Error getting results for the query '{query}': {e}")
         return None
 # Función para procesar una única combinación de tipos de tumor y fármacos
 def process_combination(disease, drug):
         query = f"{disease} AND {drug}"
         results_count = get_results_count(query)
-        return {'TipoTumor': disease, 'Farmaco': drug, 'Resultados': results_count}
+        return {'Disease': disease, 'Drug': drug, 'Results': results_count}
 
 
 def obtain_fda_results(api_key, drug_term):
@@ -48,16 +48,16 @@ def obtain_fda_results(api_key, drug_term):
             # Devolver el json resultante
             return data
         else:
-            print(f"No se encontraron resultados para {drug_term}")
+            print(f"No results found for {drug_term}")
             return None
     
     except requests.exceptions.RequestException as e:
-        print(f"Error en la llamada a la API para {drug_term}: {e}")
+        print(f"Error in the API call for {drug_term}: {e}")
         return None
     
 def obtain_fda_results_from_list(api_key, drugs):
     
-    df_results = pd.DataFrame(columns=['farmaco', 'term', 'count'])
+    df_results = pd.DataFrame(columns=['Drug', 'Term', 'Count'])
 
     for drug in drugs[drugs.columns[0]]:
         data = obtain_fda_results(api_key,drug)
@@ -66,7 +66,7 @@ def obtain_fda_results_from_list(api_key, drugs):
         if data is not None and 'results' in data:
             # Crear un DataFrame para los resultados del farmaco actual
             df_drug = pd.DataFrame(data['results'])
-            df_drug['farmaco'] = drug
+            df_drug['Drug'] = drug
             
             # Concatenar al DataFrame principal
             df_results = pd.concat([df_results, df_drug], ignore_index=True)
@@ -78,7 +78,7 @@ def obtain_fda_results_from_list(api_key, drugs):
 
 #Funcion de preprocesado de datos
 
-def data_preprocessing(results_df, rows = "farmaco", columns = "term", cellValues = "count", num_top_events = 12):
+def data_preprocessing(results_df, rows = "Drug", columns = "Term", cellValues = "Count", num_top_events = 12):
     #Preprocesamieto del dataframe
 
     # Utilizamos la función pivot_table (gestiona duplicados) para convertir el DataFrame largo a uno ancho
@@ -100,10 +100,10 @@ def data_preprocessing(results_df, rows = "farmaco", columns = "term", cellValue
     results_df_wide.set_index(rows, inplace=True)
 
     # Suma el total de resultados de los 15 fármacos para cada tipo de tumor y crea una nueva columna llamada 'TotalResultados'
-    results_df_wide['TotalResultados'] = results_df_wide[list(top_events.index)].sum(axis=1)
+    results_df_wide['TotalResults'] = results_df_wide[list(top_events.index)].sum(axis=1)
 
     # Ordena el DataFrame por la nueva columna 'TotalResultados' en orden descendente
-    results_df_wide = results_df_wide.sort_values(by='TotalResultados', ascending=False).reset_index()
+    results_df_wide = results_df_wide.sort_values(by='TotalResults', ascending=False).reset_index()
     results_df_wide = results_df_wide[[rows] + list(top_events.index)]
     results_df_wide.set_index(rows, inplace=True)
 
@@ -111,8 +111,8 @@ def data_preprocessing(results_df, rows = "farmaco", columns = "term", cellValue
     
     return results_df, top_events
 
-def bar_plot_results(results_df_wide, top_events, num_columns = 25, xlab = 'Fármacos', 
-                     plot_title ='Farmacos y efecto adverso. Source:Faers', legend_title = 'Efecto adverso'):
+def bar_plot_results(results_df_wide, top_events, num_columns = 25, xlab = 'Drugs', 
+                     plot_title ='Drugs and adverse effect. Source:Faers', legend_title = 'Adverse effect'):
     # Visualizar los resultados de cada farmaco en función del tipo de tumor
     fig, ax = plt.subplots(figsize=(10, 6))
 
@@ -124,7 +124,7 @@ def bar_plot_results(results_df_wide, top_events, num_columns = 25, xlab = 'Fár
 
     # Añadimos etiquetas y título
     ax.set_xlabel(xlab, fontsize=12)
-    ax.set_ylabel('Número de Resultados', fontsize=12)
+    ax.set_ylabel('Number of results', fontsize=12)
     ax.set_title(plot_title, fontsize=14)
     ax.legend(title= legend_title, bbox_to_anchor=(1.05, 1), loc='upper left')  # Colocar la leyenda a la derecha
     plt.xticks(rotation=45, ha='right')  # Rotar las etiquetas del eje x
@@ -145,11 +145,11 @@ def iterative_pubmed_search(first_list, second_list):
                 # Obtener el número de resultados
                 results_count = get_results_count(query)
                 # Agregar los resultados a la lista
-                results_list.append({f'{first_list.columns[0]}': first_list_element, f'{second_list.columns[0]}': second_list_element, 'Resultados': results_count})
+                results_list.append({f'{first_list.columns[0]}': first_list_element, f'{second_list.columns[0]}': second_list_element, 'Results': results_count})
 
         # Crear un DataFrame a partir de la lista de resultados
         results_df = pd.DataFrame(results_list)
         return results_df
     except requests.exceptions.RequestException as e:
-        print(f"Error en la búsqueda itearitiva de PUBMED: {e}")
+        print(f"Error in the iterative PUBMED search: {e}")
     
