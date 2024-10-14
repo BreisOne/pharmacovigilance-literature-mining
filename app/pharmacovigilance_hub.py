@@ -59,14 +59,14 @@ def analysis_layout(df_diseases, df_drugs, df_adverse_effects = None):
             # Verificar si la lista adverse_effects no es nula
             if df_adverse_effects is not None:
                 retain_terms = list(df_adverse_effects[df_adverse_effects.columns[0]])
-                results_faers = results_faers[results_faers['Term'].str.lower().isin([adverse_effect.lower() for adverse_effect in retain_terms])]
+                results_faers = results_faers[results_faers['term'].str.lower().isin([adverse_effect.lower() for adverse_effect in retain_terms])]
                 
             #Preprocesado del daframe
             results_df_wide_faers, top_events_faers = lt.data_preprocessing(results_faers)
                 
             #Generar figura
-            fig_faers = lt.bar_plot_results(results_df_wide_faers, top_events_faers, num_columns = 25, xlab = results_faers.columns[0],
-            plot_title ='Drugs and adverse effect. Source:Faers', legend_title = results_faers.columns[1])
+            fig_faers = lt.bar_plot_results(results_df_wide_faers, top_events_faers, num_columns = 25, xlab = results_faers.columns[0].capitalize(),
+            plot_title ='Drugs and adverse effect. Source:Faers', legend_title = results_faers.columns[1].capitalize())
                 
             st.pyplot(fig_faers)
             st.dataframe(results_faers, use_container_width=True)

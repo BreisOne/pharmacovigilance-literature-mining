@@ -18,7 +18,7 @@ def get_results_count(query):
 def process_combination(disease, drug):
         query = f"{disease} AND {drug}"
         results_count = get_results_count(query)
-        return {'Disease': disease, 'Drug': drug, 'Results': results_count}
+        return {'disease': disease, 'drug': drug, 'results': results_count}
 
 
 def obtain_fda_results(api_key, drug_term):
@@ -57,7 +57,7 @@ def obtain_fda_results(api_key, drug_term):
     
 def obtain_fda_results_from_list(api_key, drugs):
     
-    df_results = pd.DataFrame(columns=['Drug', 'Term', 'Count'])
+    df_results = pd.DataFrame(columns=['drug', 'term', 'count'])
 
     for drug in drugs[drugs.columns[0]]:
         data = obtain_fda_results(api_key,drug)
@@ -66,11 +66,11 @@ def obtain_fda_results_from_list(api_key, drugs):
         if data is not None and 'results' in data:
             # Crear un DataFrame para los resultados del farmaco actual
             df_drug = pd.DataFrame(data['results'])
-            df_drug['Drug'] = drug
+            df_drug['drug'] = drug
             
             # Concatenar al DataFrame principal
             df_results = pd.concat([df_results, df_drug], ignore_index=True)
-        
+            print(df_results)
         # Añadir un tiempo de espera de 1 segundo
         time.sleep(1)
 
@@ -78,7 +78,7 @@ def obtain_fda_results_from_list(api_key, drugs):
 
 #Funcion de preprocesado de datos
 
-def data_preprocessing(results_df, rows = "Drug", columns = "Term", cellValues = "Count", num_top_events = 12):
+def data_preprocessing(results_df, rows = "drug", columns = "term", cellValues = "count", num_top_events = 12):
     #Preprocesamieto del dataframe
 
     # Utilizamos la función pivot_table (gestiona duplicados) para convertir el DataFrame largo a uno ancho
