@@ -6,7 +6,7 @@
     "codespaces": {
       "openFiles": [
         "README.md",
-        "app/app.py"
+        "app/pharmacovigilance_hub.py"
       ]
     },
     "vscode": {
