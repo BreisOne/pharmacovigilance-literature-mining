@@ -7,7 +7,11 @@ import base64
 api_key = st.secrets["FAERS_API_KEY"]
 
 # Configuración de la página
-st.set_page_config(layout="wide")
+st.set_page_config(
+                page_title="Pharmacovigilance and literature mining hub",
+                page_icon="💊",
+                layout="wide")
+
 st.title('Pharmacovigilance and literature mining hub')
 
 # Función para cargar los DataFrames de ejemplo desde la carpeta example_data
@@ -35,7 +39,7 @@ def analysis_layout(df_diseases, df_drugs, df_adverse_effects = None):
                 st.info("You have reached the limit of calls to the PubMed API. Please try again later.")
             else:
                 # Graficar resultados y actualizar en la zona central
-                with st.spinner('Generating plots...'):
+                with st.spinner('Generating graphics...'):
                 
                     #Preprocesado del dataframe 
                     results_df_wide_pubmed, top_events_pubmed = lt.data_preprocessing(pubmed_results, rows = df_diseases.columns[0], columns = df_drugs.columns[0], cellValues = "Results", num_top_events = 12)
@@ -46,15 +50,15 @@ def analysis_layout(df_diseases, df_drugs, df_adverse_effects = None):
                     
                     st.pyplot(fig_pubmed)
                     st.dataframe(pubmed_results, use_container_width=True)
-        
+
     with right_column:
         st.write('### Faers:')
         # Busqueda en la API de faers de los efectos adversos
-        with st.spinner('Searching in FAERS...'):
+        with st.spinner('Making query in FAERS...'):
             #Obtener resultados de la API de Faers
             results_faers = lt.obtain_fda_results_from_list(api_key, df_drugs)
                 
-        with st.spinner('Generating plots...'):
+        with st.spinner('Generating graphics...'):
                 
             # Verificar si la lista adverse_effects no es nula
             if df_adverse_effects is not None:
@@ -65,8 +69,8 @@ def analysis_layout(df_diseases, df_drugs, df_adverse_effects = None):
             results_df_wide_faers, top_events_faers = lt.data_preprocessing(results_faers)
                 
             #Generar figura
-            fig_faers = lt.bar_plot_results(results_df_wide_faers, top_events_faers, num_columns = 25, xlab = results_faers.columns[0].capitalize(),
-            plot_title ='Drugs and adverse effect. Source:Faers', legend_title = results_faers.columns[1].capitalize())
+            fig_faers = lt.bar_plot_results(results_df_wide_faers, top_events_faers, num_columns = 25, xlab = results_faers.columns[0],
+            plot_title ='Drugs and adverse effect. Source:Faers', legend_title = results_faers.columns[1])
                 
             st.pyplot(fig_faers)
             st.dataframe(results_faers.rename(columns=lambda x: x.capitalize()), use_container_width=True)
@@ -80,19 +84,19 @@ df_example_adverse_effects = load_example_dataframe('efectos_adversos.csv')
 # Barra lateral para cargar archivos CSV
 st.sidebar.header('Upload CSV files')
 # Cuadro de texto para input del usuario
-diseases_file = st.sidebar.file_uploader('Select the Diseases CSV', type=['csv'])
+diseases_file = st.sidebar.file_uploader('Select the CSV of Diseases', type=['csv'])
 st.sidebar.markdown(get_table_download_link(df_example_diseases, 'diseases_template.csv'), unsafe_allow_html=True)
 
-drugs_file = st.sidebar.file_uploader('Select the Drugs CSV', type=['csv'])
-st.sidebar.markdown(get_table_download_link(df_example_drugs, 'drugs_template.csv' ), unsafe_allow_html=True)
+drugs_file = st.sidebar.file_uploader('Select the CSV of Drugs', type=['csv'])
+st.sidebar.markdown(get_table_download_link(df_example_drugs, 'drugs_template.csv'), unsafe_allow_html=True)
 
-adverse_effects = st.sidebar.file_uploader('Select the Adverse effects CSV: Not obligatory', type=['csv'])
+adverse_effects = st.sidebar.file_uploader('Select the CSV of Adverse Effects: Not obligatory', type=['csv'])
 st.sidebar.markdown(get_table_download_link(df_example_adverse_effects, 'adverse_effects_template.csv'), unsafe_allow_html=True)
 
 left_column, right_column = st.columns(2)
 
 # Botón para realizar el análisis
-if st.sidebar.button('  Analyze  '):
+if st.sidebar.button('Analyze'):
     if diseases_file is not None and drugs_file is not None:
         # Cargar datos desde los archivos CSV
         df_diseases = pd.read_csv(diseases_file)
@@ -104,8 +108,8 @@ if st.sidebar.button('  Analyze  '):
         # Hacer el analisis y mostrar los resultados
         analysis_layout(df_diseases, df_drugs, df_adverse_effects)
     else:
-        st.warning('Please, load both CSV files before analyzing.')
+        st.warning('Please upload both CSV files before analyzing.')
         
 #Realizar un análisis de ejemplo para mostrar como se debería ver el resultado
-if st.sidebar.button('Example analysis'):
+if st.sidebar.button('Example Analysis'):
     analysis_layout(df_example_diseases, df_example_drugs, df_example_adverse_effects)
