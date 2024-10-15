@@ -70,7 +70,6 @@ def obtain_fda_results_from_list(api_key, drugs):
             
             # Concatenar al DataFrame principal
             df_results = pd.concat([df_results, df_drug], ignore_index=True)
-            print(df_results)
         # Añadir un tiempo de espera de 1 segundo
         time.sleep(1)
 

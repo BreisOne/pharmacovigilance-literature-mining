@@ -69,7 +69,7 @@ def analysis_layout(df_diseases, df_drugs, df_adverse_effects = None):
             plot_title ='Drugs and adverse effect. Source:Faers', legend_title = results_faers.columns[1].capitalize())
                 
             st.pyplot(fig_faers)
-            st.dataframe(results_faers, use_container_width=True)
+            st.dataframe(results_faers.rename(columns=lambda x: x.capitalize()), use_container_width=True)
 
 # Cargar los DataFrames de ejemplo
 df_example_diseases = load_example_dataframe('tipo_tumores.csv')
