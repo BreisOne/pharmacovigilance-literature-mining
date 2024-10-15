@@ -22,31 +22,31 @@ def load_example_dataframe(filename):
 def get_table_download_link(df, filename):
     csv = df.to_csv(index=False)
     b64 = base64.b64encode(csv.encode()).decode()
-    href = f'<a href="data:file/csv;base64,{b64}" download="{filename}">Download {filename}</a>'
+    href = f'<a href="data:file/csv;base64,{b64}" download="{filename}">Descargar {filename}</a>'
     return href
 
 def analysis_layout(df_diseases, df_drugs, df_adverse_effects = None):
            
     with left_column:
         st.write('### Pubmed:')
-        with st.spinner('Processing data in PubMed...'):
+        with st.spinner('Procesando datos en PubMed...'):
             
             # Obtener resultados mediante la API (simulado en este ejemplo)
             pubmed_results = lt.iterative_pubmed_search(df_diseases, df_drugs)
             
             # Verificar si pubmed_results está vacío o es nulo
             if pubmed_results is None or pubmed_results.empty:
-                st.info("You have reached the limit of calls to the PubMed API. Please try again later.")
+                st.info("Se ha alcanzado el límite de llamadas a la API de PubMed. Por favor, intente de nuevo más tarde.")
             else:
                 # Graficar resultados y actualizar en la zona central
                 with st.spinner('Generating graphics...'):
                 
                     #Preprocesado del dataframe 
-                    results_df_wide_pubmed, top_events_pubmed = lt.data_preprocessing(pubmed_results, rows = df_diseases.columns[0], columns = df_drugs.columns[0], cellValues = "Results", num_top_events = 12)
+                    results_df_wide_pubmed, top_events_pubmed = lt.data_preprocessing(pubmed_results, rows = df_diseases.columns[0], columns = df_drugs.columns[0], cellValues = "Resultados", num_top_events = 12)
                     
                     #Generar figura
                     fig_pubmed = lt.bar_plot_results(results_df_wide_pubmed, top_events_pubmed, num_columns = 25, xlab = df_diseases.columns[0], 
-                    plot_title ='Studies of co-occurrence by disease and drug. Source:PubMed', legend_title = df_drugs.columns[0])
+                    plot_title ='Estudios de co-ocurrencia por enfermedad y farmaco. Source:PubMed', legend_title = df_drugs.columns[0])
                     
                     st.pyplot(fig_pubmed)
                     st.dataframe(pubmed_results, use_container_width=True)
@@ -82,7 +82,7 @@ df_example_adverse_effects = load_example_dataframe('efectos_adversos.csv')
 
 
 # Barra lateral para cargar archivos CSV
-st.sidebar.header('Upload CSV files')
+st.sidebar.header('Cargar archivos CSV')
 # Cuadro de texto para input del usuario
 diseases_file = st.sidebar.file_uploader('Select the CSV of Diseases', type=['csv'])
 st.sidebar.markdown(get_table_download_link(df_example_diseases, 'diseases_template.csv'), unsafe_allow_html=True)
