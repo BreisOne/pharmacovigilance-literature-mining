@@ -42,7 +42,7 @@ def analysis_layout(df_diseases, df_drugs, df_adverse_effects = None):
                 with st.spinner('Generating graphics...'):
                 
                     #Preprocesado del dataframe 
-                    results_df_wide_pubmed, top_events_pubmed = lt.data_preprocessing(pubmed_results, rows = df_diseases.columns[0], columns = df_drugs.columns[0], cellValues = "Resultados", num_top_events = 12)
+                    results_df_wide_pubmed, top_events_pubmed = lt.data_preprocessing(pubmed_results, rows = df_diseases.columns[0], columns = df_drugs.columns[0], cellValues = "Results", num_top_events = 12)
                     
                     #Generar figura
                     fig_pubmed = lt.bar_plot_results(results_df_wide_pubmed, top_events_pubmed, num_columns = 25, xlab = df_diseases.columns[0], 
