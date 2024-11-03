@@ -55,7 +55,7 @@ If you find any bugs, have ideas for new features or improvements, or simply wan
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [AGPLv3 License](LICENSE).
 
 ## Citation
 If you use this repository in your work, please cite it as follows:
